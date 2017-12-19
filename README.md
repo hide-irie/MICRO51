@@ -1,5 +1,5 @@
-# micro50
-This is a jekyll based template for the MICRO 50 Website. Please feel free to use it for future MICROs. It also uses twitter bootstrap.
+# micro51
+This is a jekyll based template for the MICRO 51 Website. Please feel free to use it for future MICROs. It also uses twitter bootstrap.
 
 # Dependencies
 * Jekyll

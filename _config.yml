@@ -15,9 +15,9 @@ sass:
 #    smart_quotes: ["apos", "apos", "quot", "quot"]
 
 # Setup
-title:            'MICRO 50 Website'
-description:      'MICRO 2017 Conference'
-baseurl:          'https://www.microarch.org/micro50'
+title:            'MICRO 51 Website'
+description:      'MICRO 2018 Conference'
+baseurl:          'https://www.microarch.org/micro51'
 
 
 #paginate:         5
@@ -28,10 +28,10 @@ baseurl:          'https://www.microarch.org/micro50'
 
 # About/contact
 author:
-  name:            'Arrvindh Shriraman'
-  url:             http://www.cs.sfu.ca/~ashriram/
-  email:           ashriram@cs.sfu.ca
-  github:          https://github.com/ashriram
+  name:            'Hidetsugu Irie'
+  url:              http://www.mtl.t.u-tokyo.ac.jp/~irie/en/
+  email:           irie@mtl.t.u-tokyo.ac.jp
+  github:          https://github.com/hide-irie
  
 # Custom vars
 version:           1.0.0

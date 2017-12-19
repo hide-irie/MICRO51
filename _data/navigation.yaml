@@ -3,50 +3,50 @@
 - title: Home
   url: index.html
 
-- title: Reviewers
-  url: Review/
+#- title: Reviewers
+#  url: Review/
 
-- title: Submissions
-  sublinks:
-    - title: Call for Papers
-      url: CFP/
-    - title: Call for Workshops
-      url: public/downloads/CFP_Workshop_Tutorial.pdf
-    - title: Submission Instructions
-      url: Submission/
-    - title: Submission Site
-      url: Site/
+#- title: Submissions
+#  sublinks:
+#    - title: Call for Papers
+#      url: CFP/
+#    - title: Call for Workshops
+#      url: public/downloads/CFP_Workshop_Tutorial.pdf
+#    - title: Submission Instructions
+#      url: Submission/
+#    - title: Submission Site
+#      url: Site/
 
-- title: Authors
-  sublinks:
-    - title: Camera Ready
-      url: Camera/
-    - title: Visa
-      url: Visa/
+#- title: Authors
+#  sublinks:
+#    - title: Camera Ready
+#      url: Camera/
+#    - title: Visa
+#      url: Visa/
 
-- title: Technical Sessions
-  sublinks:
-    - title: Workshop and Tutorials
-      url: Program/workshop/index.html
-    - title: Main Program
-      url: Program/main/index.html
+#- title: Technical Sessions
+#  sublinks:
+#    - title: Workshop and Tutorials
+#      url: Program/workshop/index.html
+#    - title: Main Program
+#      url: Program/main/index.html
 
-- title: Attend
-  sublinks:
-    - title: Registration
-      url: Registration/
-    - title: Hotel
-      url: Hotel/
-    - title: Visa
-      url: Visa/
-    - title: Student Travel Award
-      url: StudentTravel/
+#- title: Attend
+#  sublinks:
+#    - title: Registration
+#      url: Registration/
+#    - title: Hotel
+#      url: Hotel/
+#    - title: Visa
+#      url: Visa/
+#    - title: Student Travel Award
+#      url: StudentTravel/
 
-- title: Organization
-  sublinks:
-    - title: Organizers
-      url: Organization/
-    - title: Program Committee
-      url: PC/
-    - title: External Review Committee
-      url: ERC/
+#- title: Organization
+#  sublinks:
+#    - title: Organizers
+#      url: Organization/
+#    - title: Program Committee
+#      url: PC/
+#    - title: External Review Committee
+#      url: ERC/
