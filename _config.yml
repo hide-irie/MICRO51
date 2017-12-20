@@ -1,5 +1,5 @@
 exclude: ['README.md']
-timezone: US/Pacific
+timezone: JP
 
 markdown:         kramdown
 highlighter:      rouge
