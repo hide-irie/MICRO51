@@ -6,7 +6,7 @@ title:
 
 <div class="row">
  <div class="col-md-6">
-  <h1>MICRO 51 @ Fukuoka, Oct 20 - 24 </h1> 
+  <h1>MICRO 51 @ Fukuoka, <br>Oct 20 - 24 </h1> 
   <p> The 51st Annual IEEE/ACM International Symposium on Microarchitecture </p>
   <p> Hotel: GRAND HYATT FUKUOKA. (TBA)Link to MICRO Reservation.</p>
   <p> (TBA)Link to Registration.</p>
