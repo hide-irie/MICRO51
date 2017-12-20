@@ -42,7 +42,7 @@ title:
      </tbody>
   </table>
   <p> </p>
-  <p>MICRO 2018 will use a <a href = "{{ site.baseurl }}/Review/">revision-based model</a> similar to MICRO 2015's.</p>
+#  <p>MICRO 2018 will use a <a href = "{{ site.baseurl }}/Review/">revision-based model</a>similar to MICRO 2015's.</p>
   <p>(TBA)MICRO 2017 submissions site.</p>
  </div>
  <div class="col-md-6">
