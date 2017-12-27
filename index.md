@@ -32,7 +32,7 @@ title:
       <tr>
       <td><mark>Rebuttal and Response </mark></td>
       <td> </td>
-      <td><mark>June 27th ? July 3rd, 2018 (11:59 pm EDT)</mark> </td>
+      <td><mark>June 27th - July 3rd, 2018 (11:59 pm EDT)</mark> </td>
       </tr>
       <tr>
       <td><mark>Notification</mark></td>
