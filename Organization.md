@@ -4,24 +4,27 @@ title: Organization Committee
 ---
 
 |----------------------------------| --------------------|-------------------------|---|
-| **General Co-Chairs**                | Hillery Hunter     | IBM Research            |   |
-|                                      | Jaime Moreno       | IBM Research            |   |
-| **Program Co-Chairs**                | Joel Emer          | NVIDIA and MIT          |   |
-|                                      | Daniel Sanchez     | MIT                     |   |
-| **Tutorial/Workshop Co-Chairs**      | Aamer Jaleel       | NVIDIA                  |   |
-|                                      | Angshuman Parashar | NVIDIA                  |   |
-| **Finance Chair**                    | Augusto Vega       | IBM Research            |   |
-| **Submissions Co-Chairs**            | Mark Jeffrey       | MIT                     |   |
-|                                      | Po-An Tsai         | MIT                     |   |
-| **Web Chair**                        | Arrvindh Shriraman | Simon Fraser University |   |
-| **Publicity Chair**                  | Ramon Bertran      | IBM Reserch             |   |
-| **Registration Chair**               | Michel Kinsy       | Boston University       |   |
-| **Local Arrangements Chair**         | Mark Hempstead     | Tufts                   |   |
-| **Publications Chair**               | Xiaochen Guo       | Lehigh University       |   |
-| **Industrial Liaison**               | Christopher Fletcher|    UIUC                |   | 
-|                                      | Jon Masters         |   Red Hat              |   |
-| **European Liaison**                 |  Xavier Martorell   | BSC/UPC                |   |
-| **Student Liaison / Travel Award**  | David Wentzlaff     | Princeton University    |   |
+| **General Co-Chairs**                | Mark Oskin     | Washington University            |   |
+|                                      | Koji Inoue       | Kyushu University            |   |
+| **Program Co-Chairs**                | Sudhakar Yalamanchili          | Georgia Tech          |   |
+|                                      | Hyesoon Kim     | Georgia Tech                     |   |
+| **Finance Co-Chairs**                | Masaaki Kondo       | University of Tokyo            |   |
+|                                      | Martha Kim     | Columbia University                     |   |
+| **Tutorial/Workshop Co-Chairs**      | Ryota Shioya       | Nagoya University                |   |
+|                                      | Yasuko Eckert | AMD                  |   |
+| **Local Arrangements Chair**         | Takatsugu Ono     | Kyushu University                 |   |
+| **Submissions Chair**            | TBA       |                      |   |
+| **Publications Co-Chairs**               | Myoungsoo Jung       | Yonsei University       |   |
+|                                      | Rui Hou | Chinese Academy of Science                  |   |
+| **Web Co-Chairs**                        | Hidetsugu Irie | University of Tokyo |   |
+|                                      | Jishen Zhao | UCSC                  |   |
+| **Registration Co-Chairs**               | Shinya Takamaeda       | Hokkaido University      |   |
+|                                      | TBA |                   |   |
+| **Publicity Co-Chairs**                  | Wei Hsu      | National Taiwan University            |   |
+|                                      | TBA |                   |   |
+| **Industrial Liaison**               | Hiroto Yasuura | Kyushu University                |   | 
+|                                      | Eri Latorre-Chimoto        | ARM Research              |   |
+| **Travel Award Chair**  | TBA     |     |   |
 | **Steering Committee**  |Richard Belgard (Chair)|  Consultant |
 |   |David Albonesi|  Cornell |
 |   |Tom Conte|  Georgia Tech |

@@ -10,7 +10,7 @@ title:
   <p> The 51st Annual IEEE/ACM International Symposium on Microarchitecture </p>
   <p> Hotel: GRAND HYATT FUKUOKA. (TBA)Link to MICRO Reservation.</p>
   <p> (TBA)Link to Registration.</p>
-  <p> (TBD)Link to Student Award.</p>
+  <p> (TBA)Link to Student Award.</p>
   <p> (TBA)Link to Visa request.</p>
   <table>
      <thead>
@@ -22,22 +22,22 @@ title:
       <tr>
       <td><mark>Abstract</mark></td>
       <td> </td>
-      <td><mark>TBA</mark></td>
+      <td><mark>March 30th, 2018, 11:59 pm EDT</mark></td>
       </tr>
       <tr>
       <td><mark>Full Paper</mark></td>
       <td> </td>
-      <td><mark>TBA</mark></td>
+      <td><mark>April 6th, 2018, 11:59 pm EDT</mark></td>
       </tr>
       <tr>
       <td><mark>Rebuttal and Response </mark></td>
       <td> </td>
-      <td><mark>TBA</mark> </td>
+      <td><mark>June 27th ? July 3rd, 2018 (11:59 pm EDT)</mark> </td>
       </tr>
       <tr>
       <td><mark>Notification</mark></td>
       <td> </td>
-      <td><mark>TBA</mark></td>
+      <td><mark>July 18th</mark></td>
       </tr>
      </tbody>
   </table>
