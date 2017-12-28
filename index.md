@@ -37,13 +37,13 @@ title:
       <tr>
       <td><mark>Notification</mark></td>
       <td> </td>
-      <td><mark>July 18th</mark></td>
+      <td><mark>July 18th, 2018</mark></td>
       </tr>
      </tbody>
   </table>
   <p> </p>
 <!--  <p>MICRO 2018 will use a <a href = "{{ site.baseurl }}/Review/">revision-based model</a>similar to MICRO 2015's.</p> -->
-  <p>(TBA)MICRO 2017 submissions site.</p>
+  <p>(TBA)MICRO 2018 submissions site.</p>
  </div>
  <div class="col-md-6">
   <img class="img-responsive" src="{{ site.baseurl }}/images/fukuoka.jpg" width="90%">
