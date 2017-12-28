@@ -8,6 +8,7 @@ title:
  <div class="col-md-6">
   <h1>MICRO 51 @ Fukuoka, <br>Oct 20 - 24 </h1> 
   <p> The 51st Annual IEEE/ACM International Symposium on Microarchitecture </p>
+  <p> Fukuoka City, Japan (<a href="https://www.youtube.com/watch?v=CLxntu0QIFA&feature=youtu.be">Youtube</a>)</p>
   <p> Hotel: GRAND HYATT FUKUOKA. (TBA)Link to MICRO Reservation.</p>
   <p> (TBA)Link to Registration.</p>
   <p> (TBA)Link to Student Award.</p>
