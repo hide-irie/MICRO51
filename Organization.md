@@ -13,27 +13,25 @@ title: Organization Committee
 | **Tutorial/Workshop Co-Chairs**      | Ryota Shioya       | Nagoya University                |   |
 |                                      | Yasuko Eckert | AMD                  |   |
 | **Local Arrangements Chair**         | Takatsugu Ono     | Kyushu University                 |   |
-| **Submissions Chair**            | TBA       |                      |   |
+| **Submissions Chair**            | Ramyad Hadidi       | Georgia Institute of Technology                     |   |
 | **Publications Co-Chairs**               | Myoungsoo Jung       | Yonsei University       |   |
 |                                      | Rui Hou | Chinese Academy of Science                  |   |
 | **Web Co-Chairs**                        | Hidetsugu Irie | University of Tokyo |   |
 |                                      | Jishen Zhao | UCSC                  |   |
 | **Registration Co-Chairs**               | Shinya Takamaeda       | Hokkaido University      |   |
-|                                      | TBA |                   |   |
+|                                      | Yoav Etsion | Israel Institute of Technology                  |   |
 | **Publicity Co-Chairs**                  | Wei Hsu      | National Taiwan University            |   |
-|                                      | TBA |                   |   |
+|                                      | Alexandra Jimborean | Uppsala University                 |   |
+|                                      | Lena Olsen | Google |   |
 | **Industrial Liaison**               | Hiroto Yasuura | Kyushu University                |   | 
 |                                      | Eri Latorre-Chimoto        | ARM Research              |   |
 | **Travel Award Chair**  | TBA     |     |   |
-| **Steering Committee**  |Richard Belgard (Chair)|  Consultant |
-|   |David Albonesi|  Cornell |
-|   |Tom Conte|  Georgia Tech |
-|   |Kemal Ebcioglu|  Global Supercomputing 
-|   |Matthew Farrens|  UC Davis |
-|   |Scott Mahlke|  U. Michigan |
-|   |Bill Mangione-Smith|  Consultant 
-|   |Onur Mutlu|  CMU |
-|   |Yale Patt|  UT Austin  |
-|   | Moin Qureshi| Georgia Tech |
-|   |Milos Prvulovic|  Georgia Tech |
+| **Steering Committee**  |Scott Mahlke|  U. Michigan(Co-Chair) |
+|   |Onur Mutlu|  ETH Zurich (Co-Chair) |
+|   |Chita Das|  Penn St. |
+|   |Sandhya Dwarkadas|  Rochester |
+|   |Antonio Gonzalez|  UPC Barcelona |
+|   |Michael Gschwind|  IBM Research |
+|   |Vijayalakshmi (Viji) Srinivasan|  IBM Research | 
+|   |Josep Torrellas|  Illinois |
 {: .table } 
