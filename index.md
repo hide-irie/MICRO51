@@ -69,12 +69,12 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 
 
 ## We thank our generous sponsors
-###Diamond Sponsors
-###Platinum Sponsors
-###Gold Sponsors
-###Silver Sponsors
-###Bronze Sponsors
-###Technical Sponsors
+### Diamond Sponsors
+### Platinum Sponsors
+### Gold Sponsors
+### Silver Sponsors
+### Bronze Sponsors
+### Technical Sponsors
 
 
 
