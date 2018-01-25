@@ -42,11 +42,11 @@
 #    - title: Student Travel Award
 #      url: StudentTravel/
 
-#- title: Organization
-#  sublinks:
-#    - title: Organizers
-#      url: Organization/
-#    - title: Program Committee
-#      url: PC/
-#    - title: External Review Committee
-#      url: ERC/
+- title: Organization
+  sublinks:
+    - title: Organizers
+      url: TBA/
+    - title: Program Committee
+      url: TBA/
+    - title: External Review Committee
+      url: TBA/
