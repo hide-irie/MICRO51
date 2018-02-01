@@ -72,6 +72,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 ### Diamond Sponsors
 ### Platinum Sponsors
 ### Gold Sponsors
+![e-trees]({{ site.baseurl }}/images/etrees.jpg =x60)
 ### Silver Sponsors
 ### Bronze Sponsors
 ### Technical Sponsors
