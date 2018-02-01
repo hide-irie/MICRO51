@@ -72,13 +72,18 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 ### Diamond Sponsors
 ### Platinum Sponsors
 ### Gold Sponsors
-<img border="0" src="{{ site.baseurl }}/images/etrees.jpg" height ="60" alt="e-trees logo">
-<img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="60"> alt="logic-research logo">
+<img border="0" src="{{ site.baseurl }}/images/etrees.jpg" height ="120" alt="e-trees logo">
+<img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="75" alt="logic-research logo">
 ### Silver Sponsors
-<img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="60"> alt="eSOL logo">
+<img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="120"> alt="eSOL logo">
 
 ### Bronze Sponsors
 ### Technical Sponsors
+<div>
+<font size="3" color="#000000">ACM SIGMICRO</font><br />
+ <img border="0" src="{{site.baseurl}}/images/acm.jpg" height="90" /> </div>
+ <img border="0" src="{{site.baseurl}}/images/ieee.jpg" height="90" /> 
+
 
 
 
