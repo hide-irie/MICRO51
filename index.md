@@ -75,7 +75,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <img border="0" src="{{ site.baseurl }}/images/etrees.jpg" height ="120" alt="e-trees logo">
 <img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="75" alt="logic-research logo">
 ### Silver Sponsors
-<img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="120"> alt="eSOL logo">
+<img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="120" alt="eSOL logo">
 
 ### Bronze Sponsors
 ### Technical Sponsors
