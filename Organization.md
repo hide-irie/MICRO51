@@ -11,22 +11,22 @@ title: Organization Committee
 | **Finance Co-Chairs**                | Masaaki Kondo       | University of Tokyo            |   |
 |                                      | Martha Kim     | Columbia University                     |   |
 | **Tutorial/Workshop Co-Chairs**      | Ryota Shioya       | Nagoya University                |   |
-|                                      | Yasuko Eckert | AMD                  |   |
+|                                      | Yasuko Eckert | AMD Research                 |   |
 | **Local Arrangements Chair**         | Takatsugu Ono     | Kyushu University                 |   |
 | **Submissions Chair**            | Ramyad Hadidi       | Georgia Institute of Technology                     |   |
 | **Publications Co-Chairs**               | Myoungsoo Jung       | Yonsei University       |   |
 |                                      | Rui Hou | Chinese Academy of Science                  |   |
 | **Web Co-Chairs**                        | Hidetsugu Irie | University of Tokyo |   |
-|                                      | Jishen Zhao | UCSC                  |   |
+|                                      | Jishen Zhao | UCSD                  |   |
 | **Registration Co-Chairs**               | Shinya Takamaeda       | Hokkaido University      |   |
 |                                      | Yoav Etsion | Israel Institute of Technology                  |   |
 | **Publicity Co-Chairs**                  | Wei Hsu      | National Taiwan University            |   |
 |                                      | Alexandra Jimborean | Uppsala University                 |   |
-|                                      | Lena Olsen | Google |   |
+|                                      | Lena Olson | Google |   |
 | **Industrial Liaison**               | Hiroto Yasuura | Kyushu University                |   | 
-|                                      | Eri Latorre-Chimoto        | ARM Research              |   |
+|                                      | Eri Latorre-Chimoto        | ARM Ltd.              |   |
 | **Travel Award Chair**  | TBA     |     |   |
-| **Steering Committee**  |Scott Mahlke|  U. Michigan(Co-Chair) |
+| **Steering Committee**  |Scott Mahlke|  U. Michigan (Co-Chair) |
 |   |Onur Mutlu|  ETH Zurich (Co-Chair) |
 |   |Chita Das|  Penn St. |
 |   |Sandhya Dwarkadas|  Rochester |
@@ -34,4 +34,5 @@ title: Organization Committee
 |   |Michael Gschwind|  IBM Research |
 |   |Vijayalakshmi (Viji) Srinivasan|  IBM Research | 
 |   |Josep Torrellas|  Illinois |
+||||
 {: .table } 

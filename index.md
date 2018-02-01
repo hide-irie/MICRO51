@@ -72,10 +72,10 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 ### Diamond Sponsors
 ### Platinum Sponsors
 ### Gold Sponsors
-<img border="0" src="{{ site.baseurl }}/images/etrees.jpg" height ="120" alt="e-trees logo"/>
-<img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="75" alt="logic-research logo"/>
+<div style="float:left; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/etrees.jpg" height ="150" alt="e-trees logo"/></div>
+<div style="float:left; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="100" alt="logic-research logo"/></div>
 ### Silver Sponsors
-<img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="120" alt="eSOL logo"/>
+<div style="float:left; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="120" alt="eSOL logo"/></div>
 
 ### Bronze Sponsors
 ### Technical Sponsors
