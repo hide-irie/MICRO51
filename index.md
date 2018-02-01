@@ -79,10 +79,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 
 ### Bronze Sponsors
 ### Technical Sponsors
-<div>
-<font size="3" color="#000000">ACM SIGMICRO</font><br />
- <img border="0" src="{{site.baseurl}}/images/acm.jpg" height="90" /> </div>
- <img border="0" src="{{site.baseurl}}/images/ieee.jpg" height="90" /> 
+<font size="3" color="#000000">ACM SIGMICRO</font><br /> <img border="0" src="{{site.baseurl}}/images/acm.jpg" height="90" />| <img border="0" src="{{site.baseurl}}/images/ieee.jpg" height="90" />
 
 
 
