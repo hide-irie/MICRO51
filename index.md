@@ -72,8 +72,11 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 ### Diamond Sponsors
 ### Platinum Sponsors
 ### Gold Sponsors
-![e-trees]({{ site.baseurl }}/images/etrees.jpg =x60)
+<img border="0" src="{{ site.baseurl }}/images/etrees.jpg" height ="60" alt="e-trees logo">
+<img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="60"> alt="logic-research logo">
 ### Silver Sponsors
+<img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="60"> alt="eSOL logo">
+
 ### Bronze Sponsors
 ### Technical Sponsors
 
