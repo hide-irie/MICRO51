@@ -85,12 +85,12 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="float:left; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/etrees.jpg" height ="150" alt="e-trees logo"/></div>
 <div style="float:left; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="100" alt="logic-research logo"/></div>
 </div>
-<br>
+<br clear="both"/>
 
-<div style="margin:0 auto;">
+<p align="center">
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
-              Silver Sponsors </span></span></strong></span>
-</div>
+              Silver Sponsors </span></span></strong></span></p>
+
 <div style="float:left; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="120" alt="eSOL logo"/></div>
 
 <p align="center">
