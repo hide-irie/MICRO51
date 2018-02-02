@@ -81,11 +81,11 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <p align="center">
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Gold Sponsors </span></span></strong></span></p>
-<div style="width:806px; margin:0 auto;">
+<div style="margin:0 auto;">
 <div style="float:left; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/etrees.jpg" height ="150" alt="e-trees logo"/></div>
 <div style="float:left; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="100" alt="logic-research logo"/></div>
-</div>
 <br clear="both"/>
+</div>
 
 <p align="center">
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
