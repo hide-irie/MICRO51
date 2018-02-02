@@ -87,9 +87,10 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 </div>
 <br>
 
-<p align="center">
+<div style="margin:0 auto;">
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
-              Silver Sponsors </span></span></strong></span></p>
+              Silver Sponsors </span></span></strong></span>
+</div>
 <div style="float:left; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="120" alt="eSOL logo"/></div>
 
 <p align="center">
