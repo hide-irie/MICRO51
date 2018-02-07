@@ -6,8 +6,8 @@ title: Organization Committee
 |----------------------------------| --------------------|-------------------------|---|
 | **General Co-Chairs**                | Mark Oskin     | Washington University            |   |
 |                                      | Koji Inoue       | Kyushu University            |   |
-| **Program Co-Chairs**                | Sudhakar Yalamanchili          | Georgia Tech          |   |
-|                                      | Hyesoon Kim     | Georgia Tech                     |   |
+| **Program Co-Chairs**                | Hyesoon Kim          | Georgia Tech          |   |
+|                                      | Sudhakar Yalamanchili          | Georgia Tech                    |   |
 | **Finance Co-Chairs**                | Masaaki Kondo       | University of Tokyo            |   |
 |                                      | Martha Kim     | Columbia University                     |   |
 | **Tutorial/Workshop Co-Chairs**      | Ryota Shioya       | Nagoya University                |   |
