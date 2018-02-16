@@ -77,6 +77,9 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <p align="center">
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Platinum Sponsors </span></span></strong></span></p>
+<div style="margin:0 auto; text-align:center;">
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/socionext_logo_tagline_k_100" height ="120" alt="socionext_logo"/></div>
+</div>
 
 <p align="center">
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
