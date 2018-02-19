@@ -26,7 +26,7 @@ title: Organization Committee
 |                                      | Lena Olson | Google |   |
 | **Industrial Liaison**               | Hiroto Yasuura | Kyushu University                |   | 
 |                                      | Eri Latorre-Chimoto        | Arm Ltd.              |   |
-| **Travel Award Chair**  | TBA     |     |   |
+| **Travel Award Chair**  | Xiaochen Guo     | Leghigh University    |   |
 | **Steering Committee**  |Scott Mahlke|  U. Michigan (Co-Chair) |
 |   |Onur Mutlu|  ETH Zurich (Co-Chair) |
 |   |Chita Das|  Penn St. |
