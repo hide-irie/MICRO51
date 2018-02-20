@@ -1,0 +1,33 @@
+Call for Workshop & Tutorial Proposals
+======================================
+
+The International Symposium on Microarchitecture (MICRO) is the premier
+forum for the presentation and discussion of new ideas in microarchitecture,
+compilers, hardware/software interfaces, and design of advanced computing and
+communication systems.
+
+Workshop and tutorial proposals are solicited for MICRO-51 in
+Fukuoka, Japan. Workshops and tutorials will be held October 20-21.
+
+Important dates:
+    * Deadline for proposals: April 20, 2018.
+    * Notification Date:      April 27, 2018
+    * Workshops/Tutorials     October 20-21, 2018
+
+Proposals should be one to two pages and must include the following
+information:
+
+    * Title of the Workshop / Tutorial
+    * Organizers and their affiliations (including short bios)
+    * Expected duration of the workshop/tutorial; i.e., half day or
+      full day
+    * If the workshop/tutorial was previously held, provide the location
+      (i.e., which conference), date, number of published papers (if
+      any), and number of attendees at the last event
+    * If workshop proposal, provide sample call for papers, including
+      the workshop main topics
+    * If tutorial proposal, provide the abstract of the tutorial
+
+Please submit workshop and tutorial proposals (1 to 2 pages) to
+wt-micro51@googlegroups.com
+
