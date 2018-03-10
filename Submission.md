@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guidelines for Submissions to MICRO 2017
+title: Guidelines for Submissions to MICRO 2018
 ---
 
 ## Introduction
