@@ -44,7 +44,7 @@ Papers must be submitted in printable PDF format and should contain a **maximum 
 | Right margin               | 0.75in                                      |
 | Body                       | 2-column, single spaced                     |
 | Space between columns | 0.25in                                      |
-| Body font                  | ***10pt ***                            |
+| Body font                  | ***10pt***                            |
 | Abstract font              | 9pt, bold                                  |
 | Section heading font       | 12pt, bold                                  |
 | Subsection heading font    | 10pt, bold                                  |
