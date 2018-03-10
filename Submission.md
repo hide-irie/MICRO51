@@ -53,7 +53,7 @@ Papers must be submitted in printable PDF format and should contain a **maximum 
 
 
 
-##Content
+## Content
 
 Reviewing will be **double blind** (no author liset); therefore, please do not include any author names on any submitted documents except in the space provided on the submission form. You must also ensure that the metadata included in the PDF does not give away the authors. If you are improving upon your prior work, refer to your prior work in the third person and include a full citation for the work in the bibliography. For example, if you are building on **your own** prior work in the papers, you would say something like: "While the authors of [x][y] did X, Y, and Z, this paper additionally does W, and is therefore much better." Do NOT omit or anonymize references for blind review. There is one exception to this for your own prior work that appeared in IEEE CAL, workshops without archived proceedings, etc., as discussed later in this document.
 
