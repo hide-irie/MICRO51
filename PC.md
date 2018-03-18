@@ -56,7 +56,7 @@ title: Program Committee
 |  Samira Khan | 	University of Virginia |
 |  Sheng Li | 	Google |
 |  Sophia  Shao | 	NVIDIA |
-|  Srinivas Subramoney | 	Intel Co| rporation |
+|  Srinivas Subramoney | 	Intel Corporation |
 |  Trey Cain | 	Qualcomm |
 |  Tushar Krishna | 	Georgia Tech |
 |  Ulya Karpuzcu |  	University of Minnesota |
