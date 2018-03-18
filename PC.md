@@ -72,6 +72,6 @@ title: Program Committee
 |  Yoav Etsion |	 Technion |
 |  Youfeng Wu | 	Intel Corporation |
 |  Yuan Xie | 	University of California Santa Barbara (UCSB) |
-|  Yungang Bao | 	Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) |
-| Yunji Chen | 	Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) |
+|  Yungang Bao | 	Institute of Computing Technology, <br> Chinese Academy of Sciences (ICT, CAS) |
+| Yunji Chen | 	Institute of Computing Technology, <br> Chinese Academy of Sciences (ICT, CAS) |
 {: .table .table-striped }
