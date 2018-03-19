@@ -14,7 +14,7 @@ An example submission (formatted using the MICRO-51 submission format) that cont
 [Sample Latex template]({{ site.baseurl }}/public/downloads/micro51-latex-template.zip).
 
 
-Submission site: https://micro51-submission.gatech.edu/
+Submission site: <a href="https://micro51-submission.gatech.edu/">https://micro51-submission.gatech.edu/</a>
 
 All questions regarding paper formatting and submission should be directed to the program chairs.
 
