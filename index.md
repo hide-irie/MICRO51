@@ -44,7 +44,7 @@ title:
   </table>
   <p> </p>
 <!--  <p>MICRO 2018 will use a <a href = "{{ site.baseurl }}/Review/">revision-based model</a>similar to MICRO 2015's.</p> -->
-  <p>(TBA)MICRO 2018 submissions site.</p>
+  <p><a href="https://micro51-submission.gatech.edu/">MICRO 2018 submissions site</a>.</p>
  </div>
  <div class="col-md-6">
   <img class="img-responsive" src="{{ site.baseurl }}/images/fukuoka.jpg" width="90%">
