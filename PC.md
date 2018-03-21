@@ -42,7 +42,7 @@ title: Program Committee
 |  Mainak Chaudhuri |  Indian Institute of Technology Kanpur |
 |  Masaaki  Kondo |	  The University of Tokyo |
 |  Michael Ferdman	 |  Stony Brook University |
-|  Minsoo Rhu |	  Pohang University of Science and Technology (POSTECH) |
+|  Minsoo Rhu| 	Pohang University of Science and Technology (POSTECH) |
 |  Mohit Tiwari |  	University of Texas at Austin |
 |  Murali Annavaram |  	University of Southern California (USC) |
 |  Myoungsoo Jung |  	Yonsei University |
