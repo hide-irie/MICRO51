@@ -37,6 +37,7 @@ title: Program Committee
 |  John Sartori |  University of Minnesota |
 |  Joshua San Miguel |  University of Wisconsin-Madison |
 |  Jun Yang |  University of Pittsburgh |
+|  Laura Caulfield |  Microsoft |
 |  Lavanya Subramanian |  Intel Corporation |
 |  Lieven Eeckhout |  Ghent University |
 |  Mainak Chaudhuri |  Indian Institute of Technology Kanpur |
