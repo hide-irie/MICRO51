@@ -92,7 +92,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/e-trees_logo.png" height ="90" alt="e-trees logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="90" alt="logic-research logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/toshiba_logo.png" height ="166" alt="Toshiba logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TOSHIBAmemory_logo.png" height ="180" alt="Toshiba Memory logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TOSHIBAmemory_logo.png" height ="100" alt="Toshiba Memory logo"/></div>
 
 </div>
 
