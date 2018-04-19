@@ -27,6 +27,7 @@ title: Organization Committee
 | **Industrial Liaison**               | Hiroto Yasuura | Kyushu University                |   | 
 |                                      | Eri Latorre-Chimoto        | Arm Ltd.              |   |
 | **Travel Award Chair**  | Xiaochen Guo     | Leghigh University    |   |
+| **Student Research Competition Chair**  |  Guru Prasadh V. Venkataramani     | George Washington University    |   |
 | **Steering Committee**  |Scott Mahlke|  U. Michigan (Co-Chair) |
 |   |Onur Mutlu|  ETH Zurich (Co-Chair) |
 |   |Chita Das|  Penn St. |
