@@ -113,20 +113,21 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 
 <p align="center">
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
-              Other Sponsors/Supporters </span></span></strong></span></p>
-
-<div style="margin:0 auto; text-align:center;">
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/taf-logo-je.jpg" height ="90" alt="TAF_logo"/></div>
-</div>
-
-<p align="center">
-<span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Technical Sponsors </span></span></strong></span></p>
 
 <div style="margin:0 auto; text-align:center;">
 <div style="display:inline-block; margin: 20px;"><font size="3" color="#000000">ACM SIGMICRO</font><br /> <img border="0" src="{{site.baseurl}}/images/acm.jpg" height="90" /></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{site.baseurl}}/images/ieee.jpg" height="90" /></div>
 </div>
+
+<p align="center">
+<span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
+              Other Sponsors/Supporters </span></span></strong></span></p>
+
+<div style="margin:0 auto; text-align:center;">
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/taf-logo-je.jpg" height ="90" alt="TAF_logo"/></div>
+</div>
+
 
 
 
