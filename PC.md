@@ -69,6 +69,7 @@ title: Program Committee
 |  Xipeng Shen |  	NC State University (NCSU) |
 |  Xue Lin |  	Northeastern University |
 |  Xuehai Qian | 	University of Southern California (USC) |
+|  Yang Seok Ki | 	Samsung |
 |  Yasuko Eckert | 	AMD Research |
 |  Yoav Etsion |	 Technion |
 |  Youfeng Wu | 	Intel Corporation |
