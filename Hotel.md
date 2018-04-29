@@ -25,7 +25,7 @@ Hyatt Cambridge  reservations using the MICRO negotiated rate can be made here. 
 * <a href="#Nishitetsu">From Nishitetsu Fukuoka Tenjin Station</a>
 ### <mark id="airportIT">From Fukuoka International Airport (International Terminal)</mark>
 
-####By Bus
+###By Bus
 
 Shuttle bus (<a href="http://hearts81.com/airport/index_en.html">Fukuoka Airport Access Bus</a>) is the easiest way to reach Grand Hyatt Fukuoka. The schedule is <a href="http://hearts81.com/airport/index_en.html#T02">here</a>, and the fare is 500 JPY (roughly 5 USD). The bus stop at the International Terminal is <a href="http://hearts81.com/airport/index_en.html#T03">here</a>. Please get off at Canal City Hakata bus stop and 1 minute walk to the hotel. (Canal City Hakata is adjacent to Grand Hyatt Fukuoka with direct access.)
 
@@ -33,19 +33,19 @@ Shuttle bus (<a href="http://hearts81.com/airport/index_en.html">Fukuoka Airport
 
 <iframe src="https://goo.gl/maps/MJaSyRJJ41A2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-####By Fukuoka City Subway
+###By Fukuoka City Subway
 
 Fukuokakuko Station is in Domestic Terminal. From the International Terminal, please take the <a href="http://www.fuk-ab.co.jp/english/bus3.html">free shuttle bus</a> to the Domestic Terminal. The detail of the direction is <a href="http://www.fuk-ab.co.jp/english/subway.html#out">here</a>.
 A five-minute ride from Fukuokakuko Station to Hakata Station and 10 minutes walk to Grand Hyatt Fukuoka. For the directions from Hakata station, please refer to “<a href="#JR">From JR Hakata Station</a>.”
 
-####By Taxi
+###By Taxi
 
 About 30 minutes from the airport. The fare is roughly 2,000JPY (roughly 18USD).
 
 
 ### <mark id="airportDT">From Fukuoka International Airport (Domestic Terminal)</mark>
 
-####By Bus
+###By Bus
 
 Shuttle bus (<a href="http://hearts81.com/airport/index_en.html">Fukuoka Airport Access Bus</a>) is the easiest way to reach Grand Hyatt Fukuoka. The schedule is <a href="http://hearts81.com/airport/index_en.html#T02">here</a>, and the fare is 500 JPY (roughly 5 USD). The bus stop at the Domestic Terminal is <a href="http://hearts81.com/airport/index_en.html#T03">here</a>. Please get off at Canal City Hakata bus stop and 1 minute walk to the hotel. (Canal City Hakata is adjacent to Grand Hyatt Fukuoka with direct access.)
 
@@ -53,24 +53,24 @@ Shuttle bus (<a href="http://hearts81.com/airport/index_en.html">Fukuoka Airport
 
 <iframe src="https://goo.gl/maps/MJaSyRJJ41A2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-####By Fukuoka City Subway
+###By Fukuoka City Subway
 
 Fukuokakuko Station is in Domestic Terminal. The detail of the direction is <a href="http://www.fuk-ab.co.jp/english/subway.html#out">here</a>.
 A five-minute ride from Fukuokakuko Station to Hakata Station and 10 minutes walk to Grand Hyatt Fukuoka. For the directions from Hakata station, please refer to “<a href="#JR">From JR Hakata Station</a>.”
 
-####By Taxi
+###By Taxi
 
 About 30 minutes from the airport. The fare is roughly 2,000JPY (roughly 18USD).
 
 ### <mark id="JR">From JR Hakata Station</mark>
 
-####By Bus
+###By Bus
 
 100 yen loop bus is available from the station. A seven-minute ride from Hakata Eki-mae A to Canal City Hakata-mae and 5 minutes walk to the hotel.
 
 <iframe src="https://www.google.com/maps/d/viewer?mid=1nCx5Tz6wSxRIteejDYprMnRxHbsGGwtJ&hl=ja&usp=sharing" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-####On foot
+###On foot
 
 About 10 minutes walk from the station.
 
@@ -78,7 +78,7 @@ About 10 minutes walk from the station.
 
 ### <mark id="Nishitetsu">From Nishitetsu Fukuoka Tenjin Station</mark>
 
-####By Bus
+###By Bus
 
 100 yen loop bus is available from the station. A seven-minute ride from Tenjin Daimaru-mae 4 to Canal City Hakata-mae and 5 minutes walk to the hotel.
 
