@@ -5,6 +5,8 @@ title: Hotel
 
 <mark> MICRO-51 will be held at <a href="https://fukuoka.grand.hyatt.com/en/hotel/home.html">Grand Hyatt Fukuoka</a> <mark>
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11793.872286616093!2d-71.11416485227616!3d42.353862982509156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x41f58904fd98a30b!2sHyatt+Regency+Cambridge%2C+Overlooking+Boston!5e0!3m2!1sen!2sca!4v1483822829360" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 <iframe src="https://www.google.com/maps/place/Grand+Hyatt+Fukuoka/@33.5893604,130.4076073,15z/data=!3m1!5s0x354191be3b592817:0x60c9ffa58c30290!4m15!1m7!3m6!1s0x354191be23e4db87:0xdd0c68dc7c1b0409!2s1+Chome-2+Sumiyoshi,+Hakata-ku,+Fukuoka-shi,+Fukuoka-ken+812-0018!3b1!8m2!3d33.5894192!4d130.4113545!3m6!1s0x354191958d1f69e9:0x3f2de349072814c1!5m1!1s2018-05-28!8m2!3d33.5897402!4d130.4105245?hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
