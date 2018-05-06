@@ -31,7 +31,7 @@ Hyatt Cambridge  reservations using the MICRO negotiated rate can be made here. 
 
 Shuttle bus (<a href="http://hearts81.com/airport/index_en.html">Fukuoka Airport Access Bus</a>) is the easiest way to reach Grand Hyatt Fukuoka. The schedule is <a href="http://hearts81.com/airport/index_en.html#T02">here</a>, and the fare is 500 JPY (roughly 5 USD). The bus stop at the International Terminal is <a href="http://hearts81.com/airport/index_en.html#T03">here</a>. Please get off at Canal City Hakata bus stop and 1 minute walk to the hotel. (Canal City Hakata is adjacent to Grand Hyatt Fukuoka with direct access.)
 
-<iframe src="http://www.google.com/maps/d/embed?mid=1q_m_A_KwtCvaa04kgZr1t2Qk8a0&hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1q_m_A_KwtCvaa04kgZr1t2Qk8a0&hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d830.9035276311917!2d130.4098081!3d33.5893672!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d33.5893225!2d130.4102524!4m5!1s0x354191958d1f69e9%3A0x3f2de349072814c1!2sGrand+Hyatt+Fukuoka!3m2!1d33.589740299999995!2d130.4105247!5e0!3m2!1sja!2sjp!4v1525608554886" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -51,9 +51,8 @@ About 30 minutes from the airport. The fare is roughly 2,000JPY (roughly 18USD).
 
 Shuttle bus (<a href="http://hearts81.com/airport/index_en.html">Fukuoka Airport Access Bus</a>) is the easiest way to reach Grand Hyatt Fukuoka. The schedule is <a href="http://hearts81.com/airport/index_en.html#T02">here</a>, and the fare is 500 JPY (roughly 5 USD). The bus stop at the Domestic Terminal is <a href="http://hearts81.com/airport/index_en.html#T03">here</a>. Please get off at Canal City Hakata bus stop and 1 minute walk to the hotel. (Canal City Hakata is adjacent to Grand Hyatt Fukuoka with direct access.)
 
-<iframe src="https://www.google.com/maps/d/viewer?mid=1q_m_A_KwtCvaa04kgZr1t2Qk8a0&hl=en&usp=sharing" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<iframe src="https://goo.gl/maps/MJaSyRJJ41A2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1q_m_A_KwtCvaa04kgZr1t2Qk8a0&hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m22!1m8!1m3!1d830.9035276311917!2d130.4098081!3d33.5893672!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d33.5893225!2d130.4102524!4m5!1s0x354191958d1f69e9%3A0x3f2de349072814c1!2sGrand+Hyatt+Fukuoka!3m2!1d33.589740299999995!2d130.4105247!5e0!3m2!1sja!2sjp!4v1525608958780" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### By Fukuoka City Subway
 
@@ -70,13 +69,13 @@ About 30 minutes from the airport. The fare is roughly 2,000JPY (roughly 18USD).
 
 100 yen loop bus is available from the station. A seven-minute ride from Hakata Eki-mae A to Canal City Hakata-mae and 5 minutes walk to the hotel.
 
-<iframe src="https://www.google.com/maps/d/viewer?mid=1nCx5Tz6wSxRIteejDYprMnRxHbsGGwtJ&hl=ja&usp=sharing" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1nCx5Tz6wSxRIteejDYprMnRxHbsGGwtJ&hl=ja" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### On foot
 
 About 10 minutes walk from the station.
+<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d6647.253801480993!2d130.4129588!3d33.5890352!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x354191c7e6f9b375%3A0x2ee22b3d45b98b90!2zSGFrYXRhIFN0YXRpb24sIOS4reWkruihly0xLTEg5Y2a5aSa6aeFIEhha2F0YS1rdSwgRnVrdW9rYS1zaGksIEZ1a3Vva2Eta2VuIDgxMi0wMDEy!3m2!1d33.590044899999995!2d130.42061049999998!4m5!1s0x354191958d1f69e9%3A0x3f2de349072814c1!2sGrand+Hyatt+Fukuoka%2C+2-82+Sumiyoshi%2C+Hakata+Ward%2C+Fukuoka%2C+Fukuoka+Prefecture!3m2!1d33.589740299999995!2d130.4105247!5e0!3m2!1sja!2sjp!4v1525609024406" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<iframe src="https://goo.gl/maps/LZLWnzzwpP52" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### <mark id="Nishitetsu">From Nishitetsu Fukuoka Tenjin Station</mark>
 
@@ -84,5 +83,4 @@ About 10 minutes walk from the station.
 
 100 yen loop bus is available from the station. A seven-minute ride from Tenjin Daimaru-mae 4 to Canal City Hakata-mae and 5 minutes walk to the hotel.
 
-
-<iframe src="https://www.google.com/maps/d/viewer?mid=1nCx5Tz6wSxRIteejDYprMnRxHbsGGwtJ&hl=ja&usp=sharing" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1nCx5Tz6wSxRIteejDYprMnRxHbsGGwtJ&hl=ja" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
