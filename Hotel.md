@@ -25,7 +25,7 @@ Hyatt Cambridge  reservations using the MICRO negotiated rate can be made here. 
 * <a href="#airportDT">From Fukuoka International Airport (Domestic Terminal)</a>
 * <a href="#JR">From JR Hakata Station</a>
 * <a href="#Nishitetsu">From Nishitetsu Fukuoka Tenjin Station</a>
-### <mark id="airportIT">From Fukuoka International Airport (International Terminal)</mark>
+## <mark id="airportIT">From Fukuoka International Airport (International Terminal)</mark>
 
 ### By Bus
 
@@ -45,7 +45,7 @@ A five-minute ride from Fukuokakuko Station to Hakata Station and 10 minutes wal
 About 30 minutes from the airport. The fare is roughly 2,000JPY (roughly 18USD).
 
 
-### <mark id="airportDT">From Fukuoka International Airport (Domestic Terminal)</mark>
+## <mark id="airportDT">From Fukuoka International Airport (Domestic Terminal)</mark>
 
 ### By Bus
 
@@ -63,7 +63,7 @@ A five-minute ride from Fukuokakuko Station to Hakata Station and 10 minutes wal
 
 About 30 minutes from the airport. The fare is roughly 2,000JPY (roughly 18USD).
 
-### <mark id="JR">From JR Hakata Station</mark>
+## <mark id="JR">From JR Hakata Station</mark>
 
 ### By Bus
 
@@ -77,7 +77,7 @@ About 10 minutes walk from the station.
 <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d6647.253801480993!2d130.4129588!3d33.5890352!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x354191c7e6f9b375%3A0x2ee22b3d45b98b90!2zSGFrYXRhIFN0YXRpb24sIOS4reWkruihly0xLTEg5Y2a5aSa6aeFIEhha2F0YS1rdSwgRnVrdW9rYS1zaGksIEZ1a3Vva2Eta2VuIDgxMi0wMDEy!3m2!1d33.590044899999995!2d130.42061049999998!4m5!1s0x354191958d1f69e9%3A0x3f2de349072814c1!2sGrand+Hyatt+Fukuoka%2C+2-82+Sumiyoshi%2C+Hakata+Ward%2C+Fukuoka%2C+Fukuoka+Prefecture!3m2!1d33.589740299999995!2d130.4105247!5e0!3m2!1sja!2sjp!4v1525609024406" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
-### <mark id="Nishitetsu">From Nishitetsu Fukuoka Tenjin Station</mark>
+## <mark id="Nishitetsu">From Nishitetsu Fukuoka Tenjin Station</mark>
 
 ### By Bus
 
