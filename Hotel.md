@@ -31,7 +31,7 @@ Hyatt Cambridge  reservations using the MICRO negotiated rate can be made here. 
 
 Shuttle bus (<a href="http://hearts81.com/airport/index_en.html">Fukuoka Airport Access Bus</a>) is the easiest way to reach Grand Hyatt Fukuoka. The schedule is <a href="http://hearts81.com/airport/index_en.html#T02">here</a>, and the fare is 500 JPY (roughly 5 USD). The bus stop at the International Terminal is <a href="http://hearts81.com/airport/index_en.html#T03">here</a>. Please get off at Canal City Hakata bus stop and 1 minute walk to the hotel. (Canal City Hakata is adjacent to Grand Hyatt Fukuoka with direct access.)
 
-<iframe src="<iframe src="https://www.google.com/maps/d/embed?mid=1q_m_A_KwtCvaa04kgZr1t2Qk8a0&hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1q_m_A_KwtCvaa04kgZr1t2Qk8a0&hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <iframe src="https://goo.gl/maps/MJaSyRJJ41A2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
