@@ -25,6 +25,7 @@ Hyatt Cambridge  reservations using the MICRO negotiated rate can be made here. 
 * <a href="#airportDT">From Fukuoka International Airport (Domestic Terminal)</a>
 * <a href="#JR">From JR Hakata Station</a>
 * <a href="#Nishitetsu">From Nishitetsu Fukuoka Tenjin Station</a>
+
 ## <mark id="airportIT">From Fukuoka International Airport (International Terminal)</mark>
 
 ### By Bus
