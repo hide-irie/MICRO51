@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hotel
+title: Conference Venue
 ---
 
 <mark> MICRO-51 will be held at <a href="https://fukuoka.grand.hyatt.com/en/hotel/home.html">Grand Hyatt Fukuoka</a> <mark>
