@@ -70,7 +70,7 @@ About 30 minutes from the airport. The fare is roughly 2,000JPY (roughly 18USD).
 
 100 yen loop bus is available from the station. A seven-minute ride from Hakata Eki-mae A to Canal City Hakata-mae and 5 minutes walk to the hotel.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1nCx5Tz6wSxRIteejDYprMnRxHbsGGwtJ&hl=ja" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1nCx5Tz6wSxRIteejDYprMnRxHbsGGwtJ&hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### On foot
 
@@ -84,4 +84,4 @@ About 10 minutes walk from the station.
 
 100 yen loop bus is available from the station. A seven-minute ride from Tenjin Daimaru-mae 4 to Canal City Hakata-mae and 5 minutes walk to the hotel.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1nCx5Tz6wSxRIteejDYprMnRxHbsGGwtJ&hl=ja" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1nCx5Tz6wSxRIteejDYprMnRxHbsGGwtJ&hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
