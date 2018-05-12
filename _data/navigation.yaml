@@ -32,12 +32,12 @@
 #    - title: Main Program
 #      url: Program/main/index.html
 
-#- title: Attend
-#  sublinks:
+- title: Attend
+  sublinks:
 #    - title: Registration
 #      url: Registration/
-#    - title: Conference Venue
-#      url: Hotel/
+    - title: Conference Venue
+      url: Hotel/
 #    - title: Visa
 #      url: Visa/
 #    - title: Student Travel Award
