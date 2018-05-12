@@ -19,40 +19,41 @@ title: Program
 <table class="tg">
   <tr>
     <th class="tg-s6z2"></th>
-    <th class="tg-hgcj" colspan="2">Saturday (Oct 14) </th>
-    <th class="tg-hgcj" colspan="2">Sunday (Oct 15) </th>
+    <th class="tg-hgcj" colspan="2">Saturday (Oct. 20) </th>
+    <th class="tg-hgcj" colspan="2">Sunday (Oct. 21) </th>
   </tr>
-  <tr>
+  <!-- <tr>
     <th class="tg-hgcj" colspan="5"> Breakfast (7:30-8:30AM). Lunch (12-1pm). Break (3-3:30pm) </th>
-  </tr>
+  </tr> -->
   <tr>
     <td class="tg-0rnh">Room</td>
-    <td class="tg-0rnh">Morning (8:30AM-12:00pm)</td>
+    <td class="tg-0rnh">Morning (8:30AM-noon)</td>
     <td class="tg-0rnh">Afternoon (1pm-5pm)</td>
-    <td class="tg-0rnh">Morning (8:30AM-12:00pm)</td>
+    <td class="tg-0rnh">Morning (8:30AM-noon)</td>
     <td class="tg-vv7f">Afternoon (1pm-5pm)</td>
   </tr>
   <tr>
-    <td class="tg-s6z2">1</td>
-    <td class="tg-s6z2" colspan="2">Cognitive Workloads</td>
-    <td class="tg-s6z2" colspan="2">NocARC</td>
+    <td class="tg-s6z2">Savoy I</td>
+    <td class="tg-s6z2" colspan="2">ROCm+MIOpen</td>
+    <td class="tg-s6z2">Intermittent<br>Computing</td>
+    <td class="tg-s6z2">Quantum<br>Computing</td>
   </tr>
   <tr>
-    <td class="tg-5hgy">2</td>
-    <td class="tg-5hgy" colspan="2">Women and Minorities</td>
-    <td class="tg-5hgy" colspan="2">HW-ML</td>
+    <td class="tg-5hgy">Savoy II</td>
+    <td class="tg-5hgy" colspan="2">RISC-V</td>
+    <td class="tg-5hgy" colspan="2">PHOTONICS</td>
   </tr>
   <tr>
-    <td class="tg-s6z2">3</td>
-    <td class="tg-s6z2" colspan="2">CARRV</td>
-    <td class="tg-s6z2" colspan="2">Cognitive Edge Computing</td>
+    <td class="tg-s6z2">Red Rose</td>
+    <td class="tg-s6z2" colspan="2">NoCArc</td>
+    <td class="tg-s6z2" colspan="2">Women and Minorities</td>
   </tr>
   <tr>
-    <td class="tg-5hgy">4</td>
-    <td class="tg-5hgy"><strike>Quantum</strike></td>
-    <td class="tg-5hgy">NOPE</td>
-    <td class="tg-5hgy">Reliability Assessment</td>
-    <td class="tg-vn4c">OpenPiton</td>
+    <td class="tg-5hgy">Drawing</td>
+    <td class="tg-5hgy">GenSim</td>
+    <td class="tg-5hgy">LvNA</td>
+    <td class="tg-5hgy">Domain Specific<br>System<br>Architecture</td>
+    <td class="tg-vn4c">Energy Efficient<br>Computing</td>
   </tr>
 </table>
 
@@ -63,13 +64,11 @@ title: Program
 
 | Name                     	|   	| Full Name                                                               	| Organizers                                                          	| Affiliation                            	|
 |--------------------------	|---	|-------------------------------------------------------------------------	|---------------------------------------------------------------------	|----------------------------------------	|
-| Cognitive Workloads       	|   	| [Exploiting Accelerator Diversity for Cognitive Workloads](https://researcher.watson.ibm.com/researcher/view_group.php?id=8173)              	| Peter Hofstee, Raj Krishnamurthy, Ganesan Narayanasamy                       	| IBM                                   	|
-| NocArc                   	|   	| [Workshop on Network on Chip Architectures (NoCArc)](http://www.nocarc.org/)                      	| Maurizio Palesi                                                     	| U of Catania, Italy                    	|
-| Women and Minorities     	|   	| [Career Workshop for Women and Minorities in Computer Architecture](https://www.cs.virginia.edu/~smk9u/cwwmca2017/home.htm)       	| Valentina, Zehra, Alan                                              	| IBM                                    	|
-| CARRV                    	|   	| [First Workshop on RISC-V for Computer Architecture Research (CARRV)](https://carrv.github.io/)     	| Silviu, Arun, Arvind                                                	| BAE, MIT                               	|
-| Cognitive Edge Computing 	|   	| [Cognitive Edge Computing](http://cogedge.ece.utexas.edu/)                                                 	| Ravi Iyer, Nilesh Jain, VJ Reddi, Yuhao Zhu                                    	| Intel, Google, UT Austin, University of Rochester               	|
-| NOPE                     	|   	| [Workshop On Negative Outcomes, Post-mortems, and Experiences](http://nope.pub/)            	| Brandon Reagen, Svilen Kanev, Bob Adolf, David Brooks                      	|   Harvard, Google                             	|
-|                          	|   	|                                                                         	|                                                                     	|                                        	|
+| RISC-V       	|   	| RISC-V Day Workshop            	| Shumpei Kawasaki, Kreste Asanovic                      	| SH Consulting KK., UC Berkeley                              	|
+| PHOTONICS           	|   	| [PHOTONICS: Photonics-Optics Technology Oriented Networking, Information, and Computing Systems](https://www.ece.ust.hk/~eexu/PHOTONICS.html)       | Jiang Xu, Yuichi Nakamura, Yi-Shing Chang                                              | Hong Kong University of Science and Technology, NEC, Intel                	|
+| NoCArc  	|   	|Network-on-Chip Architectures      	| Maurizio Palesi                     	| University of Catania                              	|
+| Women and Minorities  	|   	| Career Workshop for Women and Minorities in Computer Architecture 	| Valentina Salapura, Zehra Sura, Alan Bivens	| IBM                        	|
+| Domain Specific System Architecture 	|   	| First Annual Workshop on Domain Specific System Architecture                                               	| Hyesoon Kim, Giho Park                  	| Georgia Tech, Sejong University         	|
 {: .table .table-striped }
 
 
@@ -78,10 +77,12 @@ title: Program
 
 | Name                      |     | Full Name                                                                 | Organizers                                                            | Affiliation                             |
 |-------------------------- |---  |-------------------------------------------------------------------------  |---------------------------------------------------------------------  |---------------------------------------- |
-| <strike>Quantum</strike>                   |     | <strike>Tutorial on Quantum Computing</strike>                                             | Koen Bertels and Carmen G. Almudéver                                  | Delft University of Technology, QuTech  |
-| HW-ML                     |     | [Tutorial on Hardware Architectures for Deep Neural Networks](http://eyeriss.mit.edu/tutorial.html)| Joel Emer, Vivienne Sze, and Yu-Hsin Chen  | MIT and Nvidia                    |
-| Reliability Assessment    |     | [Tutorial on Microarchitecture Level Reliability Assessment: Throughput and Accuracy](http://micro50-tutorial.di.uoa.gr/)   |    Dimitris Gizopoulos, Athanasios Chatzidimitriou, Manolis Kaliorakis,   | Univ. of Athens                         |
-| OpenPiton                 |     | [An Introduction to OpenPiton, a Manycore Open Source Processor](http://parallel.princeton.edu/openpiton/MICRO17_tutorial.html)           | David Wentzlaff                                                       | Princeton                               |
+| ROCm+MIOpen              |     | AMD Radeon Open Compute and Machine Intelligence: Hardware and Software                                             | Joseph Greathouse, Gabriel Loh                 | AMD  |
+| Intermittent Computing              |     | Getting Started with Intermittent Computing | Brandon Lucia, Emily Ruppel, Kiwan Maeng, Graham Gobieski  | CMU                 |
+| Quantum Computing    |     | Introduction to Grand Challenges and Research Tools for Quantum Computing   |   Fred Chong, Margaret Martonosi, Ali Javadi-Abhari   | UChicago, Princeton, IBM                         |
+| GenSim                |     | GenSim: A Toolset for Efficient Binary Translation     | Harry Wagstaff, Bruno Bodin, Tom Spink, Björn Franke                                         | University of Edinburgh                               |
+| LvNA                |     | The case for Labeled von Neumann Architecture      | Yungang Bao            | ICT, CAS     |
+| Energy Efficient Computing         |     | Energy Efficient Computing in Multicore CPUs: Design Margins and Variability     | Dimitris Gizopoulos, George Papadimitriou, Athanasios Chatzidimitriou     | University of Athens                         |
 {: .table .table-striped }
 
 
