@@ -39,11 +39,11 @@ Shuttle bus (<a href="http://hearts81.com/airport/index_en.html">Fukuoka Airport
 ### By Fukuoka City Subway
 
 Fukuokakuko Station is in Domestic Terminal. From the International Terminal, please take the <a href="http://www.fuk-ab.co.jp/english/bus3.html">free shuttle bus</a> to the Domestic Terminal. The detail of the direction is <a href="http://www.fuk-ab.co.jp/english/subway.html#out">here</a>.
-It takes a 5 minutes ride from Fukuokakuko Station to JR Hakata Station, and then 10 minutes walk to Grand Hyatt Fukuoka. For the directions from Hakata station, please refer to “<a href="#JR">From JR Hakata Station</a>.”
+It takes a 5 minutes ride from Fukuokakuko Station to JR Hakata Station, and then 10 minutes walk to Grand Hyatt Fukuoka. For the directions from Hakata station to Grand Hyatt Fukuoka, please refer to “<a href="#JR">From JR Hakata Station</a>.”
 
 ### By Taxi
 
-About 30 minutes from the airport. The fare is roughly 2,000JPY (roughly 18USD).
+About 30 minutes from the airport to the hotel. The fare is roughly 2,000JPY (roughly 18USD).
 
 
 ## <mark id="airportDT">From Fukuoka International Airport (Domestic Terminal)</mark>
@@ -58,11 +58,11 @@ Shuttle bus (<a href="http://hearts81.com/airport/index_en.html">Fukuoka Airport
 ### By Fukuoka City Subway
 
 Fukuokakuko Station is in Domestic Terminal. The detail of the direction is <a href="http://www.fuk-ab.co.jp/english/subway.html#out">here</a>.
- It takes a 5 minutes ride from Fukuokakuko Station to JR Hakata Station, and then 10 minutes walk to Grand Hyatt Fukuoka. For the directions from Hakata station, please refer to “<a href="#JR">From JR Hakata Station</a>.”
+ It takes a 5 minutes ride from Fukuokakuko Station to JR Hakata Station, and then 10 minutes walk to Grand Hyatt Fukuoka. For the directions from Hakata station to Grand Hyatt Fukuoka, please refer to “<a href="#JR">From JR Hakata Station</a>.”
 
 ### By Taxi
 
-About 30 minutes from the airport. The fare is roughly 2,000JPY (roughly 18USD).
+About 30 minutes from the airport to the hotel. The fare is roughly 2,000JPY (roughly 18USD).
 
 ## <mark id="JR">From JR Hakata Station</mark>
 You may take either of the following two options.
@@ -73,9 +73,9 @@ You may take either of the following two options.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1nCx5Tz6wSxRIteejDYprMnRxHbsGGwtJ&hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-### On foot
+### On Foot
 
-About 10 minutes walk from the station.
+About 10 minutes walk from the station to the hotel.
 <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m8!1m3!1d6647.253801480993!2d130.4129588!3d33.5890352!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x354191c7e6f9b375%3A0x2ee22b3d45b98b90!2zSGFrYXRhIFN0YXRpb24sIOS4reWkruihly0xLTEg5Y2a5aSa6aeFIEhha2F0YS1rdSwgRnVrdW9rYS1zaGksIEZ1a3Vva2Eta2VuIDgxMi0wMDEy!3m2!1d33.590044899999995!2d130.42061049999998!4m5!1s0x354191958d1f69e9%3A0x3f2de349072814c1!2sGrand+Hyatt+Fukuoka%2C+2-82+Sumiyoshi%2C+Hakata+Ward%2C+Fukuoka%2C+Fukuoka+Prefecture!3m2!1d33.589740299999995!2d130.4105247!5e0!3m2!1sja!2sjp!4v1525609024406" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
