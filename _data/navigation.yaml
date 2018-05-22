@@ -42,6 +42,8 @@
 #      url: Visa/
 #    - title: Student Travel Award
 #      url: StudentTravel/
+    - title: CARES
+      url: Cares/
 
 - title: Organization
   sublinks:
