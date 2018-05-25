@@ -83,7 +83,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
               Platinum Sponsors </span></span></strong></span></p>
 <div style="margin:0 auto; text-align:center;">
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/socionext_logo_tagline_k_100_trim.jpg" height ="140" alt="socionext_logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/fujitsu_logo.jpg" height ="250" alt="fujitsu_logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/fujitsu_logo.jpg" height ="220" alt="fujitsu_logo"/></div>
 </div>
 
 <p align="center">
@@ -92,7 +92,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="margin:0 auto; text-align:center;">
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/e-trees_logo.png" height ="100" alt="e-trees logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="100" alt="logic-research logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/toshiba_logo.png" height ="180" alt="Toshiba logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/toshiba_logo.png" height ="170" alt="Toshiba logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TOSHIBAmemory_logo.png" height ="120" alt="Toshiba Memory logo"/></div>
 
 </div>
