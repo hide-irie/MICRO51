@@ -94,6 +94,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="100" alt="logic-research logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/toshiba_logo.png" height ="170" alt="Toshiba logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TOSHIBAmemory_logo.png" height ="120" alt="Toshiba Memory logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NSI-TEXE_logo.png" height ="220" alt="NSI-TEXE logo"/></div>
 
 </div>
 
