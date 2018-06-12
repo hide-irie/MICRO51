@@ -82,7 +82,7 @@ title: Program
 | Quantum Computing    |     | Introduction to Grand Challenges and Research Tools for Quantum Computing   |   Fred Chong, Margaret Martonosi, Ali Javadi-Abhari   | UChicago, Princeton, IBM                         |
 | GenSim                |     | GenSim: A Toolset for Efficient Binary Translation     | Harry Wagstaff, Bruno Bodin, Tom Spink, Björn Franke                                         | University of Edinburgh                               |
 | LvNA                |     | The case for Labeled von Neumann Architecture      | Yungang Bao            | ICT, CAS     |
-| Energy Efficient Computing         |     | Energy Efficient Computing in Multicore CPUs: Design Margins and Variability     | Dimitris Gizopoulos, George Papadimitriou, Athanasios Chatzidimitriou     | University of Athens                         |
+| Energy Efficient Computing         |     | [Energy Efficient Computing in Multicore CPUs: Design Margins and Variability](http://micro51.tutorial.di.uoa.gr/)     | Dimitris Gizopoulos, George Papadimitriou, Athanasios Chatzidimitriou     | University of Athens                         |
 {: .table .table-striped }
 
 
