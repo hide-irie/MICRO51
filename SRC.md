@@ -3,7 +3,7 @@ layout: default
 title: Student Research Competition
 ---
 
-# Call for Abstracts MICRO 51 ACM Student Research Competition (SRC)
+## Call for Abstracts MICRO 51 ACM Student Research Competition (SRC)
 
 ## Important Dates
 
