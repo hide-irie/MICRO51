@@ -115,7 +115,7 @@ Guru Prasadh Venkataramani (George Washington University, USA)
 
 ## SRC Selection Committee
 
-<<TBD>>
+TBD
 
 # Submission Information
 
