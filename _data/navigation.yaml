@@ -53,3 +53,9 @@
       url: PC/
 #    - title: External Review Committee
 #      url: TBA/
+
+
+- title: Student Research Competition
+  sublinks:
+    - title: Call for Abstracts
+      url: SRC/
