@@ -65,7 +65,7 @@ session at MICRO 2018 and compete for the prizes. The evaluation
 will be concentrated on the quality of both visual and oral
 presentation, the research methods, and the significance of
 contribution. You can find more information on the ACM Student
-Research Competition site (https://src.acm.org/).
+Research Competition site (<a href="https://src.acm.org/">https://src.acm.org/</a>).
 
 ## Eligibility
 
@@ -123,7 +123,7 @@ TBD
 Extended abstracts of up to 800 words should be submitted through
 the following easychair link on or before July 22, 2018:
 
-https://easychair.org/conferences/?conf=acmsrcatmicro51
+<a href="https://easychair.org/conferences/?conf=acmsrcatmicro51">https://easychair.org/conferences/?conf=acmsrcatmicro51</a>
 
 # Sponsors
 
