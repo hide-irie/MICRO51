@@ -90,12 +90,12 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Gold Sponsors </span></span></strong></span></p>
 <div style="margin:0 auto; text-align:center;">
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/e-trees_logo.png" height ="100" alt="e-trees logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="100" alt="logic-research logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/toshiba_logo.png" height ="170" alt="Toshiba logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TOSHIBAmemory_logo.png" height ="120" alt="Toshiba Memory logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/e-trees_logo.png" height ="95" alt="e-trees logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="95" alt="logic-research logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/toshiba_logo.png" height ="160" alt="Toshiba logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TOSHIBAmemory_logo.png" height ="115" alt="Toshiba Memory logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NSI-TEXE_logo.png" height ="230" alt="NSI-TEXE logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/IBM_Logo.gif" height ="90" alt="IBM logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/IBM_Logo.gif" height ="95" alt="IBM logo"/></div>
 
 </div>
 
