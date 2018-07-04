@@ -48,7 +48,7 @@ title:
  </div>
  <div class="col-md-6">
   <img class="img-responsive" src="{{ site.baseurl }}/images/fukuoka2.jpg" width="90%">
-<p>(Provided by the City of Fukuoka.)</p>
+<p>(Several photos are provided by the City of Fukuoka.)</p>
  </div>
 </div>
 
