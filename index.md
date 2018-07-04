@@ -47,7 +47,7 @@ title:
   <p><a href="https://micro51-submission.gatech.edu/">MICRO 2018 submissions site</a>.</p>
  </div>
  <div class="col-md-6">
-  <img class="img-responsive" src="{{ site.baseurl }}/images/fukuoka.jpg" width="90%">
+  <img class="img-responsive" src="{{ site.baseurl }}/images/fukuoka2.jpg" width="90%">
 <p>(Provided by the City of Fukuoka.)</p>
  </div>
 </div>
