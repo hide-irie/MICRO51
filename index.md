@@ -82,7 +82,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Platinum Sponsors </span></span></strong></span></p>
 <div style="margin:0 auto; text-align:center;">
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/socionext_logo_tagline_k_100_trim.jpg" height ="140" alt="socionext_logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/socionext_logo_tagline_k_100_trim.jpg" height ="135" alt="socionext_logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/fujitsu_logo.jpg" height ="230" alt="fujitsu_logo"/></div>
 </div>
 
@@ -90,10 +90,10 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Gold Sponsors </span></span></strong></span></p>
 <div style="margin:0 auto; text-align:center;">
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/e-trees_logo.png" height ="95" alt="e-trees logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="95" alt="logic-research logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/toshiba_logo.png" height ="160" alt="Toshiba logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TOSHIBAmemory_logo.png" height ="115" alt="Toshiba Memory logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/e-trees_logo.png" height ="90" alt="e-trees logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="90" alt="logic-research logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/toshiba_logo.png" height ="150" alt="Toshiba logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TOSHIBAmemory_logo.png" height ="110" alt="Toshiba Memory logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NSI-TEXE_logo.png" height ="230" alt="NSI-TEXE logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/IBM_Logo.gif" height ="100" alt="IBM logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/Huawei-logo-veritical.png" height ="200" alt="Huawei logo"/></div>
@@ -107,7 +107,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="margin:0 auto; text-align:center;">
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="105" alt="eSOL logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/fixstars_logo.png" height ="110" alt="fixstars logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NTTWest_logo.jpg" height ="190" alt="NTTWest logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NTTWest_logo.jpg" height ="180" alt="NTTWest logo"/></div>
 
 </div>
 
