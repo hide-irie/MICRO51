@@ -49,9 +49,12 @@ The page limit on non-reference pages is 12 for MICRO-50 papers. However, it is 
 Registration Cancellation Policy
 --------------------------------
 
-Cancellations on or prior to September 14th, 2017 will incur a US $50 administrative fee. 
-Cancellations made after September 14th but no later than September 19th, 2017 will result in refunding only 50% of what you paid.  No cancellations will be accepted after September 19th.
 
-Please submit cancellation requests via email to Michel Kinsy (MICRO-50 General Chair). 
+Cancellations on or prior to September 20th, 2018 will incur a US $50 administrative fee. 
+Cancellations made after September 20th but no later than September 25th, 2018 will result in refunding only 50% of what you paid. 
+No cancellations will be accepted after September 25th.
+
+Please submit cancellation requests via email to "micro2018@hal.ipc.i.u-tokyo.ac.jp".
+
 
 
