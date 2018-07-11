@@ -78,7 +78,7 @@ title: Program
 | Name                      |     | Full Name                                                                 | Organizers                                                            | Affiliation                             |
 |-------------------------- |---  |-------------------------------------------------------------------------  |---------------------------------------------------------------------  |---------------------------------------- |
 | ROCm+MIOpen              |     | AMD Radeon Open Compute and Machine Intelligence: Hardware and Software                                             | Joseph Greathouse, Gabriel Loh                 | AMD  |
-| Intermittent Computing              |     | Getting Started with Intermittent Computing | Brandon Lucia, Emily Ruppel, Kiwan Maeng, Graham Gobieski  | CMU                 |
+| Intermittent Computing              |     | [Getting Started with Intermittent Computing](https://cmuabstract.github.io/intermittence_tutorial/) | Brandon Lucia, Emily Ruppel, Kiwan Maeng, Graham Gobieski, Milijana Surbatovich  | CMU                 |
 | Quantum Computing    |     | Introduction to Grand Challenges and Research Tools for Quantum Computing   |   Fred Chong, Margaret Martonosi, Ali Javadi-Abhari   | UChicago, Princeton, IBM                         |
 | GenSim                |     | GenSim: A Toolset for Efficient Binary Translation     | Harry Wagstaff, Bruno Bodin, Tom Spink, Björn Franke                                         | University of Edinburgh                               |
 | LvNA                |     | The case for Labeled von Neumann Architecture      | Yungang Bao            | ICT, CAS     |
