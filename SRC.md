@@ -116,7 +116,24 @@ Guru Prasadh Venkataramani (George Washington University, USA)
 
 ## SRC Selection Committee
 
-TBD
+|                                                        |                                  |
+| -----------------------------------------------------: | -------------------------------- |
+| Jung Ho Ahn | Seoul National University |
+| Natalie Enright Jerger | University of Toronto |
+| Holger Fröning | Universitat Heidelberg |
+|	Adwait Jog | William and Mary |
+|	David Kaeli | Northeastern University |
+|	Aasheesh Kolli | Pennsylvania State University |
+|	Dhireesha Kudithipudi | University of Rochester |
+|	Hiroki Matsutani | Keio University | 
+|	Takashi Nakada | Nara Institute of Science and Technology |
+|	Moin Qureshi | Georgia Tech |
+|	Carlos Rozas | Intel Corporation |
+|	Federico Silla | Universitat Politecnica de Valencia |
+|	Jin Wang | NVIDIA |
+|	Chia-Lin Yang | National Taiwan University |
+|	Fan Yao | University of Central Florida |
+{: .table .table-striped }
 
 # Submission Information
 
