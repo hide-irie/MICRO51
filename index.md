@@ -75,28 +75,28 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
               Diamond Sponsors </span></span></strong></span></p>
 
 <div style="margin:0 auto; text-align:center;">
-<div style="display:inline-block; margin: 90px;"><img border="0" src="{{ site.baseurl }}/images/Panasonic_logo_bl_posi_PNG.png" height ="85" alt="Panasonic_logo"/></div>
+<div style="display:inline-block; margin: 90px;"><img border="0" src="{{ site.baseurl }}/images/Panasonic_logo_bl_posi_PNG.png" height ="83" alt="Panasonic_logo"/></div>
 </div>
 
 <p align="center">
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Platinum Sponsors </span></span></strong></span></p>
 <div style="margin:0 auto; text-align:center;">
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/socionext_logo_tagline_k_100_trim.jpg" height ="135" alt="socionext_logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/fujitsu_logo.jpg" height ="230" alt="fujitsu_logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TRI-AD_logo.png" height ="230" alt="TRI-AD_logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/socionext_logo_tagline_k_100_trim.jpg" height ="130" alt="socionext_logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/fujitsu_logo.jpg" height ="220" alt="fujitsu_logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TRI-AD_logo.png" height ="210" alt="TRI-AD_logo"/></div>
 </div>
-
+<br>
 <p align="center">
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Gold Sponsors </span></span></strong></span></p>
 <div style="margin:0 auto; text-align:center;">
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/e-trees_logo.png" height ="90" alt="e-trees logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="90" alt="logic-research logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/toshiba_logo.png" height ="150" alt="Toshiba logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TOSHIBAmemory_logo.png" height ="110" alt="Toshiba Memory logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/e-trees_logo.png" height ="85" alt="e-trees logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/lr_logo.jpg" height ="85" alt="logic-research logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/toshiba_logo.png" height ="145" alt="Toshiba logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TOSHIBAmemory_logo.png" height ="105" alt="Toshiba Memory logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NSI-TEXE_logo.png" height ="230" alt="NSI-TEXE logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/IBM_Logo.gif" height ="100" alt="IBM logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/IBM_Logo.gif" height ="95" alt="IBM logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/Huawei-logo-veritical.png" height ="200" alt="Huawei logo"/></div>
 
 </div>
@@ -106,9 +106,9 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
               Silver Sponsors </span></span></strong></span></p>
 
 <div style="margin:0 auto; text-align:center;">
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="105" alt="eSOL logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="100" alt="eSOL logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/fixstars_logo.png" height ="110" alt="fixstars logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NTTWest_logo.jpg" height ="180" alt="NTTWest logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NTTWest_logo.jpg" height ="170" alt="NTTWest logo"/></div>
 
 </div>
 
@@ -139,7 +139,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
               Other Sponsors/Supporters </span></span></strong></span></p>
 
 <div style="margin:0 auto; text-align:center;">
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/taf-logo-je.jpg" height ="80" alt="TAF_logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/taf-logo-je.jpg" height ="75" alt="TAF_logo"/></div>
 <div style="display:inline-block; margin: 20px;"> <img border="0" src="{{site.baseurl}}/images/NICT_logo.png" height="80" /><br /><font size="3" color="#000000">International Exchange Program of NICT</font></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/secom.png" height ="80" alt="secom_logo"/></div>
 <div style="display:inline-block; margin: 20px;"> <img border="0" src="{{site.baseurl}}/images/IPSJ_logoA_L.gif" height="80" /><br /><font size="3" color="#000000">IPSJ SIGARC</font></div>
