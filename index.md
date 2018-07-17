@@ -101,7 +101,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/hynix_logo.png" height ="100" alt="SK hynix logo"/></div>
 
 </div>
-
+<br>
 <p align="center">
 <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Silver Sponsors </span></span></strong></span></p>
