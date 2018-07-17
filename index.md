@@ -98,7 +98,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NSI-TEXE_logo.png" height ="230" alt="NSI-TEXE logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/IBM_Logo.gif" height ="95" alt="IBM logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/Huawei-logo-veritical.png" height ="200" alt="Huawei logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/hynix-logo.png" height ="100" alt="SK hynix logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/hynix_logo.png" height ="100" alt="SK hynix logo"/></div>
 
 </div>
 
