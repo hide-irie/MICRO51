@@ -11,7 +11,7 @@ title:
   <p> Fukuoka City, Japan (<a href="https://www.youtube.com/watch?v=CLxntu0QIFA&feature=youtu.be">Youtube</a>)</p>
   <p> Hotel: GRAND HYATT FUKUOKA. (TBA)Link to MICRO Reservation.</p>
   <p> (TBA)Link to Registration.</p>
-  <p> (TBA)Link to Student Award.</p>
+  <p> [Link to Student Award.](https://www.microarch.org/micro51/SRC/)</p>
   <p> (TBA)Link to Visa request.</p>
   <table>
      <thead>
