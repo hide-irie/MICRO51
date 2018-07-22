@@ -3,8 +3,6 @@ layout: default
 title: Student Travel Award
 ---
 
-## Student Travel Award
-
 <p>We are planning to provide student travel support for students to defray a portion of their travel cost. 
 The size and number of these grants will vary depending on funding availability, the number of student applicants, 
 and their respective priority. Grant awards will be made before <b>August 27th</b>; expenses will be reimbursed after the conference; grant recipients will be asked to submit original receipts to verify their expenditures.
