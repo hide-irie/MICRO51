@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Student Research Competition
+title: Student Travel Award
 ---
 
 ## Student Travel Award
