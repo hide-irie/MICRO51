@@ -7,9 +7,9 @@ title: Student Research Competition
 
 ## Important Dates
 
-**Abstract submission: July 22, 2018 (11:59 pm EDT).**
+**Abstract submission: ~~July 22, 2018 (11:59 pm EDT).~~ July 29, 2018 (11:59 pm EDT).**
 
-**Acceptance notification: Aug 15, 2018.**
+**Acceptance notification: ~~Aug 15, 2018.~~ Aug 18, 2018.**
 
 The 51st International Symposium on Microarchitecture is the
 premier forum for presenting, discussing, and debating innovative
