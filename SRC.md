@@ -86,14 +86,14 @@ conditions:
   clearly and concisely conveying the work in a poster format.
 * It should state the novelty and contributions of the work
   explicitly.
-* The submission deadline is July 22, 2018 at 23:59 EDT.
+* The submission deadline is July 29, 2018 at 23:59 EDT.
 * The abstract must have not appeared before. Novelty is one of
   the criteria for selection.
 * The abstract and the poster must be authored solely by the
   participant.
 * The participant can be from anywhere in the world, but must be
   an ACM student member, and must maintain an undergraduate or
-  graduate student status as of July 22, 2018.
+  graduate student status as of July 29, 2018.
 * In your submission, please indicate whether you are an
   undergraduate or a graduate student.
 * You may join ACM prior to entering. Basic student membership is
@@ -138,7 +138,7 @@ Guru Prasadh Venkataramani (George Washington University, USA)
 # Submission Information
 
 Extended abstracts of up to 800 words should be submitted through
-the following easychair link on or before July 22, 2018:
+the following easychair link on or before July 29, 2018:
 
 <a href="https://easychair.org/conferences/?conf=acmsrcatmicro51">https://easychair.org/conferences/?conf=acmsrcatmicro51</a>
 
