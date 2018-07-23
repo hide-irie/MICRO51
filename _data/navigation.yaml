@@ -40,8 +40,8 @@
       url: Hotel/
 #    - title: Visa
 #      url: Visa/
-#    - title: Student Travel Award
-#      url: StudentTravel/
+    - title: Student Travel Award
+      url: StudentTravel/
     - title: CARES
       url: Cares/
 
