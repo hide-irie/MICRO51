@@ -2,11 +2,13 @@
 layout: default
 title: Visa Letter
 ---
-A visa is required to enter Japan for many nationalities. Please check the following websites and contact the Consular Section of the Embassy or Consulate General of Japan nearest you. In case a visa is required, please apply as soon as possible, as obtaining the visa may take long time.
 
+The MICRO'18 conference will be held in Japan. A visa may be required for you to enter the country. 
 
-[VISA / Residing in Japan](http://www.mofa.go.jp/j_info/visit/visa/)
+To request an invitation letter and other documents, if needed for attending MICRO’18 in Japan, please e-mail General Co-Chair [Koji Inoue](micro51-visa@cpc.ait.kyushu-u.ac.jp) with “MICRO51 Visa Request ”Your name” (e.g., MICRO51 Visa Request Koji Inoue) in the subject line. If you have a paper accepted in the main conference or any of the workshops, please e-mail the title of it as well and the event name. Before the invitation letter is issued, additional information may also be requested by the General Co-Chair if/as needed for some invitation letter requests, such as copy of your passport and/or student ID. You should allow sufficient time for a response to be given, which may be up to five (5) business days from receipt of all needed information for your request before the letter is emailed.
+
+Please note that it is your responsibility to obtain all necessary documentation to visit Japan and to do so in a timely manner. For visa application, please contact the Consular Section of the Embassy or Consulate General of Japan nearest to you. As a courtesy, here are links that provide information on tourism and visitation visas to Japan: 
+
+[Link to VISA / Residing in Japan](http://www.mofa.go.jp/j_info/visit/visa/)
 
 [Link to Japanese Embassies, Consulates and Permanent Missions](https://www.mofa.go.jp/about/emb_cons/mofaserv.html)
-
-MICRO-51 organizing committee issues an invitation letter and supports the VISA applications only for authors and participants (including workshops and tutorials). Please contact [Koji Inoue](mailto:micro51-visa@cpc.ait.kyushu-u.ac.jp).
