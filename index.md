@@ -99,6 +99,8 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/IBM_Logo.gif" height ="90" alt="IBM logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/Huawei-logo-veritical.png" height ="190" alt="Huawei logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/hynix_logo.png" height ="100" alt="SK hynix logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/intel_log.png" height ="130" alt="Intel logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height ="120" alt="Arm logo"/></div>
 
 </div>
 <br>
