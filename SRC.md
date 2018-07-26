@@ -72,10 +72,13 @@ Research Competition site (<a href="https://src.acm.org/">https://src.acm.org/</
 A participant and submission in the SRC must meet all following
 conditions:
 
+A participant and submission in the SRC must meet all following
+conditions:
+
 * The participant must submit an up to 800-word
-  abstract (optionally, blind) outlining the content of a poster
+  abstract PDF (optionally, blind) outlining the content of a poster
   that is going to be presented during the competition.
-* The abstract must include the poster title, author names,
+* The submission entry must include the poster title, author names,
   affiliations, and the name of the academic advisor. The
   abstract may be authored by more than one student. However,
   only the lead student (first author) is considered as a
@@ -89,7 +92,7 @@ conditions:
 * The submission deadline is July 29, 2018 at 23:59 EDT.
 * The abstract must have not appeared before. Novelty is one of
   the criteria for selection.
-* The abstract and the poster must be authored solely by the
+* The abstract and the poster must be authored by the
   participant.
 * The participant can be from anywhere in the world, but must be
   an ACM student member, and must maintain an undergraduate or
@@ -126,6 +129,7 @@ Guru Prasadh Venkataramani (George Washington University, USA)
 |	Aasheesh Kolli | Pennsylvania State University |
 |	Dhireesha Kudithipudi | University of Rochester |
 |	Hiroki Matsutani | Keio University | 
+|	Onur Mutlu | ETH Zurich | 
 |	Takashi Nakada | Nara Institute of Science and Technology |
 |	Moin Qureshi | Georgia Tech |
 |	Carlos Rozas | Intel Corporation |
