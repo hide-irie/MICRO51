@@ -4,7 +4,7 @@ title: Guidelines for Camera Ready - MICRO 2018
 ---
 
 
-**Deadline** : Monday, 27 August 2018 (11:59pm EDT)
+**Deadline** : Monday, 27 August 2018 (11:59pm PDT)
 
 **Paper Specifications** : <br>
  Body Page limit: 11 pages  (including all figures, tables, and appendix, but not including references).<br>
