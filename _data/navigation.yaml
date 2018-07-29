@@ -18,12 +18,12 @@
       url: Site/
 
 
-#- title: Authors
-#  sublinks:
+- title: Authors
+  sublinks:
 #    - title: Camera Ready
 #      url: Camera/
-#    - title: Visa
-#      url: Visa/
+    - title: Visa
+      url: Visa/
 
 - title: Technical Sessions
   sublinks:
@@ -38,8 +38,8 @@
 #      url: Registration/
     - title: Conference Venue
       url: Hotel/
-#    - title: Visa
-#      url: Visa/
+    - title: Visa
+      url: Visa/
     - title: Student Travel Award
       url: StudentTravel/
     - title: CARES
