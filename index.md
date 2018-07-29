@@ -12,7 +12,7 @@ title:
   <p> Hotel: GRAND HYATT FUKUOKA. (TBA)Link to MICRO Reservation.</p>
   <p> (TBA)Link to Registration.</p>
   <p> <a href="https://www.microarch.org/micro51/StudentTravel/">Link to Student Travel Award</a>.</p>
-  <p> (TBA)Link to Visa request.</p>
+  <p>  <a href="https://www.microarch.org/micro51/Visa/">Link to Visa request</a>.</p>
   <table>
      <thead>
        <tr>
