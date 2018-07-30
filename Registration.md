@@ -14,13 +14,13 @@ Full conference registration includes admission to the conference, digital confe
 
 |                              	| Early 	| Late 	|   	|   	|
 |------------------------------	|-------	|------	|---	|---	|
-| IEEE/ACM,Member              	| &yen;66,000   	| &yen;96,000  	|   	|   	|
-| Non-Member                   	| &yen;83,000   	| &yen;116,000 	|   	|   	|
-| ACM/IEEE Life/Retired Member 	| &yen;38,000   	| &yen;56,000  	|   	|   	|
-| Student IEEE/ACM Member      	| &yen;38,000   	| &yen;56,000  	|   	|   	|
-| Student Non-Member           	| &yen;48,000   	| &yen;68,000  	|   	|   	|
+| IEEE/ACM,Member              	| &yen;66,000 (USD 600)  	| &yen;96,000 (USD 870)  	|   	|   	|
+| Non-Member                   	| &yen;83,000 (USD 750)  	| &yen;116,000 (USD 1,050) 	|   	|   	|
+| ACM/IEEE Life/Retired Member 	| &yen;38,000 (USD 350)  	| &yen;56,000 (USD 510) 	|   	|   	|
+| Student IEEE/ACM Member      	| &yen;38,000 (USD 350)   	| &yen;56,000 (USD 510) 	|   	|   	|
+| Student Non-Member           	| &yen;48,000 (USD 440)  	| &yen;68,000 (USD 620) 	|   	|   	|
 {: .table } 
-
+USD representations are just for references when &yen;110/USD is assumed.  
 
 
 Workshop/Tutorial Registration
@@ -31,13 +31,13 @@ Tutorial/workshop registration includes attendance in the workshops and tutorial
 
 |                              	| Early (one day) 	| Late (one day) 	| Early (two days) 	| Late (two days) 	|
 |------------------------------	|-----------------	|----------------	|------------------	|-----------------	|
-| IEEE/ACM,Member              	| &yen;22,000             	| &yen;31,000           	| &yen;30,000              	| &yen;43,000             	|
-| Non-Member                   	| &yen;27,000             	| &yen;38,000            	| &yen;39,000              	| &yen;54,000             	|
-| ACM/IEEE Life/Retired Member 	| &yen;18,000             	| &yen;26,000            	| &yen;26,000              	| &yen;38,000             	|
-| Student IEEE/ACM Member      	| &yen;18,000             	| &yen;26,000            	| &yen;26,000              	| &yen;38,000             	|
-| Student Non-Member           	| &yen;22,000             	| &yen;31,000            	| &yen;30,000              	| &yen;43,000             	|
+| IEEE/ACM,Member              	| &yen;22,000 (USD 200)            	| &yen;31,000 (USD 280)          	| &yen;30,000  (USD 270)            	| &yen;43,000 (USD 390)            	|
+| Non-Member                   	| &yen;27,000 (USD 250)            	| &yen;38,000 (USD 350)           	| &yen;39,000 (USD 350)             	| &yen;54,000 (USD 490)            	|
+| ACM/IEEE Life/Retired Member 	| &yen;18,000 (USD 160)            	| &yen;26,000 (USD 240)           	| &yen;26,000 (USD 240)              	| &yen;38,000 (USD 350)            	|
+| Student IEEE/ACM Member      	| &yen;18,000 (USD 160)            	| &yen;26,000 (USD 240)           	| &yen;26,000 (USD 240)             	| &yen;38,000 (USD 350)            	|
+| Student Non-Member           	| &yen;22,000 (USD 200)            	| &yen;31,000 (USD 280)           	| &yen;30,000 (USD 270)             	| &yen;43,000 (USD 390)            	|
 {: .table}
-
+USD representations are just for references when &yen;110/USD is assumed. 
 
 
 Extra-Page Charge
