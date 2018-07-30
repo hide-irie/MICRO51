@@ -8,7 +8,7 @@ title: Guidelines for Camera Ready - MICRO 2018
 
 **Paper Specifications** : <br>
  Body Page limit: 11 pages  (including all figures, tables, and appendix, but not including references).<br>
- Extra Pages: Authors can purchase up to two (2) non-reference additional pages for 8,250 JPY per page.<br> 
+ Extra Pages: Authors can purchase up to two (2) non-reference additional pages for 8,250 JPY (USD 75) per page.<br> 
  Maximum total length with purchased extra pages and references cannot exceed 14 pages.<br>
 
 **Submission** : Visit [here](https://ieeecps.org/#!/auth/login?ak=1&pid=2AUfzFNBkeIHbCWsYVk9A) and follow the instruction.
