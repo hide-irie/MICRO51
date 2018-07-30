@@ -43,8 +43,9 @@ Tutorial/workshop registration includes attendance in the workshops and tutorial
 Extra-Page Charge
 -----------------
 
-Authors can have 11 (non-reference) pages for the full paper and can purchase up to 2 additional pages at $150US/page. The total length of the paper cannot exceed 14 pages. 
-
+Authors can have 11 pages (including all figures, tables, and appendix, but not including references)
+and can purchase up to two (2) non-reference additional pages for &yen;8,250 per page.
+Maximum total length with purchased extra pages and references cannot exceed 14 pages.
 
 Registration Cancellation Policy
 --------------------------------
