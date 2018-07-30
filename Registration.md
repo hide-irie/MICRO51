@@ -20,7 +20,7 @@ Full conference registration includes admission to the conference, digital confe
 | Student IEEE/ACM Member      	| &yen;38,000 (USD 350)   	| &yen;56,000 (USD 510) 	|   	|   	|
 | Student Non-Member           	| &yen;48,000 (USD 440)  	| &yen;68,000 (USD 620) 	|   	|   	|
 {: .table } 
-The Value in USD is a rough reference when &yen;110/USD is assumed.  
+\*The Value in USD is a rough reference when &yen;110/USD is assumed.  
 
 
 Workshop/Tutorial Registration
@@ -37,7 +37,7 @@ Tutorial/workshop registration includes attendance in the workshops and tutorial
 | Student IEEE/ACM Member      	| &yen;18,000 (USD 160)            	| &yen;26,000 (USD 240)           	| &yen;26,000 (USD 240)             	| &yen;38,000 (USD 350)            	|
 | Student Non-Member           	| &yen;22,000 (USD 200)            	| &yen;31,000 (USD 280)           	| &yen;30,000 (USD 270)             	| &yen;43,000 (USD 390)            	|
 {: .table}
-The Value in USD is a rough reference when &yen;110/USD is assumed.   
+\*The Value in USD is a rough reference when &yen;110/USD is assumed.   
 
 
 Extra-Page Charge
