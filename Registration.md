@@ -14,11 +14,11 @@ Full conference registration includes admission to the conference, digital confe
 
 |                              	| Early 	| Late 	|   	|   	|
 |------------------------------	|-------	|------	|---	|---	|
-| IEEE/ACM,Member              	| TBA   	| TBA  	|   	|   	|
-| Non-Member                   	| TBA   	| TBA 	|   	|   	|
-| ACM/IEEE Life/Retired Member 	| TBA   	| TBA  	|   	|   	|
-| Student IEEE/ACM Member      	| TBA   	| TBA  	|   	|   	|
-| Student Non-Member           	| TBA   	| TBA  	|   	|   	|
+| IEEE/ACM,Member              	| &yen;66,000   	| &yen;96,000  	|   	|   	|
+| Non-Member                   	| &yen;83,000   	| &yen;116,000 	|   	|   	|
+| ACM/IEEE Life/Retired Member 	| &yen;38,000   	| &yen;56,000  	|   	|   	|
+| Student IEEE/ACM Member      	| &yen;38,000   	| &yen;56,000  	|   	|   	|
+| Student Non-Member           	| &yen;48,000   	| &yen;68,000  	|   	|   	|
 {: .table } 
 
 
@@ -31,8 +31,8 @@ Tutorial/workshop registration includes attendance in the workshops and tutorial
 
 |                              	| Early (one day) 	| Late (one day) 	| Early (two days) 	| Late (two days) 	|
 |------------------------------	|-----------------	|----------------	|------------------	|-----------------	|
-| IEEE/ACM,Member              	| TBA             	| TBA            	| TBA              	| TBA             	|
-| Non-Member                   	| TBA             	| TBA            	| TBA              	| TBA             	|
+| IEEE/ACM,Member              	| &yen;22,000             	|            	| &yen;30,000              	| TBA             	|
+| Non-Member                   	| &yen;27,000             	| TBA            	| &yen;39,000              	| TBA             	|
 | ACM/IEEE Life/Retired Member 	| TBA             	| TBA            	| TBA              	| TBA             	|
 | Student IEEE/ACM Member      	| TBA             	| TBA            	| TBA              	| TBA             	|
 | Student Non-Member           	| TBA             	| TBA            	| TBA              	| TBA             	|
@@ -49,10 +49,7 @@ Authors can have 11 (non-reference) pages for the full paper and can purchase up
 Registration Cancellation Policy
 --------------------------------
 
-
-Cancellations on or prior to September 20th, 2018 will incur a US $50 administrative fee. 
-Cancellations made after September 20th but no later than September 25th, 2018 will result in refunding only 50% of what you paid. 
-No cancellations will be accepted after September 25th.
+Cancellations on or prior to September 20th, 2018 will incur a bank handling charge. Cancellations made after September 20th but no later than September 25th, 2018 will result in refunding only 50% of what you paid. No cancellations will be accepted after September 25th. 
 
 Please submit cancellation requests via email to "micro2018@hal.ipc.i.u-tokyo.ac.jp".
 
