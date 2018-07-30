@@ -31,11 +31,11 @@ Tutorial/workshop registration includes attendance in the workshops and tutorial
 
 |                              	| Early (one day) 	| Late (one day) 	| Early (two days) 	| Late (two days) 	|
 |------------------------------	|-----------------	|----------------	|------------------	|-----------------	|
-| IEEE/ACM,Member              	| &yen;22,000             	|            	| &yen;30,000              	| TBA             	|
-| Non-Member                   	| &yen;27,000             	| TBA            	| &yen;39,000              	| TBA             	|
-| ACM/IEEE Life/Retired Member 	| TBA             	| TBA            	| TBA              	| TBA             	|
-| Student IEEE/ACM Member      	| TBA             	| TBA            	| TBA              	| TBA             	|
-| Student Non-Member           	| TBA             	| TBA            	| TBA              	| TBA             	|
+| IEEE/ACM,Member              	| &yen;22,000             	| &yen;31,000           	| &yen;30,000              	| &yen;43,000             	|
+| Non-Member                   	| &yen;27,000             	| &yen;38,000            	| &yen;39,000              	| &yen;54,000             	|
+| ACM/IEEE Life/Retired Member 	| &yen;18,000             	| &yen;26,000            	| &yen;26,000              	| &yen;38,000             	|
+| Student IEEE/ACM Member      	| &yen;18,000             	| &yen;26,000            	| &yen;26,000              	| &yen;38,000             	|
+| Student Non-Member           	| &yen;22,000             	| &yen;31,000            	| &yen;30,000              	| &yen;43,000             	|
 {: .table}
 
 
