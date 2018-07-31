@@ -34,8 +34,8 @@
 
 - title: Attend
   sublinks:
-    - title: Registration
-      url: Registration/
+#    - title: Registration
+#      url: Registration/
     - title: Conference Venue
       url: Hotel/
     - title: Visa
