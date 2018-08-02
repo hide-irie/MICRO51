@@ -10,7 +10,7 @@ title:
   <p> The 51st Annual IEEE/ACM International Symposium on Microarchitecture </p>
   <p> Fukuoka City, Japan (<a href="https://www.youtube.com/watch?v=CLxntu0QIFA&feature=youtu.be">Youtube</a>)</p>
   <p> Hotel: GRAND HYATT FUKUOKA. (TBA)Link to MICRO Reservation.</p>
-  <!-- <p> <a href="https://www.microarch.org/micro51/Registration/">Link to Registration</a>.</p> -->
+  <p> <a href="https://www.microarch.org/micro51/Registration/">Link to Registration</a>.</p>
   <p> <a href="https://www.microarch.org/micro51/StudentTravel/">Link to Student Travel Award</a>.</p>
   <p>  <a href="https://www.microarch.org/micro51/Visa/">Link to Visa request</a>.</p>
   <table>
