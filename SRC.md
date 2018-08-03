@@ -127,7 +127,7 @@ Guru Prasadh Venkataramani (George Washington University, USA)
 |	Adwait Jog | William and Mary |
 |	David Kaeli | Northeastern University |
 |	Aasheesh Kolli | Pennsylvania State University |
-|	Dhireesha Kudithipudi | University of Rochester |
+|	Dhireesha Kudithipudi | Rochester Institute of Technology |
 |	Hiroki Matsutani | Keio University | 
 |	Onur Mutlu | ETH Zurich | 
 |	Takashi Nakada | Nara Institute of Science and Technology |
