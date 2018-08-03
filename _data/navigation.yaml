@@ -38,6 +38,8 @@
       url: Registration/
     - title: Conference Venue
       url: Venue/
+    - title: Hotel Reservation
+      url: Hotel/
     - title: Visa
       url: Visa/
     - title: Student Travel Award
