@@ -20,8 +20,8 @@
 
 - title: Authors
   sublinks:
-#    - title: Camera Ready
-#      url: Camera/
+  - title: Camera Ready
+      url: Camera/
     - title: Visa
       url: Visa/
 
