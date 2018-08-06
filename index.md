@@ -112,7 +112,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/eSOL_logo.png" height ="85" alt="eSOL logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/fixstars_logo.png" height ="95" alt="fixstars logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NTTWest_logo.jpg" height ="145" alt="NTTWest logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/SAMSUNG_logo.png" height ="40" alt="SAMSUNG logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/SAMSUNG_logo.png" height ="30" alt="SAMSUNG logo"/></div>
 
 </div>
 
