@@ -122,7 +122,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 
 <div style="margin:0 auto; text-align:center;">
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/VMware_logo.jpg" height ="80" alt="VMware_logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/hpe_logo.png" height ="90" alt="hpe_logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/hpe_logo.png" height ="110" alt="hpe_logo"/></div>
 </div>
 
 <p align="center">
