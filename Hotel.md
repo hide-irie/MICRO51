@@ -11,10 +11,10 @@ In addition to the venue hotel, we also blocked some rooms.
 |Room Types|Persons|Rate  (per person per night: including service charge and consumption tax)|
 |:--|:--:|:--:|
 |**1. Grand Hyatt Fukuoka**|||
-|Large Single / with breakfast Special Plan|1 - 2|JPY17,800-JPY36,100|
-|Large Single / no meal Special Plan|1 - 2|JPY16,200-JPY34,500|
-|Twin / with breakfast Special Plan|1 - 2|JPY18,800-JPY40,000|
-|Twin / no meal Special Plan|1 - 2|JPY17,200-JPY38,400|
+|**Large Single / with breakfast Special Plan**|**1 - 2**|**JPY17,800-JPY36,100**|
+|**Large Single / no meal Special Plan**|**1 - 2**|**JPY16,200-JPY34,500**|
+|**Twin / with breakfast Special Plan**|**1 - 2**|**JPY18,800-JPY40,000**|
+|**Twin / no meal Special Plan**|**1 - 2**|**JPY17,200-JPY38,400**|
 |2. Canal City Fukuoka Washington Hotel|||
 |Single w/ breakfast Special Plan|1|JPY11,300-JPY14,500|
 |3. JR Kyushu Hotel Blossom Hakata Chuo|||
