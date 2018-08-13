@@ -10,7 +10,7 @@ In addition to the venue hotel, we also blocked some rooms.
 
 |Room Types|Persons|Rate  (per person per night: including service charge and consumption tax)|
 |:--|:--:|:--:|
-|1. Grand Hyatt Fukuoka|||
+|**1. Grand Hyatt Fukuoka**|||
 |Large Single / with breakfast Special Plan|1 - 2|JPY17,800-JPY36,100|
 |Large Single / no meal Special Plan|1 - 2|JPY16,200-JPY34,500|
 |Twin / with breakfast Special Plan|1 - 2|JPY18,800-JPY40,000|
