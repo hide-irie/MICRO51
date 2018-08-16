@@ -68,7 +68,7 @@ title: Program
 | PHOTONICS           	|   	| [PHOTONICS: Photonics-Optics Technology Oriented Networking, Information, and Computing Systems](https://www.ece.ust.hk/~eexu/PHOTONICS.html)       | Jiang Xu,  Yuichi Nakamura,  Yi-Shing Chang                                              | Hong Kong University of Science and Technology, NEC, Intel                	|
 | NoCArc  	|   	|[Network-on-Chip Architectures](http://www.nocarc.org/)      	| Masoumeh (Azin) Ebrahimi, Kun-Chih (Jimmy) Chen, Midia Reshadi                  	| KTH Royal Institute of Technology, Sweden, National Sun Yat-sen University, Taiwan, Science and Research Branch of Islamic Azad University                              	|
 | Women and Minorities  	|   	| [Career Workshop for Women and Minorities in Computer Architecture](https://www.cs.virginia.edu/~smk9u/cwwmca2018/cwwmca.html) 	| Valentina Salapura,  Zehra Sura, Alan Bivens	| IBM                        	|
-| Domain Specific System Architecture 	|   	| First Annual Workshop on Domain Specific System Architecture                                               	| Hyesoon Kim, Giho Park                  	| Georgia Tech, Sejong University         	|
+| Domain Specific System Architecture 	|   	| [First Annual Workshop on Domain Specific System Architecture](http://prism.sejong.ac.kr/dossa-1)  	| Hyesoon Kim, Giho Park                  	| Georgia Tech, Sejong University         	|
 {: .table .table-striped }
 
 
