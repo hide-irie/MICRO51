@@ -38,6 +38,6 @@ In addition to the venue hotel, we also blocked some rooms.
 {: .table .table-striped }
 
 **Hotel map**
-<img border="0" src="{{ site.baseurl }}/images/hotelmap.jpg"/>
+<img border="0" src="{{ site.baseurl }}/images/hotelmap.jpg" width="640" />
 
 For more details, please refer to [this link](https://amarys-jtb.jp/micro51/).
