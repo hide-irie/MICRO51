@@ -12,6 +12,9 @@ Conference Registration
 
 Full conference registration includes admission to the conference, digital conference proceedings, coffee and lunch breaks, reception, outing & conference dinner.
 
+* Early Due: 23:59, September 20 (JST)
+* Late Due: 23:59, October 11 (JST) 
+
 |                              	| Early 	| Late 	|   	|   	|
 |------------------------------	|-------	|------	|---	|---	|
 | IEEE/ACM,Member              	| &yen;66,000 (USD 600)  	| &yen;96,000 (USD 870)  	|   	|   	|
