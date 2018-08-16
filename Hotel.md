@@ -37,6 +37,7 @@ In addition to the venue hotel, we also blocked some rooms.
 |Single (Non-Smoking) / with breakfast Special Plan|1|JPY10,100|
 {: .table .table-striped }
 
-[Hotel map](https://www.microarch.org/micro51/public/downloads/Micro51_Hotel_Map.pdf)
+**Hotel map**
+<img border="0" src="{{ site.baseurl }}/images/hotelmap.jpg"/>
 
 For more details, please refer to [this link](https://amarys-jtb.jp/micro51/).
