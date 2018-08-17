@@ -151,7 +151,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/taf-logo-je.jpg" height ="75" alt="TAF_logo"/></div>
 <div style="display:inline-block; margin: 20px;"> <img border="0" src="{{site.baseurl}}/images/NICT_logo.png" height="65" /><br /><font size="3" color="#000000">International Exchange Program of NICT</font></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/secom.png" height ="70" alt="secom_logo"/></div>
-<div style="display:inline-block; margin: 20px;"> <img border="0" src="{{site.baseurl}}/images/IPSJ_logoA_L.gif" height="65" /><br /><font size="3" color="#000000">IPSJ SIGARC</font></div>
+<div style="display:inline-block; margin: 20px;"> <img border="0" src="{{site.baseurl}}/images/IPSJ_logoA_L.gif" height="65" /><br /><font size="3" color="#000000">IPSJ SIGARC</font><br /><font size="3" color="#000000">IPSJ SIGHPC</font></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/fcvb_logo.png" height ="70" alt="fcvb_logo"/></div>
 </div>
 
