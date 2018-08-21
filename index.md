@@ -85,7 +85,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/socionext_logo_tagline_k_100_trim.jpg" height ="115" alt="socionext_logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/fujitsu_logo.jpg" height ="190" alt="fujitsu_logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/TRI-AD_logo.png" height ="175" alt="TRI-AD_logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NEC_logo.png" height ="100" alt="NEC_logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/NEC_logo.png" height ="160" alt="NEC_logo"/></div>
 </div>
 <br>
 <p align="center">
