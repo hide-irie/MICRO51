@@ -29,8 +29,8 @@
   sublinks:
     - title: Workshop and Tutorials
       url: Program/Workshop/index.html
-#    - title: Main Program
-#      url: Program/main/index.html
+    - title: Main Program
+      url: Program/main/index.html
 
 - title: Attend
   sublinks:
@@ -43,7 +43,7 @@
     - title: Visa
       url: Visa/
     - title: Child Care
-      url: TBA/
+      url: CildCare/
     - title: Student Travel Award
       url: StudentTravel/
     - title: CARES
