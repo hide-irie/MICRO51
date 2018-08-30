@@ -663,96 +663,53 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 </tr>
 </thead>
 <tr>
-<td>7:00</td>
-<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room:</strong></td>
+<td>7:30</td>
+<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: Savoy & Red Rose</strong></td>
 </tr>
 <tr>
 <td>8:00</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>6-A GPUs-II. Michael Pellauer, Nvidia</em> <br> Ballroom ABC </strong> </td>
-<td style="background-color: light blue;" class="tdb"><strong><em>6-B OS and System Design. Nathan Beckman,  CMU</em> <br> Ballroom D </strong></td>
+<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 3: TBA
+ </strong> <br></p> 
+  <p> abst. TBA</p>
+  <p> <strong>Bio: </strong>
+    TBA
+  </p>
+   </td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124532">
-Unleashing the Power of GPU for Physically Based Rendering via Dynamic Ray Shuffling 
-</a>
-</strong><br>
-Yashuai Lv: Astronautical Engineering University; Libo Huang:National University of Defense Technology; Li Shen:National University of Defense Technology; Zhiying Wang:National University of Defense Technology
-</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123984">
-SchedTask: A Hardware-Assisted Task Scheduler 
-</a>
-</strong><br>
-Prathmesh Kallurkar:IIT Delhi; Smruti R. Sarangi:IIT Delhi
-</td>
+<td>9:00</td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Best Paper Sesson<br> The Grand Ballroom</strong></td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123968">
-GPUpd: A Fast and Scalable Multi-GPU Architecture Using Cooperative Projection and Distribution 
-</a>
-</strong><br>
-Youngsok Kim:Seoul National University;Jae-Eon Jo:POSTECH;Hanhwi Jang:POSTECH;Minsoo Rhu:POSTECH;Hanjun Kim:POSTECH;Jangwoo Kim:Seoul National University
-</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123956">
-Exploiting Heterogeneity for Tail Latency and Energy Efficiency
-</a> 
-</strong><br>
-Md E. Haque:Rutgers University; Yuxiong He:Microsoft Research; Sameh Elnikety:Microsoft Research; Thu D. Nguyen:Rutgers University; Ricardo Bianchini:Microsoft Research; Kathryn S. McKinley:Google
-</td>
+<td></td>
+<td colspan="2"> <strong>
+CEASER: Mitigating Eviction-Based Cache Attacks via Dynamically Encrypted Address
+</strong> <br>Moinuddin Qureshi:Georgia Institute of Technology ;Moinuddin Qureshi:Georgia Tech</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123978">
-VersaPipe: A Versatile Programming Framework for Pipelined Computing on GPU 
-</a>
-</strong><br>
-Zhen Zheng:Tsinghua University; Chanyoung Oh:University of Seoul; Jidong Zhai:Tsinghua University; Xipeng Shen:North Carolina State University; Youngmin Yi:University of Seoul; Wenguang Chen:Tsinghua University
-</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123947">
-TMI: Thread Memory Isolation for False Sharing Repair
-</a> 
-</strong><br>
-Christian DeLozier:University of Pennsylvania; Ariel Eizenberg:University of Pennsylvania; Shiliang Hu:Intel; Gilles Pokam:Intel; Joseph Devietti:University of Pennsylvania
-</td>
+<td></td>
+<td colspan="2"> <strong>
+PipeProof: Automated Memory Consistency Proofs of Microarchitectural Specifications
+</strong> <br>Yatin A. Manerkar:Princeton University ;Daniel Lustig:NVIDIA ;Margaret Martonosi:Princeton University ;Aarti Gupta:Princeton University</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123976">
-WIREFRAME: Supporting Data-dependent Parallelism through Dependency Graph Execution in GPUs 
-</a>
-</strong><br>
-AmirAli Abdolrashidi:University of California Riverside; Devashree Tripathy:University of California Riverside; Mehmet Esat Belviranli:Oak Ridge National Laboratories; Daniel Wong:University of California Riverside; Laxmi Narayan Bhuyan:University of California Riverside
-</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124541">
-Estimating and Understanding Architectural Risk 
-</a>
-</strong><br>
-Weilong Cui:University of California. Santa Barbara; Timothy Sherwood:University of California. Santa Barbara
-</td>
+<td></td>
+<td colspan="2"> <strong>
+Application-Transparent Near-Memory Processing Architecture with Memory Channel Network
+</strong> <br>Mohammad Alian:UIUC ;Seung Won Min:UIUC ;Hadi Asgharimoghaddam:UIUC ;Ashutosh Dhar:UIUC ;Dong Kai Wang:UIUC ;Thomas Roewer:IBM ;Adam McPadden:IBM ;Oliver OHalloran:IBM ;Deming Chen:UIUC ;Jinjun Xiong:IBM ;Daehoon Kim:DGIST ;Wen-mei Hwu:UIUC ;Nam Sung Kim:UIUC</td>
 </tr>
 <tr>
-<td>9:20</td>
+<td></td>
+<td colspan="2"> <strong>
+End-to-End Automated Exploit Generation for Diagnosing Processor Designs
+</strong> <br>Rui Zhang:UNC Chapel Hill ;Calvin Deutschbein:UNC Chapel Hill ;Peng Huang:Johns Hopkins University ;Cynthia Sturton:UNC Chapel Hill</td>
+</tr>
+<tr>
+<td>10:20</td>
 <td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Break  </strong></td>
 </tr>
 <tr>
-<td>9:30</td>
+<td>10:50</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>7-A Unconventional Architectures. Hadi Esmailzadeh,  Georgia Tech</em> <br> Ballroom ABC </strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>7-B Compilers and Microarchitecture. Milos Prvulovic,  Georgia Tech</em> <br> Ballroom D </strong></td>
 </tr>
