@@ -73,13 +73,29 @@ We will reply by e-mail to confirm your reservation with an application form att
         <li>E-mail ：<a href="mailto:micro51-childcare@cpc.ait.kyushu-u.ac.jp">micro51-childcare@cpc.ait.kyushu-u.ac.jp</a>
         <li>Subject：Reservation for Nursery of The 51st International Symposium on Microarchitecture
       </ul>
-      1)　 Name of guardian, Work venue(affiliation), Contact number (Mobile Phone)<br>
-      2)　 Date/Time of use
-3)　 Number of child(ren), name, age, and gender
-4)　 Special instructions  (Allergy / Health Condition)
-
-
-
+      <ol>
+        <li>Name of guardian, Work venue(affiliation), Contact number (Mobile Phone)
+        <li>Date/Time of use
+        <li>Number of child(ren), name, age, and gender
+        <li>Special instructions  (Allergy / Health Condition)
+      </ol>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>
+      Closing date for<br>Application
+      </strong></td>
+    <td colspan="2">
+      Oct 11th (Thu)  17：00<br>Application will be closed when the capacity is reached.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>
+     Insurance
+      </strong></td>
+    <td colspan="2">
+      We join the insurance in case of any accidents / injury. However, it is beyond the coverage if the accidents are not due to negligence of the sitter or in the case of force majeure.
+The Organizing Committee and the Secretariat of The 51st International Symposium on Microarchitecture do not take any responsibility. 
     </td>
   </tr>
 </table>
