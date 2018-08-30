@@ -27,5 +27,32 @@ If we receive more than 10 children/day are requested, we will try to increase t
       Oct 20th(Sat) – 23th (Tue)  8:00～18:00<br>Oct 24th (Wed)   8:00～12:00
     </td>
   </tr>
+  <tr>
+    <td><strong>
+      Capacity
+      </strong></td>
+    <td clospan="2">
+      10 children / day
+    </td>
+  </tr>
+  <tr>
+    <td><strong>
+      Venue
+      </strong></td>
+    <td clospan="2">
+      GRAND HYATT FUKUOKA<br>＊We will disclose the information only to the applicants to ensure the security.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>
+      Contractor
+      </strong></td>
+    <td>
+      ALPHA Corporation Inc.<br>Member of the All Japan Childcare Services Association (ACSA)
+    </td>
+    <td>
+      
+    </td>
+  </tr>
 </table>
   
