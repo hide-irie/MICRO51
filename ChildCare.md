@@ -37,6 +37,14 @@ If we receive more than 10 children/day are requested, we will try to increase t
   </tr>
   <tr>
     <td><strong>
+      Age
+      </strong></td>
+    <td colspan="2">
+      3 months old to 12 years old
+    </td>
+  </tr>
+  <tr>
+    <td><strong>
       Venue
       </strong></td>
     <td colspan="2">
@@ -86,7 +94,7 @@ We will reply by e-mail to confirm your reservation with an application form att
       Closing date for<br>Application
       </strong></td>
     <td colspan="2">
-      Oct 11th (Thu)  17：00<br><small>Application will be closed when the capacity is reached.</small>
+      Oct 8th (Mon) 23:59 JST<br><small>Application will be closed when the capacity is reached.</small>
     </td>
   </tr>
   <tr>
