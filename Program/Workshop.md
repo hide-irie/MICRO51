@@ -51,7 +51,7 @@ title: Program
   <tr>
     <td class="tg-5hgy">Drawing</td>
     <td class="tg-5hgy">GenSim</td>
-    <td class="tg-5hgy">LvNA</td>
+    <td class="tg-5hgy">Labeled RISC-V</td>
     <td class="tg-5hgy">Domain Specific<br>System<br>Architecture</td>
     <td class="tg-vn4c">Energy Efficient<br>Computing</td>
   </tr>
@@ -81,7 +81,7 @@ title: Program
 | Intermittent Computing              |     | [Getting Started with Intermittent Computing](https://cmuabstract.github.io/intermittence_tutorial/) | Brandon Lucia, Emily Ruppel, Kiwan Maeng, Graham Gobieski, Milijana Surbatovich  | CMU                 |
 | Quantum Computing    |     | Introduction to Grand Challenges and Research Tools for Quantum Computing   |   Fred Chong, Margaret Martonosi, Ali Javadi-Abhari   | UChicago, Princeton, IBM                         |
 | GenSim                |     | [GenSim: A Toolset for Efficient Binary Translation](http://www.gensim.org/)     | Harry Wagstaff, Bruno Bodin, Tom Spink, Björn Franke                                         | University of Edinburgh                               |
-| LvNA                |     | The case for Labeled von Neumann Architecture      | Yungang Bao            | ICT, CAS     |
+| Labeled RISC-V                |     | [Labeled RISC-V: A Case for Software-Defined Architecture](http://sdc.ict.ac.cn/micro2018-tutorial/)      | Yungang Bao            | ICT, CAS     |
 | Energy Efficient Computing         |     | [Energy Efficient Computing in Multicore CPUs: Design Margins and Variability](http://micro51.tutorial.di.uoa.gr/)     | Dimitris Gizopoulos, George Papadimitriou, Athanasios Chatzidimitriou     | University of Athens                         |
 {: .table .table-striped }
 
