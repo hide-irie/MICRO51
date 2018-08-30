@@ -17,7 +17,7 @@ If we receive more than 10 children/day are requested, we will try to increase t
 <table border="1">
   <tr>
   <th colspan="3">Information on Nursery<br>for The 51st International Symposium on Microarchitecture<br>
-    Please read carefully and understand the following terms of service before reservation.</th>
+    <small>Please read carefully and understand the following terms of service before reservation.</small></th>
   </tr>
   <tr>
     <td><strong>
@@ -40,7 +40,7 @@ If we receive more than 10 children/day are requested, we will try to increase t
       Venue
       </strong></td>
     <td colspan="2">
-      GRAND HYATT FUKUOKA<br>＊We will disclose the information only to the applicants to ensure the security.
+      GRAND HYATT FUKUOKA<br><small>＊We will disclose the information only to the applicants to ensure the security.</small>
     </td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ We will reply by e-mail to confirm your reservation with an application form att
       Closing date for<br>Application
       </strong></td>
     <td colspan="2">
-      Oct 11th (Thu)  17：00<br>Application will be closed when the capacity is reached.
+      Oct 11th (Thu)  17：00<br><small>Application will be closed when the capacity is reached.</small>
     </td>
   </tr>
   <tr>
