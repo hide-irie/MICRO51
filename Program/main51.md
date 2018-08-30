@@ -572,7 +572,7 @@ Shenghsun Cho:Stony Brook University ;Amoghavarsha Suresh:Stony Brook University
 <td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster <br> Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
-<td>14:20</td><tr>
+<td>14:20</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>6-A Near Memory Computing</em></strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>6-B Reliability and Fault-Tolerance</em></strong></td>
 </tr>
@@ -706,136 +706,118 @@ End-to-End Automated Exploit Generation for Diagnosing Processor Designs
 </tr>
 <tr>
 <td>10:20</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Break  </strong></td>
+<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;<br /><strong>Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
 <td>10:50</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>7-A Unconventional Architectures. Hadi Esmailzadeh,  Georgia Tech</em> <br> Ballroom ABC </strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>7-B Compilers and Microarchitecture. Milos Prvulovic,  Georgia Tech</em> <br> Ballroom D </strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>8-A Non-Conventional Architectures</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>8-B Mobile and Embedded Architectures</em></strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124550">
-Hybrid Analog-Digital Solution of Nonlinear Partial Differential Equations 
-</a>
+MDACache:Caching for Multi-Dimensional-Access Memories
 </strong><br>
-Yipeng Huang:Columbia University; Ning Guo:Columbia University; Mingoo Seok:Columbia University; Yannis Tsividis:Columbia University; Kyle Mandli:Columbia University; Simha Sethumadhavan:Columbia University
+Sumitha George:PSU ;Minli Julie Liao:PSU ;Huaipan Jiang:PSU ;Jagadish Kotra:AMD Research ;Mahmut Kandemir:PSU ;John Sampson:PSU ;Vijaykrishnan Narayanan:PSU ;Jagadish Kotra:AMD Research 
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124554">
-Improving the Effectiveness of Searching for Isomorphic Chains in Superword Level Parallelism 
-</a>
+CritICs Critiquing Criticality in Mobile Apps
 </strong><br>
-Joonmoo Huh:North Carolina State University; James Tuck:North Carolina State University
+Prasanna Venaktesh Rengasamy:Penn State ;Haibo Zhang:Penn State ;Shulin Zhao:Penn State ;Nachiappan Chidhambaram Nachiappan:Penn State ;Anand Sivasubramaniam:Penn State ;Mahmut Kandemir:Penn State ;Chita Das:Penn State
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123940">
-Taming the Instruction Bandwidth of Quantum Computers via Hardware-Managed Error Correction 
-</a>
+GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware
 </strong><br>
-Swamit S. Tannu:Georgia Tech; Zachary A. Myers:Stanford; Prashant J. Nair:Georgia Tech; Douglas M. Carmean:Microsoft; Moinuddin K. Qureshi:Georgia Tech
+Ananda Samajdar:Georgia Institute of Technology ;Parth Mannan:Georgia Institute of Technology ;Kartikay Garg:Georgia Institute of Technology ;Tushar Krishna:Georgia Institute of Technology
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123954">
-Data Movement Aware Computation Partitioning 
-</a>
+EMProf: Memory Profiling via EM-Emanation in IoT and Hand-Held Devices
 </strong><br>
-Xulong Tang:Penn State; Orhan Kislal:Penn State; Mahmut Kandemir:Penn State; Mustafa Karakoy:TOBB University
+Moumita Dey:Georgia Institute of Technology ;Alireza Nazari:Georgia Institute of Technology ;Alenka Zajic:Georgia Institute of Technology ;Milos Prvulovic:Georgia Institute of Technology
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123949">
-Optimized Surface Code Communication in Superconducting Quantum Computers 
-</a>
+Magic-State Functional Units: Mapping and Scheduling Multi-Level Distillation Circuits for Fault-Tolerant Quantum Architectures
 </strong><br>
-Ali Javadi-Abhari:Princeton University; Pranav Gokhale:University of Chicago; Adam Holmes:University of Chicago; Diana Franklin:University of Chicago; Kenneth R. Brown:Georgia Institute of Technology; Margaret Martonosi:Princeton University; Frederic T. Chong:University of Chicago
+Yongshan Ding:University of Chicago ;Adam Holmes:University of Chicago ;Ali Javadi-Abhari:Princeton University ;Diana Franklin:University of Chicago ;Margaret Martonosi:Princeton University ;Frederic T. Chong:University of Chicago 
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123969">
-Mirage Cores: The Illusion of Many Out-of-order Cores Using In-order Hardware 
-</a>
+MAVBench: Micro Aerial Vehicle Benchmarking
 </strong><br>
-Shruti Padmanabha:University of Michigan; Andrew Lukefahr:University of Michigan; Reetuparna Das:University of Michigan; Scott Mahlke:University of Michigan
+Behzad Boroujerdia:University of Texas at Austin ;Hasan Genc:University of Texas at Austin ;Srivatsan Krishnan:University of Texas at Austin ;Wenzhi Cui :University of Texas at Austin ;Aleksandra Faust:Google ;Vijay Janapa University:University of Texas at Austin/Google
+</td>
+</tr>
+<tr>
+<td>11:45</td>
+<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;<br /><strong>Room: Pre-Function Area</strong></td>
+</tr>
+<tr>
+<td>12:05</td>
+<td style="background-color: light blue;" class="tdb"><strong><em>9-A Domain-Specific Architectures</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>9-B Security-II</em></strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+Architectural Support for Efficient Large-Scale Automata Processing
+</strong><br>
+Hongyuan Liu:College of William & Mary ;Mohamed Ibrahim:College of William & Mary ;Onur Kayiran:Advanced Micro Devices, Inc. ;Sreepathi Pai:University of Rochester ;Adwait Jog:College of William & Mary
+</td>
+<td>
+<strong>
+Metis: Automated Exploit Program Generation for Hardware Security Verification
+</strong><br>
+Caroline Trippel:Princeton University ;Daniel Lustig:NVIDIA ;Margaret Martonosi:Princeton Univeristy
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123980">
-Architectural Tradeoffs for Biodegradable Computing 
-</a>
+ASPEN: A Scalable In-SRAM Architecture for Pushdown Automata
 </strong><br>
-Ting-Jung Chang:Princeton University; Zhuozhi Yao:Princeton University; Paul J. Jackson:Princeton University; Barry P. Rand:Princeton University; David Wentzlaff:Princeton University
+Kevin Angstadt:University of Michigan ;Arun Subramaniyan:University of Michigan ;Elaheh Sadredini:University of Virginia ;Reza Rahimi:University of Virginia ;Kevin Skadron:University of Virginia ;Westley Weimer:University of Michigan ;Reetuparna Das:University of Michigan
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3136952">
-Using Intra-Core Loop-Task Accelerators to Improve the Productivity and Performance of Task-Based Parallel Programs
-</a>
+Shadow Block: Accelerating ORAM Accesses with Data Duplication
 </strong><br>
-Ji Kim:Cornell University; Shunning Jiang:Cornell University; Christopher Torng:Cornell University; Moyang Wang:Cornell University; Shreesha Srinath:Cornell University; Berkin Ilbeyi:Cornell University; Khalid Al-Hawaj:Cornell University; Christopher Batten:Cornell University
+Xian Zhang:Peking University ;Guangyu Sun:Peking University ;Peichen Xie:Peking University ;Chao Zhang:Peking University ;Yannan Liu:The Chinese University of Hong Kong ;Lingxiao Wei:The Chinese University of Hong Kong ;Qiang Xu:The Chinese University of Hong Kong ;Jason Xue:City University of Hong Kong
 </td>
 </tr>
 <tr>
-<td>10:50</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Break/Room reconfiguration </strong></td>
-</tr>
-<tr>
-<td>11:10</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Best Paper Nominees. Margaret Martonosi, Princeton <br> Ballroom </strong></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"> <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123973">
-Architectural Opportunities for Novel Dynamic EMI Shifting (DEMIS)
-</a>
-</strong> Daphne I. Gorman:UC Santa Cruz; Jose Renau:UC Santa Cruz; Matthew Guthaus:UC Santa Cruz.  </td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"> <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123970">
-DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission
-</a>
-</strong> Parker Hill:University of Michigan; Animesh Jain:University of Michigan; Mason Hill:University of Nevada, Las Vegas; Babak Zamirai:University of Michigan; Chang-Hong Hsu:University of Michigan; Michael Laurenzano:University of Michigan; Scott Mahlke:University of Michigan; Lingjia Tang:University of Michigan; Jason Mars:University of Michigan. </td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"> <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123981">
-Hardware Supported Persistent Object Address Translation
-</a>
-</strong> Tiancong Wang:NC State University; Sakthikumaran Sambasivam:NC State University; Yan Solihin:NC State University; James Tuck:NC State University.  </td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"> <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123952">
-An Experimental Microarchitecture for a Superconducting Quantum Processor
-</a>
-</strong> X. Fu: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; M. A. Rol: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; C. C. Bultink: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; H. van Someren: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; N. Khammassi: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; I. Ashraf: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; R. F. L. Vermeulen: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; J. C. de Sterke: Topic Embedded Systems / QuTech, Delft University of Technology; W. J. Vlothuizen: Netherlands Organisation for Applied Scienti c Research (TNO) / QuTech, Delft University of Technology; R. N. Schouten: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; C. G. Almudever: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; L. DiCarlo: QuTech, Delft University of Technology; Kavli Institute of Nanoscience, Delft University of Technology; K. Bertels: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology.  </td>
-</tr>
-<tr>
-<td>12:30</td>
-<td colspan="2" class="tbd"> Best Paper Announcement 
+<td>&nbsp;</td>
+<td>
+<strong>
+MORPH: Hardware-Software Codesign for Efficient Video Understanding
+</strong><br>
+Kartik Hegde:UIUC ;Rohit Agrawal:UIUC ;Yulun Yao:UIUC ;Christopher W. Fletcher:UIUC
+</td>
+<td>
+<strong>
+DAWG: A Defense Against Cache Timing Attacks in Speculative Execution Processors
+</strong><br>
+Vladimir Kiriansky:Massachusetts Institute of Technology (MIT) ;Ilia Lebedev:Massachusetts Institute of Technology (MIT) ;Saman Amarasinghe:Massachusetts Institute of Technology (MIT) ;Srinivas Devadas:Massachusetts Institute of Technology (MIT) ;Joel Emer:NVIDIA, Massachusetts Institute of Technology (MIT)
 </td>
 </tr>
 <tr>
-<td>12:45</td>
+<td>13:00</td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Closing</strong><br /><strong>Room: The Grand Ballroom-CD</strong></td>
+</tr>
+<tr>
+<td>13:20</td>
 <td colspan="2" class="tbd"> Adjourn 
 </td>
 </tr>
