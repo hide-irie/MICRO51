@@ -70,14 +70,14 @@ If we receive more than 10 children/day are requested, we will try to increase t
       Please make a reservation by E-mail, including the information bellow.
 We will reply by e-mail to confirm your reservation with an application form attached.  Please fill out the form and bring it on the actual day of your use.<br><br>
       <ul>
-        <li>E-mail ：<a href="mailto:micro51-childcare@cpc.ait.kyushu-u.ac.jp">micro51-childcare@cpc.ait.kyushu-u.ac.jp</a>
-        <li>Subject：Reservation for Nursery of The 51st International Symposium on Microarchitecture
+        <li>E-mail ：<a href="mailto:micro51-childcare@cpc.ait.kyushu-u.ac.jp">micro51-childcare@cpc.ait.kyushu-u.ac.jp</a></li>
+        <li>Subject：Reservation for Nursery of The 51st International Symposium on Microarchitecture</li>
       </ul>
       <ol>
-        <li>Name of guardian, Work venue(affiliation), Contact number (Mobile Phone)
-        <li>Date/Time of use
-        <li>Number of child(ren), name, age, and gender
-        <li>Special instructions  (Allergy / Health Condition)
+        <li>Name of guardian, Work venue(affiliation), Contact number (Mobile Phone)</li>
+        <li>Date/Time of use</li>
+        <li>Number of child(ren), name, age, and gender</li>
+        <li>Special instructions  (Allergy / Health Condition)</li>
       </ol>
     </td>
   </tr>
