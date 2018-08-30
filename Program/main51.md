@@ -380,6 +380,75 @@ Voltage-stacked GPUs: A Control Theory Driven Cross-Layer Solution for Practical
 An Zou:Washington University in St. Louis ;Jingwen Leng:Shanghai Jiao Tong University ;Xin He:Washington University in St. Louis ;Yazhou Zu:The University of Texas at Austin ;Christopher D. Gill:Washington University in St. Louis ;Vijay Janapa Reddi:The University of Texas at Austin ;Xuan Zhang:Washington University in St. Louis 
 </td>
 </tr>
+<tr>
+<td>16:20</td>
+<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;<br /><strong>Room: Pre-Function Area</strong></td>
+</tr>
+<tr>
+<td>16:40</td> 
+<td style="background-color: light blue;" class="tdb"><strong><em>4-A Security - I</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>4-B Storage Systems & Technologies</em></strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+Osiris: A Low-Cost Mechanism to Enable Restoration of Secure Non-Volatile Memories
+</strong><br>
+Mao Ye:University of Central Florida ;Clay Hughes:Sandia National Labs ;Amro Awad:University of Central Florida  
+</td>
+<td>
+<strong>
+SSDcheck: Timely and Accurate Prediction of Irregular Behaviors in Black-Box SSDs
+</strong><br>
+Joonsung Kim:Seoul National University ;Pyeongsu Park:Seoul National University ;Jaehyung Ahn:POSTECH ;Jihun Kim:POSTECH ;Jong Kim:POSTECH ;Jangwoo Kim:Seoul National University  
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+Morphable Counters: Enabling Compact Integrity Trees for Low-Overhead Secure Memories
+</strong><br>
+Gururaj Saileshwar:Georgia Institute of Technology ;Prashant Nair:IBM Research ;Prakash Ramrakhyani:ARM Research ;Wendy Elssaser:ARM Research ;Jose Joao:ARM Research ;Moinuddin Qureshi:Georgia Institute of Technology 
+</td>
+<td>
+<strong>
+Amber: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources
+</strong><br>
+Donghyun Gouk:Yonsei University ;Miryeong Kwon:Yonsei University ;Jie Zhang:Yonsei University ;Sungjoon Koh:Yonsei University ;Wonil Choi:PennState ;Nam Sung Kim:UIUC ;Mahmut Kandemir:PennState ;Myoungsoo Jung:Yonsei University 
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+InvisiSpec: Invisible Speculative Execution
+</strong><br>
+Mengjia Yan:University of Illinois at Urbana-Champaign ;Jiho Choi:University of Illinois at Urbana-Champaign ;Dimitrios Skarlatos:University of Illinois at Urbana-Champaign ;Adam Morrison:Tel Aviv University ;Christopher W. Fletcher:University of Illinois at Urbana-Champaign ;Josep Torrellas:University of Illinois at Urbana-Champaign 
+</td>
+<td>
+<strong>
+Invalid Data-Aware Coding to Enhance the Read Performance of High-Density Flash Memories
+</strong><br>
+Wonil Choi:The Pennsylvania State University ;Myoungsoo Jung:Yonsei University ;Mahmut Kandemir:The Pennsylvania State University 
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes
+</strong><br>
+Pengfei Zuo:Huazhong University of Science and Technology ;Yu Hua:Huazhong University of Science and Technology ;Ming Zhao:Arizona State University ;Wen Zhou:Huazhong University of Science and Technology ;Yuncheng Guo:Huazhong University of Science and Technology   
+</td>
+<td>
+<strong>
+Persistence Parallelism Optimization: A holistic approach from memory bus to RDMA network
+</strong><br>
+Xing Hu:University of California, Santa Barbara ;Matheus Ogleari:University of California, Santa Crus ;Jishen Zhao:University of California, San Diego ;Shuangchen Li:University of California, Santa Barbara ;Abanti Basak:University of California, Santa Barbara ;Yuan Xie:University of California, Santa Barbara    
+</td>
+</tr>
 <thead>
 <tr>
 <th>Start time</th>
