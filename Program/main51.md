@@ -106,7 +106,7 @@ table.blueTable tfoot .links a{
 <tbody>
 <tr>
 <td>7:40</td>
-<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: Savoy & Red Rose
+<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: Savoy & Red Rose (2nd floor of Grand Hyatt Fukuoka)
 </strong></td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ table.blueTable tfoot .links a{
 </tr>
 <tr> -->
 <td>10:00</td>
-<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;<br /><strong>Room: Pre-Function Area</strong></td>
+<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;<br /><strong>Room: Pre-Function Area (3rd floor of Grand Hyatt Fukuoka)</strong></td>
 </tr>
 <tr>
 <td>10:30</td>
@@ -218,115 +218,167 @@ Hidetsugu Irie:the University of Tokyo ;Toru Koizumi:the University of Tokyo ;Ak
   <strong>&nbsp;Poster-SRC &nbsp;&nbsp; Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
-<td>14:00</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>2-A GPUs-I. Brad Beckman,  AMD</em> <br> Ballroom ABC </strong> </td>
-<td style="background-color: light blue;" class="tdb"><strong><em>2-B Non-Volatile Memory/Storage.  Samira Khan, U. Virgina</em> <br> Ballroom D </strong></td>
+<td>13:00</td>
+<td style="background-color: light blue;" class="tdb"><strong><em>2-A ML accelerators</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>2-B Compilers and Programming Languages</em></strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123950">
-Efficient Exception Handling Support for GPUs 
-</a>
+Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator
 </strong><br>
-Ivan Tanasic:Universitat Politecnica de Catalunya / Barcelona Supercomputing Center; Isaac Gelado:NVIDIA; Marc Jorda:Barcelona Supercomputing Center; Eduard Ayguade:Universitat Politecnica de Catalunya / Barcelona Supercomputing Center; Nacho Navarro:Universitat Politecnica de Catalunya / Barcelona Supercomputing Center
+Mostafa Mahmoud:University of Toronto ;Kevin Siu:University of Toronto ;Andreas Moshovos:University of Toronto
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124539">
-Proteus: A Flexible and Fast Software Supported Hardware Logging approach for NVM 
-</a>
+Rethinking the Memory Hierarchy for Modern Languages
 </strong><br>
-Seunghee Shin:North Carolina State University; Satish Kumar Tirukkovalluri:North Carolina State University; James Tuck:North Carolina State University; Yan Solihin:North Carolina State University
+Po-An Tsai:MIT ;Yee Ling Gan:MIT ;Daniel Sanchez:MIT
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124534">
-Beyond the Socket: NUMA-Aware GPUs 
-</a>
+Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning
 </strong><br>
-Ugljesa Milic:Barcelona Supercomputing Center / Universitat Politecnica de Catalunya; Oreste Villa:Nvidia; Evgeny Bolotin:Nvidia; Akhil Arunkumar:Arizona State University; Eiman Ebrahimi:Nvidia; Aamer Jaleel:Nvidia; Alex Ramirez:Google; David Nellans:Nvidia
+Youngeun Kwon:POSTECH/KAIST ;Minsoo Rhu:POSTECH/KAIST
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124543">
-Efficient Support of Position Independence on Non-Volatile Memory 
-</a>
+Harmonizing Speculative and Non-Speculative Execution in Architectures for Ordered Parallelism
 </strong><br>
-Guoyang Chen:Qualcomm; Lei Zhang:NCSU; Richa Budhiraja:Qualcomm; Xipeng Shen:NCSU; Youfeng Wu:Intel
+Mark C. Jeffrey:Massachusetts Institute of Technology ;Victor A. Ying:Massachusetts Institute of Technology ;Suvinay Subramanian:Massachusetts Institute of Technology ;Hyun Ryong Lee:Massachusetts Institute of Technology ;Joel Emer:NVIDIA, MIT ;Daniel Sanchez:Massachusetts Institute
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123975">
-Mosaic: A GPU Memory Manager with Application-Transparent Support for Multiple Page Sizes
-</a>
+Towards Memory Friendly Long-Short Term Memory Networks (LSTMs) on Mobile GPUs
 </strong><br>
-Rachata Ausavarungnirun:Carnegie Mellon University; Joshua Landgraf:UT Austin; Vance Miller:UT Austin; Saugata Ghose:Carnegie Mellon University; Jayneel Gandhi:VMware Research Group; Christopher J. Rossbach:UT Austin and VMware Research Group; Onur Mutlu:ETH Zurich and Carnegie Mellon University</td>
+Xingyao Zhang:University of Houston ;Chenhao Xie:University of Houston ;Jing Wang:Capital Normal University ;Weigong Zhang:Capital Normal University ;Xin Fu:University of Houston 
+</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124533">
-Incidental Computing on IoT Nonvolatile Processors 
-</a>
+Sampler: PMU-based Sampling to Detect Memory Errors Latent in Production Software
 </strong><br>
-Kaisheng Ma: Penn State; Xuqing Li: Penn State; Jinyang Li:Tsinghua Univ.; Yongpan Liu: Tsinghua Univ.; Yuan Xie:UCSB; Jack Sampson:Penn State; Mahmut Taylan Kandemir:Penn State; Vijaykrishnan Narayanan:Penn State;
+Sam Silvestro:University of Texas at San Antonio ;Hongyu Liu:University of Texas at San Antonio ;Tong Zhang:Virginia Tech ;Changhee Jung:Virginia Tech ;Dongyoon Lee :Virginia Tech ;Tongping Liu:University of Texas at San Antonio
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123974">
-RegLess: Just-in-Time Operand Staging for GPUs 
-</a>
+A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks
 </strong><br>
-John Kloosterman:University of Michigan; Jon Beaumont:University of Michigan; Davoud Anoushe Jamshidi:University of Michigan; Jonathan Bailey:University of Michigan; Trevor Mudge:University of Michigan; Scott Mahlke:University of Michigan
+Youjie Li:University of Illinois, Urbana-Champaign ;Jongse Park:Georgia Institute of Technology ;Mohammad Alian:University of Illinois, Urbana-Champaign ;Yifan Yuan:University of Illinois, Urbana-Champaign ;Qu Zheng:Tsinghua University ;Petian Pan:Shanghai Jiao Tong University ;Ren Wang:Intel Corporation ;Alexander Gerhard Schwing:University of Illinois, Urbana-Champaign ;Hadi Esmaeilzadeh:University of California, San Diego ;Nam Sung Kim:University of Illinois, Urbana-Champaign   
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124553">
-Summarizer: Trading Communication with Computing Near Storage 
-</a>
+TAPAS: Generating Parallel Accelerators from Parallel Programs
 </strong><br>
-Gunjae Koo:University of Southern California; Kiran Kumar Matam:University of Southern California;  Te I:North Carolina State University; H. V. Krishna Giri Narra:University of Southern California; Jing Li:University of California. San Diego; Hung-Wei Tseng:North Carolina State University; Steven Swanson:University of California. San Diego; Murali Annavaram:University of Southern California
+Steven Margerm:Simon Fraser University ;Amirali Sharifian:Simon Fraser University ;Apala Guha:Simon Fraser University ;Gilles Pokam:Intel Corporation ;Arrvindh Shriraman:Simon Fraser University 
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123953">
-SCRATCH: An End-to-end Application-aware Soft-GPGPU Architecture and Trimming Tool 
-</a>
+PermDNN: Efficient Compressed Deep Neural Network Architecture with Permuted Diagonal Matrices
 </strong><br>
-Pedro Duarte:Instituto de Telecomunicacoes. University of Coimbra. Portugal; Pedro Tomas:INESC-ID. Instituto Superior Tecnico. Universidade de Lisboa. Portugal; Gabriel Falcao:Instituto de Telecomunicacoes. University of Coimbra. Portugal
+Chunhua Deng:City University of New York ;Siyu Liao:City University of New York ;Yi Xie:City University of New York ;Keshab K. Parhi:University of Minnesota ;Xuehai Qian University of Southern California ;Bo Yuan:City University of New York ;Bo Yuan:Rutgers University 
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124548">
-Memory Cocktail Therapy: A General Learning-Based Framework to Optimize Dynamic Tradeoffs in NVMs 
-</a>
+iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory
 </strong><br>
-Zhaoxia Deng:University of California. Santa Barbara; Lunkai Zhang:University of Chicago; Nikita Mishra:University of Chicago; Henry Hoffmann:University of Chicago; Fred Chong:University of Chicago
+Qingrui Liu:Virginia Tech ;Joseph Izraelevitz:University of Rochester ;Sekwon Lee:UNIST ;Michael L. Scott:University of Rochester ;Sam H. Noh:UNIST ;Changhee Jung :Virginia Tech 
+</td>
+</tr>
+<td>14:30</td>
+<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;<br /><strong>Room: Pre-Function Area</strong></td>
+</tr>
+<tr>
+<td>14:50</td>
+<td style="background-color: light blue;" class="tdb"><strong><em>3-A Memory Systems - I</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>3-B GPGPU/GPU</em></strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+Scalable Distributed Last-Level TLBs Using Low-Latency Interconnects
+</strong><br>
+Srikant Bharadwaj:Georgia Tech ;Guilherme Cox:Rutgers University ;Tushar Krishna:Georgia Tech ;Abhishek Bhattacharjee:Rutgers University
+</td>
+<td>
+<strong>
+Combining HW/SW Mechanisms to Improve NUMA Performance of Multi-GPU Systems
+</strong><br>
+Vinson Young:Georgia Institute of Technology ;Aamer Jaleel:NVIDIA ;Evgeny Bolotin:NVIDIA ;Eiman Ebrahimi:NVIDIA ;David Nellans:NVIDIA ;Oreste Villa:NVIDIA  
 </td>
 </tr>
 <tr>
-<td>16:00</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Transfer to Boston Aquarium&nbsp;&nbsp;</strong></td>
+<td>&nbsp;</td>
+<td>
+<strong>
+Duplicon Cache: Mitigating Off-Chip Memory Bank and Bank Group Conflicts via Data Duplication
+</strong><br>
+Ben:Ching-Pei ;Lin:University of Texas at Austin ;Michael B Healy:IBM Research ;Rustam Miftakhutdinov:Intel Corporation ;Phil Emma ;Yale Patt:University of Texas at Austin  
+</td>
+<td>
+<strong>
+Neighborhood-aware address translation for irregular GPU applications
+</strong><br>
+Seunghee Shin:AMD Research/NC State University ;Michael LeBeane:AMD Research/UT Austin ;Yan Solihin:NC State University ;Arkaprava Basu:Indian Institute of Science  
+</td>
 </tr>
 <tr>
-<td>17:00</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Evening Panel and Social Event &nbsp;&nbsp; </strong> <br>  Arvind
-    Bob Colwell
-    Phil Emma
-    Josh Fisher: Moderator: Srini Devadas
- </td>
+<td>&nbsp;</td>
+<td>
+<strong>
+CAL: Charge-Level Aware Look-ahead Partial Restoration for Fast DRAM Access
+</strong><br>
+Yaohua Wang:ETH Zurich, National University of Defense Technology ;Arash Tavakkol:ETH Zurich ;Lois Orosa:ETH Zurich, Univ. of Campinas ;Saugata Ghose:CMU ;Nika Mansouri Ghiasi:ETH Zurich ;Minesh Patel:ETH Zurich ;Jeremie Kim:ETH Zurich ;Hasan Hassan:ETH Zurich ;Onur Mutlu:ETH Zurich, CMU
+</td>
+<td>
+<strong>
+FineReg: Fine-Grained Register File Management for Augmenting GPU Throughput
+</strong><br>
+Yunho Oh:Yonsei University ;Myung Kuk Yoon:Yonsei University ;William J. Song:Yonsei University ;Won Woo Ro:Yonsei University         
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+CABLE: a CAche-Based Link Encoder for Bandwidth-starved Manycores
+</strong><br>
+Tri M. Nguyen:Princeton University ;Adi Fuchs:Princeton University ;David Wentzlaff:Princeton University  
+</td>
+<td>
+<strong>
+In-Register Parameter Caching for Dynamic Neural Nets with Virtual Persistent Processor Specialization
+</strong><br>
+Farzad Khorasani:Georgia Institute of Technology ;Hodjat Asghari Esfeden:University Of California Riverside ;Nael Abu-Ghazaleh:University of California Riverside ;Vivek Sarkar:Georgia Institute of Technology 
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+Attache: Towards Ideal Memory Compression by Mitigating Metadata Bandwidth Overheads
+</strong><br>
+Seokin Hong:IBM Research ;Prashant Nair:IBM Research ;Bulent Abali:IBM Research ;Alper Buyuktosunoglu:IBM Research ;Kyu Hyoun Kim:IBM Research ;Michael Healy:IBM Research 
+</td>
+<td>
+<strong>
+Voltage-stacked GPUs: A Control Theory Driven Cross-Layer Solution for Practical Voltage Stacking in GPUs
+</strong><br>
+An Zou:Washington University in St. Louis ;Jingwen Leng:Shanghai Jiao Tong University ;Xin He:Washington University in St. Louis ;Yazhou Zu:The University of Texas at Austin ;Christopher D. Gill:Washington University in St. Louis ;Vijay Janapa Reddi:The University of Texas at Austin ;Xuan Zhang:Washington University in St. Louis 
+</td>
 </tr>
 <thead>
 <tr>
