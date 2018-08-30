@@ -20,9 +20,9 @@ If we receive more than 10 children/day are requested, we will try to increase t
     Please read carefully and understand the following terms of service before reservation.</th>
   </tr>
   <tr>
-    <td>
+    <td><strong>
       Opening<br>Date & Time
-    </td>
+      </strong></td>
     <td clospan="2">
       Oct 20th(Sat) – 23th (Tue)  8:00～18:00<br>Oct 24th (Wed)   8:00～12:00
     </td>
