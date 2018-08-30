@@ -14,7 +14,7 @@ from getpass import getpass
 import argparse
 from collections import OrderedDict
 from collections import defaultdict
-# from sets import Set
+from sets import Set
 
 programdict   = defaultdict(list)
 sessiontitles = defaultdict()
