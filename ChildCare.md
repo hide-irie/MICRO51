@@ -14,3 +14,18 @@ The maximum capacity is 10 children/day, and we assign as first-come first servi
 If we receive more than 10 children/day are requested, we will try to increase the number of the limitation, but we cannot guarantee providing the childcare service.
 
 
+<table border="1">
+  <tr>
+  <th colspan="3">Information on Nursery<br>for The 51st International Symposium on Microarchitecture<br>
+    Please read carefully and understand the following terms of service before reservation.</th>
+  </tr>
+  <tr>
+    <td>
+      Opening<br>Date & Time
+    </td>
+    <td clospan="2">
+      Oct 20th(Sat) – 23th (Tue)  8:00～18:00<br>Oct 24th (Wed)   8:00～12:00
+    </td>
+  </tr>
+</table>
+  
