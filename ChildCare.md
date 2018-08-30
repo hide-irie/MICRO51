@@ -12,3 +12,5 @@ To make a reservation, please follow the reservation instruction.
 ## Note:
 The maximum capacity is 10 children/day, and we assign as first-come first service manner.
 If we receive more than 10 children/day are requested, we will try to increase the number of the limitation, but we cannot guarantee providing the childcare service.
+
+
