@@ -51,7 +51,7 @@ If we receive more than 10 children/day are requested, we will try to increase t
       ALPHA Corporation Inc.<br>Member of the All Japan Childcare Services Association (ACSA)
     </td>
     <td>
-      
+      <img border="0" src="{{ site.baseurl }}/images/alphacorporation.jpg" height ="30" alt="alphacorporation_logo"/>
     </td>
   </tr>
 </table>
