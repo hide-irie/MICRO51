@@ -818,7 +818,7 @@ Vladimir Kiriansky:Massachusetts Institute of Technology (MIT) ;Ilia Lebedev:Mas
 </tr>
 <tr>
 <td>13:20</td>
-<td colspan="2" class="tbd"> Adjourn 
+<td style="text-align: center;" colspan="2" class="tdb">Adjourn 
 </td>
 </tr>
 </tbody>
