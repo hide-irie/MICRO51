@@ -449,148 +449,130 @@ Persistence Parallelism Optimization: A holistic approach from memory bus to RDM
 Xing Hu:University of California, Santa Barbara ;Matheus Ogleari:University of California, Santa Crus ;Jishen Zhao:University of California, San Diego ;Shuangchen Li:University of California, Santa Barbara ;Abanti Basak:University of California, Santa Barbara ;Yuan Xie:University of California, Santa Barbara    
 </td>
 </tr>
+<tr>
+<td>18:00</td>
+<td class="tdb" colspan="2"><strong>&nbsp;Business Meeting&nbsp;&nbsp; Room: The Grand Ballroom-CD
+</strong></td>
+</tr>
 <thead>
 <tr>
 <th>Start time</th>
-<th colspan="2" align="center" >Tuesday Oct 17, 2017 </th>
+<th colspan="2" align="center" >Tuesday Oct 23, 2018 </th>
 </tr>
 </thead>
 <tr>
-<td>7:00</td>
-<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: Thomas Paine, Haym Salomon and Riverside Pavillion</strong></td>
+<td>7:30</td>
+<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: Savoy & Red Rose</strong></td>
 </tr>
 <tr>
 <td>8:00</td>
-
-<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 2: Doug Burger
-Distinguished Engineer (MSR NExT), Microsoft <br> Specialization and Accelerated AI at Hyperscale
+<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 2: TBA
  </strong> <br></p> 
-  <p> We are in a new era of compute architecture, with specialization and heterogenity growing rapidly to meet computing requirements. The tension between scale, economics, and specialization is driving fierce debates and many experiments about the right path forward.  One of Microsoft's major efforts in this space has been to move to programmable hardware at global scale, to balance flexibility and efficiency as workloads--many of which need to be specialized--continue to evolve rapidly.  This has led to a new hyperscale architecture that we call a Configurable Cloud.  This talk will cover the reasons that Microsoft eventually chose this design, and will include the earlier failed attempts.  The talk will also show how this system can be used for accelerating large-scale services, in particular deep learning via the recently announced Project Brainwave platform.  The talk will conclude with some promising directions for both specialized architectures as a broad class and artificial intelligence workloads as an important specific class.  </p>
+  <p> abst. TBA</p>
   <p> <strong>Bio: </strong>
-    Doug Burger is a Distinguished Engineer at Microsoft, where he leads several research-to-production projects aimed at transforming the computing architecture of Microsoft's systems and devices.  With Derek Chiou, he co-leads the Catapult project, which is incorporating FPGA technology at large scale into Microsoft's cloud architecture.  His team also architected the Brainwave system, which is serving accelerated deep learning at large scale within Microsoft's cloud.  Before joining Microsoft in 2008, he spent ten years on the Computer Science faculty at the University of Texas at Austin, where he co-led the TRIPS project with Steve Keckler.  He is the recipient of the 2006 Maurice Wilkes Award, an IEEE Fellow, an ACM Fellow, an ex-athlete, and an avid father.
+    TBA
   </p>
    </td>
 </tr>
 <tr>
 <td>9:00</td>
-<td colspan="2" class="tdb" >
-<p><strong>Lightning Session II (1.5 min/paper)</strong></p>
-</td>
+<td style="text-align: center;" colspan="2"><strong>&nbsp;Break &nbsp;&nbsp; Room: Pre-Function Area</strong><br>
+  <strong>&nbsp;PSRC &nbsp;&nbsp; Room: Uzuki</strong></td>
 </tr>
 <tr>
-<td>10:00</td>
-<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;</td>
-</tr>
-<tr>
-<td>10:20</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>3-A In/Near Memory Computing. David Wood,  U. Wisconsin</em></strong> <br> Ballroom ABC  </td>
-<td style="background-color: light blue;" class="tdb"><strong><em>3-B Security. Chris Fletcher,  UIUC</em> <br> Ballroom D</strong></td>
+<td>9:30</td><tr>
+<td style="background-color: light blue;" class="tdb"><strong><em>5-A Memory Systems - II</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>5-B Measurement, Modeling, and Simulation</em></strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123985">
-A Many-core Architecture for In-Memory Data Processing 
-</a>
+PiCL: a Software-Transparent, Persistent Cache Log for Nonvolatile Main Memory
 </strong><br>
-Sandeep R Agrawal:Oracle Labs; Sam Idicula:Oracle Labs; Arun Raghavan:Oracle Labs; Evangelos Vlachos:Oracle Labs; Venkatraman Govindaraju:Oracle Labs; Venkatanathan Varadarajan:Oracle Labs; Cagri Balkesen:Oracle Labs; Georgios Giannikis:Oracle Labs; Charlie Roth:NXP; Nipun Agarwal:Oracle Labs; Eric Sedlar:Oracle Labs
+Tri M. Nguyen:Princeton University ;David Wentzlaff:Princeton University
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123972">
-RHMD: Evasion-Resilient Hardware Malware Detectors 
-</a>
+Leveraging CPU Electromagnetic Emanations for Voltage Noise Characterization
 </strong><br>
-Khaled N. Khasawneh:University of California. Riverside; Nael Abu-Ghazaleh:University of California. Riverside; Dmitry Ponomarev:Binghamton University; Lei Yu:Binghamton University
+Zacharias Hadjilambrou:University of Cyprus ;Shidhartha Das:ARM ;Marco A. Antoniades:University of Cyprus ;Yiannakis Sazeides:University of Cyprus
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123986">
-Cache Automaton 
-</a>
+Efficient Hardware-assisted Logging with Asynchronous and Direct Update for Persistent MEmory
 </strong><br>
-Arun Subramaniyan:University of Michigan; Jingcheng Wang:University of Michigan; Ezhil R. M. Balasubramanian:University of Michigan; David Blaauw:University of Michigan; Dennis Sylvester:University of Michigan; Reetuparna Das:University of Michigan
+Jungi Jeong:KAIST ;Changhyun Park:KAIST ;Jaehyuk Huh:KAIST ;Seungryoul Maeng:KAIST
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123955">
-Software-based Gate-level Information Flow Security for IoT Systems 
-</a>
+ArchSweeper: A High-throughput Multi-core Processor Design Evaluation Methodology
 </strong><br>
-Hari Cherupalli:University of Minnesota; Henry Duwe:University of Illinois; Weidong Ye:University of Illinois; Rakesh Kumar:University of Illinois; John Sartori:University of Minnesota
+Hanhwi Jang:POSTECH ;Jae-Eon Jo:POSTECH ;Jaewon Lee:Seoul National University ;Jangwoo Kim:Seoul National University  
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124544">
-Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology 
-</a>
+CHAMELEON: A Dynamically Reconfigurable Heterogeneous Memory System
 </strong><br>
-Vivek Seshadri:Microsoft Research India; Donghyuk Lee:NVIDIA Research; Thomas Mullins:Intel; Hasan Hassan:ETH Zurich; Amirali Boroumand:CMU; Jeremie Kim:ETH Zurich; Michael A. Kozuch:Intel; Onur Mutlu:ETH Zurich; Phillip B. Gibbons:CMU; Todd C. Mowry:CMU
+Jagadish B. Kotra :AMD Research ;Haibo Zhang:The Pennsylvania State University ;Alaa R. Alameldeen:Intel Corporation Ltd ;Chris Wilkerson:NVIDIA Corporation Ltd ;Mahmut T. Kandemir:The Pennsylvania State University ;Jagadish Kotra:AMD Research 
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124546">
-How secure is your cache against side-channel attacks? 
-</a>
+An Analytical Model for Early Design Space Exploration of Intermittent Processor Architectures
 </strong><br>
-Zecheng He:Princeton University; Ruby B. Lee:Princeton University
+Joshua San Miguel:University of Wisconsin-Madison ;Karthik Ganesan:University of Toronto ;Mario Badr:University of Toronto ;Chunqiu Xia:University of Toronto ;Rose Li:University of Toronto ;Hsuan:Julie ;Hsiao:University of Toronto ;Natalie Enright Jerger:University of Toronto 
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123977">
-DRISA: A DRAM-based Reconfigurable In-Situ Accelerator 
-</a>
+Compresso: Pragmatic Main Memory Compression
 </strong><br>
-Shuangchen Li:University of California. Santa Barbara; Dimin Niu:Samsung; Krishna T. Malladi:Samsung; Hongzhong Zheng:Samsung; Bob Brennan:Samsung; Yuan Xie:University of California. Santa Barbara
+Esha Choukse:The University of Texas at Austin ;Mattan Erez:The University of Texas at Austin ;Alaa R. Alameldeen:Intel Labs  
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124538">
-Constructing and Characterizing Covert Channels on GPGPUs 
-</a>
+CounterMiner: Mining Big Performance Data from Hardware Counters
 </strong><br>
-Hoda Naghibijouybari:University of California. Riverside; Khaled Khasawneh:University of California. Riverside; Nael Abu-Ghazaleh:University of California. Riverside
+Yirong Lv:Shenzhen Institute of Advanced Technology, Chinese Academy of Science ;Bin Sun:Shenzhen Institute of Advanced Technology, Chinese Academy of Science ;Qinyi Luo:University of Southern California ;Jing Wang:Capital Normal University, Beijing, China ;Zhibin Yu:Shenzhen Institute of Advanced Technology, Chinese Academy of Science ;Xuehai Qian:University of Southern California 
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124540">
-PageForge: A Near-Memory Content-Aware Page-Merging Architecture 
-</a>
+Farewell My Shared LLC! A case for private die-stacked DRAM caches for servers
 </strong><br>
-Dimitrios Skarlatos:University of Illinois at Urbana-Champaign; Nam Sung Kim:University of Illinois at Urbana-Champaign; Josep Torrellas:University of Illinois at Urbana-Champaign
+Amna Shahab:The University of Edinburgh ;Mingcan Zhu:The University of Edinburgh ;Artemiy Margaritov:The University of Edinburgh ;Boris Grot:The University of Edinburgh
 </td>
 <td>
 <strong>
+Taming the Killer Microsecond
 </strong><br>
+Shenghsun Cho:Stony Brook University ;Amoghavarsha Suresh:Stony Brook University ;Tapti Palit:Stony Brook University ;Michael Ferdman:Stony Brook University 
 </td>
+</tr>
+<tr>
+<td>11:00</td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster <br> Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
 <td>12:00</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Lunch <br> Thomas Paine and Riverside Pavillion  </strong></td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Award Lunch<br> Room: the Grand Ballroom</strong></td>
 </tr>
 <tr>
-<td>13:00</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Awards Presentations</strong></td>
+<td>13:20</td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster <br> Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
 <td>14:20</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Break/Room reconfiguration  </strong></td>
-</tr>
-<tr>
-<td>14:30</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>4-A Deep Learning.  Vivienne Sze,  MIT</em> <br> Ballroom ABC </strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>4-B Prediction. Alaa Alameldeen, Intel</em> <br> Ballroom D </strong></td>
 </tr>
