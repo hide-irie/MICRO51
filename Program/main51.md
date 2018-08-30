@@ -480,7 +480,7 @@ Xing Hu:University of California, Santa Barbara ;Matheus Ogleari:University of C
   <strong>&nbsp;PSRC &nbsp;&nbsp; Room: Uzuki</strong></td>
 </tr>
 <tr>
-<td>9:30</td><tr>
+<td>9:30</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>5-A Memory Systems - II</em></strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>5-B Measurement, Modeling, and Simulation</em></strong></td>
 </tr>
@@ -572,170 +572,94 @@ Shenghsun Cho:Stony Brook University ;Amoghavarsha Suresh:Stony Brook University
 <td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster <br> Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
-<td>14:20</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>4-A Deep Learning.  Vivienne Sze,  MIT</em> <br> Ballroom ABC </strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>4-B Prediction. Alaa Alameldeen, Intel</em> <br> Ballroom D </strong></td>
+<td>14:20</td><tr>
+<td style="background-color: light blue;" class="tdb"><strong><em>6-A Near Memory Computing</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>6-B Reliability and Fault-Tolerance</em></strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123979">
-Scale-Out Acceleration for Machine Learning 
-</a>
+Adaptive Scheduling for Systems with Asymmetric Memory Hierarchies
 </strong><br>
-Jongse Park:Georgia Institute of Technology; Hardik Sharma:Georgia Institute of Technology; Divya Mahajan:Georgia Institute of Technology; Joon Kyung Kim:Georgia Institute of Technology; Hadi Esmaeilzadeh:University of California, San Diego
+Po-An Tsai:MIT ;Changping Chen:MIT ;Daniel Sanchez:MIT 
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123943">
-Using Branch Predictors to Predict Brain Activity in Brain-Machine Implants 
-</a>
+Exploring and Optimizing Chipkill-correct for Persistent Memory Based on High-density NVRAMs
 </strong><br>
-Abhishek Bhattacharjee:Rutgers University/Princeton University
+Zhang Da:Virginia Tech ;Vilas Sridharan:AMD ;Xun Jian ;Virginia Tech
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123982">
-Bit-Pragmatic Deep Neural Network Computing 
-</a>
+Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach
 </strong><br>
-Jorge Albericio:NVIDIA; Patrick Judd:University of Toronto; Alberto Delmas:University of Toronto; Sayeh Sharify:University of Toronto; Gerard O'Leary:University of Toronto; Roman Genov:University of Toronto; Andreas Moshovos:University of Toronto
+Jiawen Liu:University of California, Merced ;Hengyu Zhao:University of California, San Diego ;Matheus A. Ogleari:University of California, Santa Cruz ;Dong Li:University of California, Merced ;Jishen Zhao:University of California, San Diego ;Hengyu Zhao:University of California, San Diego
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123951">
-Load Value Prediction via Path-based Address Prediction: Avoiding Mispredictions due to Conflicting Stores 
-</a>
+Comprehensive Evaluation of Supply Voltage Underscaling in FPGA on-chip Memories
 </strong><br>
-Rami Sheikh:Qualcomm Technologies. Inc.; Harold W. Cain:Qualcomm Datacenter Technologies. Inc.; Raguram Damodaran:Qualcomm Technologies. Inc.
+Behzad Salami:Barcelona Supercomputing Center (BSC) ;Osman Unsal:Barcelona Supercomputing Center (BSC) ;Adrian Cristal:Barcelona Supercomputing Center (BSC)
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124552">
-CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices 
-</a>
+LerGAN: A Zero-free, Low Data Movement and PIM-based GAN Architecture
 </strong><br>
-Caiwen Ding:Syracuse University; Siyu Liao:City University of New York. City College; Yanzhi Wang:Syracuse University;Zhe Li:Syracuse University; Ning Liu:Syracuse University; Youwei Zhuo:University of Southern California;  Chao Wang:University of Southern California;Xuehai Qian:University of Southern California; Yu Bai:California State University Fullerton; Geng Yuan:Syracuse University; Xiaolong Ma:Syracuse University; Yipeng Zhang:Syracuse University; Jian Tang:Syracuse University; Qinru Qiu:Syracuse University; Xue Lin:Northeastern University; Bo Yuan:City University of New York. City College
+Haiyu Mao:University of Florida ;Mingcong Song:University of Florida ;Tao Li:University of Florida ;Yuting Dai:University of Florida ;Jiwu Shu 
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123942">
-Multiperspective Reuse Prediction 
-</a>
+Error Correlation Prediction in Lockstep Processors for Safety-critical Systems
 </strong><br>
-Daniel A. JimŽnez:Texas A&M; Elvira Teran:Texas A&M
+Emre Ozer:Arm ;Balaji Venu:Arm ;Xabier Iturbe:Arm ;Shidhartha Das:Arm ;Spyros Lyberis:Arm ;John Biggs:Arm ;Pete Harrod:Arm ;John Penton:Arm 
 </td>
 </tr>
 <tr>
-  <td>15:30</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Break&nbsp;</strong>
+<td>&nbsp;</td>
+<td>
+<strong>
+Multi-dimensional Parallel Training of Winograd Layer through Distributed Near-Data Processing
+</strong><br>
+Byungchul Hong:KAIST ;Yeonju Ro:KAIST ;John Kim:KAIST
+</td>
+<td>
+<strong>
+Error Site Pruning for Practical Reliability Analysis of GPGPU Applications
+</strong><br>
+Bin Nie:College of William and Mary ;Lishan Yang:College of William and Mary ;Adwait Jog:College of William and Mary ;Evgenia Smirni:College of William and Mary
 </td>
 </tr>
-
-
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator
+</strong><br>
+Shuangchen Li:UCSB ;Alvin Oliver Glova:UCSB ;Xing Hu:UCSB ;Peng Gu:UCSB ;Dimin Niu:Samsung ;Krishna T. Malladi:Samsung ;Hongzhong Zheng:Samsung ;Bob Brennan:Samsung ;Yuan Xie:UCSB 
+</td>
+<td>
+<strong>
+SwapCodes: Error Codes for Hardware-Software Cooperative GPU Pipeline Error Detection
+</strong><br>
+Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;Timothy Tsai:NVIDIA ;Stephen W. Keckler:NVIDIA
+</td>
+</tr>
 <tr>
   <td>15:50</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>5-A Consistency/Coherency Translation. Abhishek Bhatacharjee,  Rutgers</em> <br> Ballroom ABC </strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>5-B Energy. Bobbie Manne,  Cavium</em></strong> <br> Ballroom D </td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124549">
-CSALT: Context Switch Aware Large TLB 
-</a>
-</strong><br>
-Yashwant Marathe:The University of Texas at Austin; Nagendra Gulur:Texas Instruments; Jee Ho Ryoo:The University of Texas at Austin; Shuang Song:The University of Texas at Austin; Lizy K. John:The University of Texas at Austin
+<td class="tdb" colspan="2"><strong>&nbsp;Move to Koro-kan&nbsp;</strong>
 </td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124537">
-Harnessing Voltage Margins for Energy Efficiency in Multicore CPUs 
-</a>
-</strong><br>
-George Papadimitriou:University of Athens; Manolis Kaliorakis:University of Athens; Athanasios Chatzidimitriou:University of Athens; Dimitris Gizopoulos:University of Athens; Peter Lawthers:AppliedMicro; Shidhartha Das:ARM
-</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124536">
-RTLCheck: Verifying the Memory Consistency of RTL Designs 
-</a>
-</strong><br>
-Yatin A. Manerkar:Princeton University; Daniel Lustig:NVIDIA; Margaret Martonosi:Princeton University; Michael Pellauer:NVIDIA
-</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123948">
-Race-To-Sleep + Content Caching + Display Caching: A Recipe for Energy-efficient Video Streaming on Handhelds 
-</a>
-</strong><br>
-Haibo Zhang:Penn State; Prasanna Venkatesh Rengasamy:Penn State; Shulin Zhao:Penn State; Nachiappan Chidambaram Nachiappan:Penn State; Anand Sivasubramaniam:Penn State; Mahmut Kandemir:Penn State; Ravi Iyer:Intel; Chita R. Das:Penn State
-</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123971">
-Architecting Hierarchical Coherence Protocols for Push-button Parametric Verification 
-</a>
-</strong><br>
-Opeoluwa Matthews:Duke University; Daniel J. Sorin:Duke University
-</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123944">
-BVF: Enabling Significant On-Chip Power Savings via Bit-Value-Favor for Throughput Processors 
-</a>
-</strong><br>
-Ang Li:Pacific Northwest National Laboratory; Wenfeng Zhao:University of Minnesota; Shuaiwen Leon Song:Pacific Northwest National Laboratory
-</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123946">
-PARSNIP: Performant Architecture for Race Safety with No Impact on Precision 
-</a>
-</strong><br>
-Yuanfeng Peng:University of Pennsylvania; Benjamin P. Wood:Wellesley College; Joseph Devietti:University of Pennsylvania
-</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124547">
-Xylem: Enhancing Vertical Thermal Conduction in 3D Processor-Memory Stacks 
-</a>
-</strong><br>
-Aditya Agrawal:UIUC; Josep Torrellas:UIUC; Sachin Idgunji:Nvidia
-</td>
-</tr>
-<tr>
-<td>17:20</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Break and Poster Session&nbsp;&nbsp;<br> Thomas Paine and Riverside Pavillion </strong></td>
-</tr>
-<tr>
-<td>18:20</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Business Meeting&nbsp;&nbsp; Room: Ballroom: D 
-<a href = "https://www.microarch.org/businessmtg/micro50/micro2017-business_meeting-final.pdf"> Charts: </a>
-<a href="https://www.microarch.org/businessmtg/micro50/micro2017-business_meeting_notes.pdf"> Notes: </a>
-</strong></td>
 </tr>
 <thead>
 <tr>
 <th>Start time</th>
-<th colspan="2" align="center" >Wednesday Oct 18, 2017 </th>
+<th colspan="2" align="center" >Wednesday Oct 24, 2018 </th>
 </tr>
 </thead>
 <tr>
