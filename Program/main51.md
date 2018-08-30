@@ -89,142 +89,133 @@ table.blueTable tfoot .links a{
 <thead>
 <tr>
 <th>Start time</th>
-<th colspan="2" align="center" >Sunday Oct 15, 2017 </th>
+<th colspan="2" align="center" >Sunday Oct 21, 2018 </th>
 </tr>
 </thead>
 <tr>
-<td>5:00pm</td>
-<td colspan="2" align="center" class = "tdb"><strong>Welcome Reception </strong><br /><strong>Room: Charles View Ballroom (16th floor)
+<td>6:00pm</td>
+<td colspan="2" align="center" class = "tdb"><strong>Welcome Reception </strong><br /><strong>Room: The Grand Ball Room (3rd floor of Grand Hyatt Fukuoka)
  </strong></td>
 </tr>
 <thead>
 <tr>
 <th>Start time</th>
-<th colspan="2" align="center" >Monday Oct 16, 2017 </th>
+<th colspan="2" align="center" >Monday Oct 22, 2018 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>7:00</td>
-<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: 
-Thomas Paine and Riverside Pavillion
+<td>7:40</td>
+<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: Savoy & Red Rose
 </strong></td>
 </tr>
 <tr>
-<td>8:00</td>
-<td style="text-align: center;" colspan="2" class="tdb" ><strong>Opening Remarks&nbsp;&nbsp;</strong></td>
+<td>8:40</td>
+<td style="text-align: center;" colspan="2" class="tdb" ><strong>Opening Remarks&nbsp;&nbsp;</strong><br /><strong>Room: The Grand Ball Room</strong></td>
 </tr>
 <tr>
-<td>8:20</td>
-<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 1: Krisztián Flautner, VP Technology, ARM <br> To a Trillion and Beyond: the Future of the Internet of Things </strong> <br></p> 
-  <p> As we move from an era of human-centric connectivity to a new machine-centric era, there are numerous opportunities to innovate, providing solutions that can scale to trillions of interconnected intelligent devices. The defining feature of this era will be that computers become invisible and move from attention-grabbing devices into the background. For some this is utopia, for others it conjures the imagery of George Orwell. This talk will examine the technology underpinnings of this interconnected future and explore how the notion of trust must evolve to keep pace with both engineering and social developments. </p>
+<td>9:00</td>
+<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 1<br> Title TBA</strong> <br></p> 
+  <p> abst. TBA </p>
   <p> <strong>Bio: </strong>
-    Krisztián Flautner is vice president of technology at ARM. Previously, Kris was general manager of the Internet of Things Business Unit and VP of Research and Development at ARM. He is focused on new business opportunities and the proliferation of ARM technologies. He received a PhD in computer science and engineering, along with a number of other degrees, from the University of Michigan, where he has also served as a visiting scholar. He has authored or co-authored over 80 publications, including key contributions on computer architecture, software, and microarchitecture. Flautner received various best paper awards including the 2017 ISCA influential paper award for groundbreaking research in power-efficient computing, to show that at least one of these ideas received broad adoption by the industry and researchers alike.
+    TBA
   </p>
    </td>
 </tr>
-<tr>
+<!-- <tr>
 <td>9:20</td>
 <td colspan="2" class="tdb" >
 <p><strong>Lightning Session I (1.5 min/paper)</strong></p>
 </td>
 </tr>
-<tr>
-<td>10:20</td>
-<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;</td>
+<tr> -->
+<td>10:00</td>
+<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;<br /><strong>Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
-<td>10:40</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>1-A DRAM. Daniel Jimenez,  TAMU</em> <br> Ballroom ABC </strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>1-B Accelerators. Krste Asanovic,  Berkeley</em></strong></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124555">
-Banshee: Bandwidth-Efficient DRAM Caching Via Software/Hardware Cooperation
-</a>
-</strong><br>
-Xiangyao Yu:MIT; Christopher J. Hughes:Intel; Nadathur Satish:Intel; Onur Mutlu:ETH; Srinivas Devadas:MIT </td>
-<td>
-<strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123983">
-UDP: A Programmable Accelerator for Extract-Transform-Load Workloads and More
-</a>
-</strong><br>
-Yuanwei Fang:University of Chicago; Chen Zou:University of Chicago; Aaron J. Elmore:University of Chicago; Andrew A. Chien:University of Chicago and Argonne National Laboratory
-</td>
+<td>10:30</td>
+<td style="background-color: light blue;" class="tdb"><strong><em>1-A Accelerators</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>1-B Microarchitecture</em></strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124535">
-ConTutto - A Novel FPGA-based Prototyping Platform Enabling Innovation in the Memory Subsystem of a Server Class Processor
-</a>
+Improving the Locality of Graph Processing through Hardware-Accelerated Traversal Scheduling
 </strong><br>
-Bharat Sukhwani:IBM Research; Thomas Roewer:IBM Research; Charles L. Haymes:IBM Research; Kyu-Hyoun Kim:IBM Research; Adam J. McPadden:IBM; Daniel M. Dreps:IBM; Dean Sanner:IBM; Jan Van Lunteren:IBM Research; Sameh Asaad:IBM Research
+Anurag Mukkara:MIT CSAIL ;Nathan Beckmann:CMU SCS ;Maleen Abeydeera:MIT CSAIL ;Xiaosong Ma:QCRI, HBKU ;Daniel Sanchez:MIT CSAIL
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124542">
-UNFOLD: A Memory-Efficient Speech Recognizer Using On-The-Fly WFST Composition
-</a>
+Composable Building Blocks to Open up Processor Design
 </strong><br>
-Reza Yazdani:Universitat Politecnica de Catalunya; Jose-Maria Arnau:Universitat Politecnica de Catalunya; Antonio Gonzalez:Universitat Politecnica de Catalunya
+Sizhuo Zhang:MIT ;Andrew Wright:MIT ;Thomas Bourgeat:MIT ;Arvind:MIT
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123945">
-Detecting and Mitigating Data-Dependent DRAM Failures by Exploiting Current Memory Content
-</a>
+Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach
 </strong><br>
-Samira Khan:University of Virginia; Chris Wilkerson:Intel; Zhe Wang:Intel; Alaa Alameldeen:Intel; Donghyuk Lee:NVIDIA; Onur Mutlu:ETH Zurich
+Xuda Zhou:USTC ;Zidong Du:Institute of Computing Technology, Chinese Academy of Sciences/Cambricon ;QI Guo:Institute of Computing Technology, Chinese Academy of Sciences/Cambricon ;Chengsi Liu:MSU ;Chao Wang:USTC ;Xuehai Zhou:USTC ;Ling Li:Institute of Computing Technology, Chinese Academy of Sciences ;Tianshi Chen :Institute of Computing Technology, Chinese Academy of Sciences/Cambricon ;Yunji Chen:Institute of Computing Technology, Chinese Academy of Sciences
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3123941">
-IDEAL: Image DEnoising AcceLerator
-</a>
+Performance Improvement by Prioritizing the Issue of the Instructions in Unconfident Branch Slices
 </strong><br>
-Mostafa Mahmoud:University of Toronto; Bojian Zheng:University of Toronto; Alberto Delmas Lascorz:University of Toronto;  Felix Heide: Stanford University/Algolux; Jonathan Assouline: Algolux; Paul Boucher: Algolux; Emmanuel Onzon: Algolux;Andreas Moshovos:University of Toronto
+Hideki Ando:Nagoya University 
 </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124545">
-Fine-Grained DRAM: Energy Efficient DRAM for Extreme Bandwidth Systems
-</a>
+CSE: Convergence Set Based Enumerative FSM
 </strong><br>
-Mike O'Connor:NVIDIA / UT-Austin; Niladrish Chatterjee:NVIDIA; Donghyuk Lee:NVIDIA; John Wilson:NVIDIA; Aditya Agrawal:NVIDIA; Stephen W. Keckler:NVIDIA / UT-Austin; William J. Dally:NVIDIA / Stanford
+Youwei Zhuo:University of Southern California ;Jinglei Cheng:Tsinghua University ;Qinyi Luo:University of Southern California ;Jidong Zhai:Tsinghua University ;Yanzhi Wang:Syracuse University ;Zhongzhi Luan:Beihang University ;Xuehai Qian:University of Southern California   
 </td>
 <td>
 <strong>
-<a href="http://dl.acm.org/citation.cfm?id=3124551">
-Pipelining a Triggered Processing Element
-</a>
+The Superfluous Load Queue
 </strong><br>
-Thomas J. Repetti:Columbia University; Joao Pedro Cerqueira:Columbia University; Martha A. Kim:Columbia University; Mingoo Seok:Columbia University
+Alberto Ros:University of Murcia ;Stefanos Kaxiras:Uppsala University
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays
+</strong><br>
+Dani Voitsechov:Technion ;Oron Port:Technion ;Yoav Etsion:Technion
+</td>
+<td>
+<strong>
+Architectural Support for Probabilistic Branches
+</strong><br>
+Almutaz Adileh:Ghent University ;David Lilja:University of Minnesota ;Lieven Eeckhout:Ghent University 
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware
+</strong><br>
+Tao Chen:Cornell University ;Shreesha Srinath:Cornell University ;Christopher Batten:Cornell University ;G. Edward Suh:Cornell University
+</td>
+<td>
+<strong>
+STRAIGHT: Hazardless Processor Architecture Without Register Renaming
+</strong><br>
+Hidetsugu Irie:the University of Tokyo ;Toru Koizumi:the University of Tokyo ;Akifumi Fukuda:the University of Tokyo ;Seiya Akaki:the University of Tokyo ;Satoshi Nakae:the University of Tokyo ;Yutaro Bessho:the University of Tokyo ;Ryota Shioya:Nagoya University ;Takahiro Notsu:FUJITSU LABORATORIES LTD. ;Katsuhiro Yoda:FUJITSU LABORATORIES LTD. ;Teruo Ishihara:FUJITSU LABORATORIES LTD. ;Shuichi Sakai:the University of Tokyo  
 </td>
 </tr>
 <tr>
 <td>12:00</td>
-<td style="text-align: center;" colspan="2"><strong>&nbsp;Lunch &nbsp;&nbsp; Room: Thomas Paine and Riverside Pavillion
-Ballroom </strong></td>
-</tr>
-<tr>
-<td>13:00</td>
-<td style="text-align: center;" colspan="2"><strong>&nbsp;Legends of MICRO &nbsp;&nbsp;
-<br>
-Panel: Legends of MICRO</strong><br>
-"A Retrospective on 50 Years of MICRO", <br>Moderator: Rich Belgard Panelists:<br> Tom Conte, Matt Farrens, Gearold Johnson, Yale Patt, Nick Tredennick
-</td>
+<td style="text-align: center;" colspan="2"><strong>&nbsp;Lunch &nbsp;&nbsp; Room: Savoy & Red Rose </strong><br>
+  <strong>&nbsp;Poster-SRC &nbsp;&nbsp; Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
 <td>14:00</td>
