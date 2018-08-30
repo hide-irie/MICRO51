@@ -48,7 +48,8 @@ If we receive more than 10 children/day are requested, we will try to increase t
       Contractor
       </strong></td>
     <td>
-      ALPHA Corporation Inc.<br>Member of the All Japan Childcare Services Association (ACSA)
+      <div align="left">ALPHA Corporation Inc.<br>Member of the All Japan Childcare Services Association (ACSA)</div>
+      <div align="right"><img border="0" src="{{ site.baseurl }}/images/alphacorporation.jpg" height ="30" alt="alphacorporation_logo"/></div>
     </td>
     <td>
       <img border="0" src="{{ site.baseurl }}/images/alphacorporation.jpg" height ="30" alt="alphacorporation_logo"/>
