@@ -134,8 +134,8 @@ table.blueTable tfoot .links a{
 </tr>
 <tr>
 <td>10:30</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>1-A Accelerators</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>1-B Microarchitecture</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>1-A Accelerators</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>1-B Microarchitecture</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -219,8 +219,8 @@ Hidetsugu Irie:the University of Tokyo ;Toru Koizumi:the University of Tokyo ;Ak
 </tr>
 <tr>
 <td>13:00</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>2-A ML accelerators</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>2-B Compilers and Programming Languages</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>2-A ML accelerators</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>2-B Compilers and Programming Languages</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -302,8 +302,8 @@ Qingrui Liu:Virginia Tech ;Joseph Izraelevitz:University of Rochester ;Sekwon Le
 </tr>
 <tr>
 <td>14:50</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>3-A Memory Systems - I</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>3-B GPGPU/GPU</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>3-A Memory Systems - I</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>3-B GPGPU/GPU</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -386,8 +386,8 @@ An Zou:Washington University in St. Louis ;Jingwen Leng:Shanghai Jiao Tong Unive
 </tr>
 <tr>
 <td>16:40</td> 
-<td style="background-color: light blue;" class="tdb"><strong><em>4-A Security - I</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>4-B Storage Systems & Technologies</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>4-A Security - I</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>4-B Storage Systems & Technologies</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -482,8 +482,8 @@ Ruby B. Lee is the Forest G. Hamrick Professor in Engineering and Professor of E
 </tr>
 <tr>
 <td>9:30</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>5-A Memory Systems - II</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>5-B Measurement, Modeling, and Simulation</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>5-A Memory Systems - II</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>5-B Measurement, Modeling, and Simulation</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -562,7 +562,7 @@ Shenghsun Cho:Stony Brook University ;Amoghavarsha Suresh:Stony Brook University
 </tr>
 <tr>
 <td>11:00</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster <br> Room: Pre-Function Area</strong></td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster Session I<br> Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
 <td>12:00</td>
@@ -570,12 +570,12 @@ Shenghsun Cho:Stony Brook University ;Amoghavarsha Suresh:Stony Brook University
 </tr>
 <tr>
 <td>13:20</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster <br> Room: Pre-Function Area</strong></td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster Session II<br> Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
 <td>14:20</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>6-A Near Memory Computing</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>6-B Reliability and Fault-Tolerance</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>6-A Near Memory Computing</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>6-B Reliability and Fault-Tolerance</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -654,7 +654,7 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 </tr>
 <tr>
   <td>15:50</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Move to Koro-kan&nbsp;</strong>
+<td class="tdb" colspan="2"><strong>&nbsp;Excursion: Move to Koro-kan&nbsp;</strong>
 </td>
 </tr>
 <thead>
@@ -712,8 +712,8 @@ End-to-End Automated Exploit Generation for Diagnosing Processor Designs
 </tr>
 <tr>
 <td>10:50</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>8-A Non-Conventional Architectures</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>8-B Mobile and Embedded Architectures</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>8-A Non-Conventional Architectures</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>8-B Mobile and Embedded Architectures</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -766,8 +766,8 @@ Behzad Boroujerdia:University of Texas at Austin ;Hasan Genc:University of Texas
 </tr>
 <tr>
 <td>12:05</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>9-A Domain-Specific Architectures</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>9-B Security-II</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>9-A Domain-Specific Architectures</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>9-B Security-II</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -816,7 +816,7 @@ Vladimir Kiriansky:Massachusetts Institute of Technology (MIT) ;Ilia Lebedev:Mas
 </tr>
 <tr>
 <td>13:00</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Closing</strong><br /><strong>Room: The Grand Ballroom-CD</strong></td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Closing Remarks, Best Paper Award Presentation, ACM SRC Winners Presentation</strong><br /><strong>Room: The Grand Ballroom-CD</strong></td>
 </tr>
 <tr>
 <td>13:20</td>
