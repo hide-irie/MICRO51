@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Main Program
+title: Main Program (Tentative)
 ---
 
 <style>
@@ -509,7 +509,7 @@ Jungi Jeong:KAIST ;Changhyun Park:KAIST ;Jaehyuk Huh:KAIST ;Seungryoul Maeng:KAI
 </td>
 <td>
 <strong>
-ArchSweeper: A High-throughput Multi-core Processor Design Evaluation Methodology
+RpStacks-MT: A High-throughput Multi-core Processor Design Evaluation Methodology
 </strong><br>
 Hanhwi Jang:POSTECH ;Jae-Eon Jo:POSTECH ;Jaewon Lee:Seoul National University ;Jangwoo Kim:Seoul National University  
 </td>
