@@ -115,7 +115,7 @@ table.blueTable tfoot .links a{
 </tr>
 <tr>
 <td>9:00</td>
-<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 1<br> Title TBA</strong> <br></p> 
+<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 1: Satoshi Matsuoka, Tokyo Institute of Technology<br> Title TBA</strong> <br></p> 
   <p> abst. TBA </p>
   <p> <strong>Bio: </strong>
     TBA
@@ -466,12 +466,13 @@ Xing Hu:University of California, Santa Barbara ;Matheus Ogleari:University of C
 </tr>
 <tr>
 <td>8:00</td>
-<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 2: TBA
+<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 2: Ruby B. Lee, Princeton University<br>Security Aware Microarchitecture Design
  </strong> <br></p> 
-  <p> abst. TBA</p>
+<p> abst. Recent covert and side channel attacks, like Meltdown and Spectre, have alerted the world to the security dangers of attacks on hardware architecture features. Even though microarchitecture performance features, like speculation and branch prediction, may be implemented correctly according to current Computer Architecture specifications, they can be exploited to leak security-critical or privacy-sensitive information to unauthorized entities.  How then, can we design microarchitecture that improves performance without degrading security?  Can we design architecture that improves security and performance at the same time?</p?
+<p>We discuss design principles and strategies for security-aware architecture, in particular, microarchitecture that does not inadvertently create new security vulnerabilities that can lead to serious security breaches.  While security is very broad, in this talk we discuss mainly confidentiality breaches due to timing (side or covert) channels. Rather than exposing microarchitecture timing details in new security-aware architecture specifications, we propose that design rules be specified and checked for all performance optimization features to prevent security breaches and information leaks through timing channels. While this will be a learning process for the computer architecture and security communities to get to a small yet comprehensive set of design principles, we will illustrate with a few concrete examples. The good news is that this “era of security” provides both critical challenges and exciting opportunities for new design principles and innovative strategies for joint performance-security optimization, security-functional-timing verification and new tools. </p>
   <p> <strong>Bio: </strong>
-    TBA
-  </p>
+Ruby B. Lee is the Forest G. Hamrick Professor in Engineering and Professor of Electrical Engineering at Princeton University.  At her Princeton Architecture Lab for Multimedia and Security (PALMS), Prof. Lee ‘s research includes designing security-aware architectures for processors, smartphones and cloud computing.  She also designs intrinsically secure hardware, such as secure cache architectures that use novel strategies for defeating cache side channel attacks. Her research also includes machine learning and deep learning techniques for implicit user authentication using smartphone sensors and for detecting attacks and other anomalies in computer and cyber-physical systems.  Prof. Lee is a Fellow of ACM and IEEE, has over 130 U.S. and international patents, and many publications in both computer architecture and computer security conferences.</p>  
+<p>Prior to Princeton, Lee was chief architect at Hewlett Packard computer systems, responsible at different times for processor architecture, multimedia architecture and security architecture. She was an original architect of the PA-RISC processor architecture used in HP’s business, technical and industrial control computer families, and architect of the first multimedia subword-parallel instructions in commercial microprocessors.</p>
    </td>
 </tr>
 <tr>
@@ -668,7 +669,8 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 </tr>
 <tr>
 <td>8:00</td>
-<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 3: TBA
+<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 3: Neuromorphic Principles for Efficient Self-Learning Microarchitecture
+  <br>Mike Davies, Intel
  </strong> <br></p> 
   <p> abst. TBA</p>
   <p> <strong>Bio: </strong>
@@ -684,12 +686,12 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 <td></td>
 <td colspan="2"> <strong>
 CEASER: Mitigating Eviction-Based Cache Attacks via Dynamically Encrypted Address
-</strong> <br>Moinuddin Qureshi:Georgia Institute of Technology ;Moinuddin Qureshi:Georgia Tech</td>
+</strong> <br>Moinuddin Qureshi:Georgia Institute of Technology</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"> <strong>
-PipeProof: Automated Memory Consistency Proofs of Microarchitectural Specifications
+PipeProof: Automated Memory Consistency Proofs for Microarchitectural Specifications
 </strong> <br>Yatin A. Manerkar:Princeton University ;Daniel Lustig:NVIDIA ;Margaret Martonosi:Princeton University ;Aarti Gupta:Princeton University</td>
 </tr>
 <tr>
