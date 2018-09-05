@@ -243,7 +243,7 @@ Po-An Tsai:MIT ;Yee Ling Gan:MIT ;Daniel Sanchez:MIT
 <strong>
 Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning
 </strong><br>
-Youngeun Kwon:POSTECH/KAIST ;Minsoo Rhu:POSTECH/KAIST
+Youngeun Kwon:KAIST ;Minsoo Rhu:KAIST
 </td>
 <td>
 <strong>
@@ -423,7 +423,7 @@ Donghyun Gouk:Yonsei University ;Miryeong Kwon:Yonsei University ;Jie Zhang:Yons
 <td>&nbsp;</td>
 <td>
 <strong>
-InvisiSpec: Invisible Speculative Execution
+InvisiSpec: Making Speculative Execution Invisible in the Cache Hierarchy
 </strong><br>
 Mengjia Yan:University of Illinois at Urbana-Champaign ;Jiho Choi:University of Illinois at Urbana-Champaign ;Dimitrios Skarlatos:University of Illinois at Urbana-Champaign ;Adam Morrison:Tel Aviv University ;Christopher W. Fletcher:University of Illinois at Urbana-Champaign ;Josep Torrellas:University of Illinois at Urbana-Champaign 
 </td>
@@ -504,9 +504,9 @@ Zacharias Hadjilambrou:University of Cyprus ;Shidhartha Das:ARM ;Marco A. Antoni
 <td>&nbsp;</td>
 <td>
 <strong>
-Efficient Hardware-assisted Logging with Asynchronous and Direct Update for Persistent MEmory
+Efficient Hardware-assisted Logging with Asynchronous and Direct Update for Persistent Memory
 </strong><br>
-Jungi Jeong:KAIST ;Changhyun Park:KAIST ;Jaehyuk Huh:KAIST ;Seungryoul Maeng:KAIST
+Jungi Jeong:KAIST ;Chang Hyun Park:KAIST ;Jaehyuk Huh:KAIST ;Seungryoul Maeng:KAIST
 </td>
 <td>
 <strong>
@@ -521,11 +521,11 @@ Hanhwi Jang:POSTECH ;Jae-Eon Jo:POSTECH ;Jaewon Lee:Seoul National University ;J
 <strong>
 CHAMELEON: A Dynamically Reconfigurable Heterogeneous Memory System
 </strong><br>
-Jagadish B. Kotra :AMD Research ;Haibo Zhang:The Pennsylvania State University ;Alaa R. Alameldeen:Intel Corporation Ltd ;Chris Wilkerson:NVIDIA Corporation Ltd ;Mahmut T. Kandemir:The Pennsylvania State University ;Jagadish Kotra:AMD Research 
+Jagadish B. Kotra :AMD Research ;Haibo Zhang:The Pennsylvania State University ;Alaa R. Alameldeen:Intel Corporation Ltd ;Chris Wilkerson:NVIDIA Corporation Ltd ;Mahmut T. Kandemir:The Pennsylvania State University 
 </td>
 <td>
 <strong>
-An Analytical Model for Early Design Space Exploration of Intermittent Processor Architectures
+The EH Model: Early Design Space Exploration of Intermittent Processor Architectures
 </strong><br>
 Joshua San Miguel:University of Wisconsin-Madison ;Karthik Ganesan:University of Toronto ;Mario Badr:University of Toronto ;Chunqiu Xia:University of Toronto ;Rose Li:University of Toronto ;Hsuan:Julie ;Hsiao:University of Toronto ;Natalie Enright Jerger:University of Toronto 
 </td>
@@ -632,7 +632,7 @@ Byungchul Hong:KAIST ;Yeonju Ro:KAIST ;John Kim:KAIST
 </td>
 <td>
 <strong>
-Error Site Pruning for Practical Reliability Analysis of GPGPU Applications
+Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications
 </strong><br>
 Bin Nie:College of William and Mary ;Lishan Yang:College of William and Mary ;Adwait Jog:College of William and Mary ;Evgenia Smirni:College of William and Mary
 </td>
@@ -672,9 +672,9 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 <td colspan="2" class="tdk" ><p align="center"><strong>Keynote 3: Neuromorphic Principles for Efficient Self-Learning Microarchitecture
   <br>Mike Davies, Intel
  </strong> <br></p> 
-  <p> abst. TBA</p>
+  <p> abst. Earlier this year, Intel published its Loihi neuromorphic research chip in IEEE Micro. This novel processor implements a microcode-programmable learning architecture supporting a wide range of neuroplasticity mechanisms under study at the forefront of computational neuroscience.  By applying many of the fundamental principles of neural computation found in nature, Loihi promises to provide highly efficient and scalable learning performance for supervised, unsupervised, reinforcement-based, and one-shot paradigms.  This talk describes these principles as applied to the Loihi architecture and shares our preliminary results towards the vision of low power, real-time on-chip learning.</p>
   <p> <strong>Bio: </strong>
-    TBA
+    Mike Davies leads Intel’s Neuromorphic Computing Lab.  Since joining Intel Labs in 2014, he has researched neuromorphic prototype architectures and is responsible for Intel’s recently announced Loihi research chip.  Mike began his career in 2000 as a founding employee of Fulcrum Microsystems.  As Fulcrum’s Director of Silicon Engineering, he pioneered high performance asynchronous design methodologies as applied to several generations of industry-leading Ethernet switch products.  Mike joined Intel in 2011 by Intel’s acquisition of Fulcrum.  He holds BS and MS degrees from Caltech in Computer Engineering, Mathematics, and Electrical Engineering.
   </p>
    </td>
 </tr>
@@ -721,7 +721,7 @@ End-to-End Automated Exploit Generation for Diagnosing Processor Designs
 <strong>
 MDACache:Caching for Multi-Dimensional-Access Memories
 </strong><br>
-Sumitha George:PSU ;Minli Julie Liao:PSU ;Huaipan Jiang:PSU ;Jagadish Kotra:AMD Research ;Mahmut Kandemir:PSU ;John Sampson:PSU ;Vijaykrishnan Narayanan:PSU ;Jagadish Kotra:AMD Research 
+Sumitha George:PSU ;Minli Julie Liao:PSU ;Huaipan Jiang:PSU ;Jagadish Kotra:AMD Research ;Mahmut Kandemir:PSU ;John Sampson:PSU ;Vijaykrishnan Narayanan:PSU 
 </td>
 <td>
 <strong>
@@ -779,7 +779,7 @@ Hongyuan Liu:College of William & Mary ;Mohamed Ibrahim:College of William & Mar
 </td>
 <td>
 <strong>
-Metis: Automated Exploit Program Generation for Hardware Security Verification
+CheckMate: Automated Synthesis of Hardware Exploits and Security Litmus Tests
 </strong><br>
 Caroline Trippel:Princeton University ;Daniel Lustig:NVIDIA ;Margaret Martonosi:Princeton Univeristy
 </td>
