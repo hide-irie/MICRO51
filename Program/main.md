@@ -549,15 +549,15 @@ Yirong Lv:Shenzhen Institute of Advanced Technology, Chinese Academy of Science 
 <td>&nbsp;</td>
 <td>
 <strong>
-Farewell My Shared LLC! A case for private die-stacked DRAM caches for servers
+Farewell My Shared LLC! A Case for Private Die-Stacked DRAM Caches for Servers
 </strong><br>
-Amna Shahab:The University of Edinburgh ;Mingcan Zhu:The University of Edinburgh ;Artemiy Margaritov:The University of Edinburgh ;Boris Grot:The University of Edinburgh
+Amna Shahab:University of Edinburgh ;Mingcan Zhu:University of Edinburgh ;Artemiy Margaritov:University of Edinburgh ;Boris Grot:University of Edinburgh
 </td>
 <td>
 <strong>
 Taming the Killer Microsecond
 </strong><br>
-Shenghsun Cho:Stony Brook University ;Amoghavarsha Suresh:Stony Brook University ;Tapti Palit:Stony Brook University ;Michael Ferdman:Stony Brook University 
+Shenghsun Cho:Stony Brook University ;Amoghavarsha Suresh:Stony Brook University ;Tapti Palit:Stony Brook University ;Michael Ferdman:Stony Brook University ;Nima Honarmand:Stony Brook University 
 </td>
 </tr>
 <tr>
