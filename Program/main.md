@@ -598,7 +598,7 @@ Zhang Da:Virginia Tech ;Vilas Sridharan:AMD ;Xun Jian ;Virginia Tech
 <strong>
 Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach
 </strong><br>
-Jiawen Liu:University of California, Merced ;Hengyu Zhao:University of California, San Diego ;Matheus A. Ogleari:University of California, Santa Cruz ;Dong Li:University of California, Merced ;Jishen Zhao:University of California, San Diego ;Hengyu Zhao:University of California, San Diego
+Jiawen Liu:University of California, Merced ;Hengyu Zhao:University of California, San Diego ;Matheus A. Ogleari:University of California, Santa Cruz ;Dong Li:University of California, Merced ;Jishen Zhao:University of California, San Diego
 </td>
 <td>
 <strong>
