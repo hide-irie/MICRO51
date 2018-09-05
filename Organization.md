@@ -36,5 +36,6 @@ title: Organization Committee
 |   |Michael Gschwind|  IBM Research |
 |   |Vijayalakshmi (Viji) Srinivasan|  IBM Research | 
 |   |Josep Torrellas|  Illinois |
+|   |Wen-mei Hwu|  Illinois |
 ||||
 {: .table } 
