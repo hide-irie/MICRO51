@@ -735,9 +735,9 @@ End-to-End Automated Exploit Generation for Diagnosing Processor Designs
 <td>&nbsp;</td>
 <td>
 <strong>
-MDACache:Caching for Multi-Dimensional-Access Memories
+Magic-State Functional Units: Mapping and Scheduling Multi-Level Distillation Circuits for Fault-Tolerant Quantum Architectures
 </strong><br>
-Sumitha George:PSU ;Minli Julie Liao:PSU ;Huaipan Jiang:PSU ;Jagadish Kotra:AMD Research ;Mahmut Kandemir:PSU ;John Sampson:PSU ;Vijaykrishnan Narayanan:PSU 
+Yongshan Ding:University of Chicago ;Adam Holmes:University of Chicago ;Ali Javadi-Abhari:Princeton University ;Diana Franklin:University of Chicago ;Margaret Martonosi:Princeton University ;Frederic T. Chong:University of Chicago 
 </td>
 <td>
 <strong>
@@ -750,9 +750,9 @@ Prasanna Venaktesh Rengasamy:Penn State ;Haibo Zhang:Penn State ;Shulin Zhao:Pen
 <td>&nbsp;</td>
 <td>
 <strong>
-GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware
+MDACache:Caching for Multi-Dimensional-Access Memories
 </strong><br>
-Ananda Samajdar:Georgia Institute of Technology ;Parth Mannan:Georgia Institute of Technology ;Kartikay Garg:Georgia Institute of Technology ;Tushar Krishna:Georgia Institute of Technology
+Sumitha George:PSU ;Minli Julie Liao:PSU ;Huaipan Jiang:PSU ;Jagadish Kotra:AMD Research ;Mahmut Kandemir:PSU ;John Sampson:PSU ;Vijaykrishnan Narayanan:PSU 
 </td>
 <td>
 <strong>
@@ -765,9 +765,9 @@ Moumita Dey:Georgia Institute of Technology ;Alireza Nazari:Georgia Institute of
 <td>&nbsp;</td>
 <td>
 <strong>
-Magic-State Functional Units: Mapping and Scheduling Multi-Level Distillation Circuits for Fault-Tolerant Quantum Architectures
+GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware
 </strong><br>
-Yongshan Ding:University of Chicago ;Adam Holmes:University of Chicago ;Ali Javadi-Abhari:Princeton University ;Diana Franklin:University of Chicago ;Margaret Martonosi:Princeton University ;Frederic T. Chong:University of Chicago 
+Ananda Samajdar:Georgia Institute of Technology ;Parth Mannan:Georgia Institute of Technology ;Kartikay Garg:Georgia Institute of Technology ;Tushar Krishna:Georgia Institute of Technology
 </td>
 <td>
 <strong>
