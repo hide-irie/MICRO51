@@ -719,7 +719,7 @@ Application-Transparent Near-Memory Processing Architecture with Memory Channel 
 <tr>
 <td></td>
 <td colspan="2"> <strong>
-End-to-End Automated Exploit Generation for Diagnosing Processor Designs
+End-to-End Automated Exploit Generation for Validating the Security of Processor Designs
 </strong> <br>Rui Zhang:UNC Chapel Hill ;Calvin Deutschbein:UNC Chapel Hill ;Peng Huang:Johns Hopkins University ;Cynthia Sturton:UNC Chapel Hill</td>
 </tr>
 <tr>
