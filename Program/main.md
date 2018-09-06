@@ -118,7 +118,23 @@ table.blueTable tfoot .links a{
 <td colspan="2" class="tdk" ><p align="center"><strong>Keynote 1: Satoshi Matsuoka, Tokyo Institute of Technology<br> Title TBA</strong> <br></p> 
   <p> abst. TBA </p>
   <p> <strong>Bio: </strong>
-    TBA
+    Satoshi Matsuoka from April 2018 has become the director of Riken CCS,
+the top-tier HPC center that represents HPC in Japan, currently hosting
+the K Computer and developing the next generation Post-K machine, along
+with multitudes of ongoing cutting edge HPC research being conducted. He
+had been a Full Professor at the Global Scientific Information and
+Computing Center (GSIC), a Japanese national supercomputing center
+hosted by the Tokyo Institute of Technology since 2000, and since 2016 a
+Fellow at the AI Research Center (AIRC), AIST, the largest national lab
+in Japan, as well as becoming the head of the joint Lab RWBC-OIL (Open
+Innovation Lab on Real World Big Data Computing) between the two
+institutions, in 2017. He was the leader of the TSUBAME series of
+supercomputers, and has won the 2014 IEEE-CS Sidney Fernbach Memorial
+Award, the highest prestige in the field of HPC. He still has an
+appointment as a Professor at the Department of Mathematical and
+Computing Sciences, Tokyo Institute of Technology, to continue his
+research activities spanning the three institutions in HPC and scalable
+Big Data and AI.
   </p>
    </td>
 </tr>
