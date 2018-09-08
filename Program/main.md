@@ -477,7 +477,7 @@ Xing Hu:University of California, Santa Barbara ;Matheus Ogleari:University of C
 </tr>
 </thead>
 <tr>
-<td>7:30</td>
+<td>7:00</td>
 <td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: Savoy & Red Rose</strong></td>
 </tr>
 <tr>
@@ -680,7 +680,7 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 </tr>
 </thead>
 <tr>
-<td>7:30</td>
+<td>7:00</td>
 <td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: Savoy & Red Rose</strong></td>
 </tr>
 <tr>
