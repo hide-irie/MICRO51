@@ -819,7 +819,7 @@ Xian Zhang:Peking University ;Guangyu Sun:Peking University ;Peichen Xie:Peking 
 <td>&nbsp;</td>
 <td>
 <strong>
-MORPH: Hardware-Software Codesign for Efficient Video Understanding
+Morph: Flexible Acceleration for 3D CNN-based Video Understanding
 </strong><br>
 Kartik Hegde:UIUC ;Rohit Agrawal:UIUC ;Yulun Yao:UIUC ;Christopher W. Fletcher:UIUC
 </td>
