@@ -24,7 +24,7 @@ If we receive more than 10 children/day are requested, we will try to increase t
       Opening<br>Date & Time
       </strong></td>
     <td colspan="2">
-      Oct 20th(Sat) – 23th (Tue)  8:00～18:00<br>Oct 24th (Wed)   8:00～13:0
+      Oct 20th(Sat) – 23th (Tue)  8:00～18:00<br>Oct 24th (Wed)   8:00～13:30
     </td>
   </tr>
   <tr>
