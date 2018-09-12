@@ -310,7 +310,7 @@ Chunhua Deng:City University of New York ;Siyu Liao:City University of New York 
 <strong>
 iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory
 </strong><br>
-Qingrui Liu:Virginia Tech ;Joseph Izraelevitz:University of Rochester ;Sekwon Lee:UNIST ;Michael L. Scott:University of Rochester ;Sam H. Noh:UNIST ;Changhee Jung :Virginia Tech 
+Qingrui Liu:Virginia Tech ;Joseph Izraelevitz:University of Rochester ;Se Kwon Lee:UNIST ;Michael L. Scott:University of Rochester ;Sam H. Noh:UNIST ;Changhee Jung :Virginia Tech 
 </td>
 </tr>
 <td>14:30</td>
@@ -696,7 +696,7 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 </tr>
 <tr>
 <td>9:00</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Best Paper Sesson<br> The Grand Ballroom</strong></td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Best Paper Session<br> The Grand Ballroom</strong></td>
 </tr>
 <tr>
 <td></td>
