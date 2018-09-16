@@ -157,7 +157,7 @@ Big Data and AI.
 <td>&nbsp;</td>
 <td>
 <strong>
-Improving the Locality of Graph Processing through Hardware-Accelerated Traversal Scheduling
+Exploiting Locality in Graph Analytics through Hardware Accelerated Traversal Scheduling
 </strong><br>
 Anurag Mukkara:MIT CSAIL ;Nathan Beckmann:CMU SCS ;Maleen Abeydeera:MIT CSAIL ;Xiaosong Ma:QCRI, HBKU ;Daniel Sanchez:MIT CSAIL
 </td>
