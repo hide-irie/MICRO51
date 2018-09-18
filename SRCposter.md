@@ -33,6 +33,6 @@ title: SRC Poster - MICRO 2018
 |Ushio Jimbo, Ryota Shioya and Masahiro Goshima.<Br>Clocking Scheme That Realizes Ballistic Signal Flow |
 |Yu-Shun Hsiao, Yun-Chen Lo and Ren-Shuo Liu.<br>FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility |
 |David Schlais, Heng Zhuo and Mikko Lipasti.<br>Configurable Tightly-Coupled FPGA-style fabric for Fine-Grained Acceleration |
-<!--|Swamit Tannu and Moinuddin Qureshi.<br>A Case for Variability-Aware Policies for NISQ-Era Quantum Computers |	-->
+[](|Swamit Tannu and Moinuddin Qureshi.<br>A Case for Variability-Aware Policies for NISQ-Era Quantum Computers |)
 {: .table .table-striped }
 
