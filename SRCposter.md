@@ -32,6 +32,6 @@ title: SRC Poster - MICRO 2018
 |Koki Ishida, Masamitsu Tanaka, Takatsugu Ono and Koji Inoue.<br>[Prototype Design of 30 GHz Superconducting Single-Flux-Quantum Microprocessor Towards Cryogenic General Purpose Computing]({{ site.baseurl }}/SRC/posters/23_ishida.pdf) |
 |Ushio Jimbo, Ryota Shioya and Masahiro Goshima.<br>[Clocking Scheme That Realizes Ballistic Signal Flow]({{ site.baseurl }}/SRC/posters/24_jimbo.pdf) |
 |Yu-Shun Hsiao, Yun-Chen Lo and Ren-Shuo Liu.<br>[FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility]({{ site.baseurl }}/SRC/posters/25_hsiao.pdf) |
-|David Schlais, Heng Zhuo and Mikko Lipasti.<br>[Configurable Tightly-Coupled FPGA-style fabric for Fine-Grained Acceleration]({{ site.baseurl }}/SRC/posters/26_schalais.pdf) |
+|David Schlais, Heng Zhuo and Mikko Lipasti.<br>[Configurable Tightly-Coupled FPGA-style fabric for Fine-Grained Acceleration]({{ site.baseurl }}/SRC/posters/26_schlais.pdf) |
 {: .table .table-striped }
 
