@@ -642,7 +642,7 @@ Emre Ozer:Arm ;Balaji Venu:Arm ;Xabier Iturbe:Arm ;Shidhartha Das:Arm ;Spyros Ly
 <td>&nbsp;</td>
 <td>
 <strong>
-Multi-dimensional Parallel Training of Winograd Layer through Distributed Near-Data Processing
+Multi-dimensional Parallel Training of Winograd Layer on Memory-Centric Architecture
 </strong><br>
 Byungchul Hong:KAIST ;Yeonju Ro:KAIST ;John Kim:KAIST
 </td>
