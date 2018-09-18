@@ -7,7 +7,7 @@ title: SRC Poster - MICRO 2018
 
 |                                                        |  
 | ----------------------------------------------------- | 
-| <a href="https://katalog.uu.se/profile/?id=N15-914">Christos Sakalis</a>.<br>[Ghost Loads: Side-Effect Free Speculative Memory Accesses]({{ site.baseurl }}/SRC/posters/1_sakalis.pdf) |
+| <a href="https://katalog.uu.se/profile/?id=N15-914">Christos Sakalis</a>.<br>[*Ghost Loads: Side-Effect Free Speculative Memory Accesses*]({{ site.baseurl }}/SRC/posters/1_sakalis.pdf) |
 |Mayank Parasar and Tushar Krishna.<br>[Guaranteeing Deadlock Freedom in Arbitrary Network Topologies using Packet Swaps]({{ site.baseurl }}/SRC/posters/2_parasar.pdf)|
 |Chao Zhang, Yuan Zeng and <a href="https://www.lehigh.edu/~xig515/Home.html">Xiaochen Guo</a>.<br>[A Fine-Grained Cache with Adaptive Merged Block]({{ site.baseurl }}/SRC/posters/3_zhang.pdf)|
 |<a href="https://sites.google.com/site/gururajshome/home">Gururaj Saileshwar</a> and <a href="http://moin.ece.gatech.edu/">Moinuddin Qureshi</a>.<br>[Probabilistic Integrity for Low-Overhead Secure Memories]({{ site.baseurl }}/SRC/posters/4_saileshwar.pdf) |
