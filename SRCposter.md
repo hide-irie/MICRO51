@@ -28,7 +28,8 @@ title: SRC Poster - MICRO 2018
 |Tatsuya Hoshino and Koji Inoue. Time-Domain Neural Network with Superconducting Single-Flux-Quantum Devices |
 |<a href="http://www.cs.toronto.edu/~bojian/">Bojian Zheng</a> and <a href="http://www.cs.toronto.edu/~pekhimenko/">Gennady Pekhimenko</a>. EcoRNN: Efficient Computing of LSTM RNN on GPUs |
 |Hiroki Yamane, Daiki Yamakawa, Yasuhiko Nakashima, Hiroya Ikeda and Mutsumi Kimura. Development and Evaluation of Letter Reproduction System using Cellular Neural Network and Oxide Semiconductor Synapses |
-|Hyoukjun Kwon and Tushar Krishna. MAESTRO: An Open-source Infrastructure for the Cost-Benefit Analysis of Dataflows within Deep Learning Accelerators |Koki Ishida, Masamitsu Tanaka, Takatsugu Ono and Koji Inoue. Prototype Design of 30 GHz Superconducting Single-Flux-Quantum Microprocessor Towards Cryogenic General Purpose Computing |
+|Hyoukjun Kwon and Tushar Krishna. MAESTRO: An Open-source Infrastructure for the Cost-Benefit Analysis of Dataflows within Deep Learning Accelerators |
+|Koki Ishida, Masamitsu Tanaka, Takatsugu Ono and Koji Inoue. Prototype Design of 30 GHz Superconducting Single-Flux-Quantum Microprocessor Towards Cryogenic General Purpose Computing |
 |Ushio Jimbo, Ryota Shioya and Masahiro Goshima. Clocking Scheme That Realizes Ballistic Signal Flow |
 |Yu-Shun Hsiao, Yun-Chen Lo and Ren-Shuo Liu. FlexNet: Neural Networks with Inherent Inference-Time Bitwidth Flexibility |
 |David Schlais, Heng Zhuo and Mikko Lipasti. Configurable Tightly-Coupled FPGA-style fabric for Fine-Grained Acceleration |
