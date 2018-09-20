@@ -543,7 +543,7 @@ Jagadish B. Kotra :AMD Research ;Haibo Zhang:The Pennsylvania State University ;
 <strong>
 The EH Model: Early Design Space Exploration of Intermittent Processor Architectures
 </strong><br>
-Joshua San Miguel:University of Wisconsin-Madison ;Karthik Ganesan:University of Toronto ;Mario Badr:University of Toronto ;Chunqiu Xia:University of Toronto ;Rose Li:University of Toronto ;Hsuan:Julie ;Hsiao:University of Toronto ;Natalie Enright Jerger:University of Toronto 
+Joshua San Miguel:University of Wisconsin-Madison ;Karthik Ganesan:University of Toronto ;Mario Badr:University of Toronto ;Chunqiu Xia:University of Toronto ;Rose Li:University of Toronto ;Hsuan (Julie) Hsiao:University of Toronto ;Natalie Enright Jerger:University of Toronto 
 </td>
 </tr>
 <tr>
