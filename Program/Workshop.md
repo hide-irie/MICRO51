@@ -40,7 +40,7 @@ title: Program
     <td class="tg-s6z2" colspan="2">ROCm+MIOpen</td>
     <td class="tg-s6z2">Intermittent<br>Computing</td>
     <td class="tg-s6z2">Quantum<br>Computing</td>
-    <td class="tg-s6z2">Intel-NSF<br>Panel</td>
+    <td class="tg-s6z2">Intel-NSF panel<br>(free for WS/T/Conf attendees)</td>
     
   </tr>
   <tr>
