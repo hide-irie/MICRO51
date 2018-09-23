@@ -14,7 +14,7 @@ title: Program
 .tg .tg-vv7f{background-color:#D2E4FC;font-weight:bold}
 .tg .tg-hgcj{font-weight:bold;text-align:center}
 .tg .tg-5hgy{background-color:#D2E4FC;text-align:center}
-.tg .tg-empty{background-color:#777777}
+.tg .tg-empty{background-color:#AAAAAA}
   
 </style>
 
