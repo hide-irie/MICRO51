@@ -14,16 +14,8 @@ title: Program
 .tg .tg-vv7f{background-color:#D2E4FC;font-weight:bold}
 .tg .tg-hgcj{font-weight:bold;text-align:center}
 .tg .tg-5hgy{background-color:#D2E4FC;text-align:center}
+.tg .tg-empty{background-color:#777777}
   
-.diagonal {
-    height: 100%;
-    width: 100%;
-    border-top: solid gray 1px;
-}
-
-.rightDown {
-    transform: matrix(1, 0.75, 0, 1, 0, 15);
-}
 </style>
 
 <table class="tg">
@@ -55,13 +47,13 @@ title: Program
     <td class="tg-5hgy">Savoy II</td>
     <td class="tg-5hgy" colspan="2">RISC-V</td>
     <td class="tg-5hgy" colspan="2">PHOTONICS</td>
-    <td class="tg-5hgy"><div class="diagonal rightDown"></div></td>
+    <td class="tg-empty"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">Red Rose</td>
     <td class="tg-s6z2" colspan="2">NoCArc</td>
     <td class="tg-s6z2" colspan="2">Women and Minorities</td>
-    <td class="tg-s6z2"><div class="diagonal rightDown"></div></td>
+    <td class="tg-empty"></td>
   </tr>
   <tr>
     <td class="tg-5hgy">Drawing</td>
@@ -69,7 +61,7 @@ title: Program
     <td class="tg-5hgy">Labeled RISC-V</td>
     <td class="tg-5hgy">Domain Specific<br>System<br>Architecture</td>
     <td class="tg-vn4c">Energy Efficient<br>Computing</td>
-    <td class="tg-vn4c"><div class="diagonal rightDown"></div></td>
+    <td class="tg-empty"></td>
   </tr>
 </table>
 
