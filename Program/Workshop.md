@@ -20,7 +20,7 @@ title: Program
   <tr>
     <th class="tg-s6z2"></th>
     <th class="tg-hgcj" colspan="2">Saturday (Oct. 20) </th>
-    <th class="tg-hgcj" colspan="2">Sunday (Oct. 21) </th>
+    <th class="tg-hgcj" colspan="3">Sunday (Oct. 21) </th>
   </tr>
   <!-- <tr>
     <th class="tg-hgcj" colspan="5"> Breakfast (7:30-8:30AM). Lunch (12-1pm). Break (3-3:30pm) </th>
@@ -31,22 +31,27 @@ title: Program
     <td class="tg-0rnh">Afternoon (1pm-5pm)</td>
     <td class="tg-0rnh">Morning (8:30AM-noon)</td>
     <td class="tg-vv7f">Afternoon (1pm-5pm)</td>
+    <td class="tg-vv7f">Afternoon (5:10pm-5:55pm)</td>
   </tr>
   <tr>
     <td class="tg-s6z2">Savoy I</td>
     <td class="tg-s6z2" colspan="2">ROCm+MIOpen</td>
     <td class="tg-s6z2">Intermittent<br>Computing</td>
     <td class="tg-s6z2">Quantum<br>Computing</td>
+    <td class="tg-s6z2">Intel-NSF<br>Panel</td>
+    
   </tr>
   <tr>
     <td class="tg-5hgy">Savoy II</td>
     <td class="tg-5hgy" colspan="2">RISC-V</td>
     <td class="tg-5hgy" colspan="2">PHOTONICS</td>
+    <td class="tg-5hgy"></td>
   </tr>
   <tr>
     <td class="tg-s6z2">Red Rose</td>
     <td class="tg-s6z2" colspan="2">NoCArc</td>
     <td class="tg-s6z2" colspan="2">Women and Minorities</td>
+    <td class="tg-s6z2"></td>
   </tr>
   <tr>
     <td class="tg-5hgy">Drawing</td>
@@ -54,6 +59,7 @@ title: Program
     <td class="tg-5hgy">Labeled RISC-V</td>
     <td class="tg-5hgy">Domain Specific<br>System<br>Architecture</td>
     <td class="tg-vn4c">Energy Efficient<br>Computing</td>
+    <td class="tg-vn4c"></td>
   </tr>
 </table>
 
@@ -83,6 +89,7 @@ title: Program
 | GenSim                |     | [GenSim: A Toolset for Efficient Binary Translation](http://www.gensim.org/)     | Harry Wagstaff, Bruno Bodin, Tom Spink, Björn Franke                                         | University of Edinburgh                               |
 | Labeled RISC-V                |     | [Labeled RISC-V: A Case for Software-Defined Architecture](http://sdc.ict.ac.cn/micro2018-tutorial/)      | Yungang Bao            | ICT, CAS     |
 | Energy Efficient Computing         |     | [Energy Efficient Computing in Multicore CPUs: Design Margins and Variability](http://micro51.tutorial.di.uoa.gr/)     | Dimitris Gizopoulos, George Papadimitriou, Athanasios Chatzidimitriou     | University of Athens                         |
+| Intel-NSF Panel       |     | Intel-NSF panel: Reinvigorating foundational microarchitecture research towards general purpose performance   |     |                          |
 {: .table .table-striped }
 
 
