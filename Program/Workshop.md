@@ -25,7 +25,7 @@ title: Program
     <th class="tg-hgcj" colspan="3">Sunday (Oct. 21) </th>
   </tr>
   <tr>
-    <th class="tg-hgcj" colspan="5"><!-- Breakfast (7:30-8:30AM).--> Lunch (12-1pm). <!-- Break (3-3:30pm)--> </th>
+    <th class="tg-hgcj" colspan="6"><!-- Breakfast (7:30-8:30AM).--> Lunch (12-1pm). <!-- Break (3-3:30pm)--> </th>
   </tr>
   <tr>
     <td class="tg-0rnh">Room</td>
