@@ -3,7 +3,7 @@ layout: default
 title: Call for Papers
 ---
 
-The International Symposium on Microarchitecture (MICRO) is the premier forum for the presentation and discussion of new ideas in microarchitecture, compilers, hardware/software interfaces, and design of advanced computing and communication systems. The goal of MICRO is to bring together researchers in the fields of microarchitecture, compilers, and systems for technical exchange. The MICRO community has enjoyed having close interaction between academic researchers and industrial designers---we aim to continue and strengthen this longstanding tradition at the 51st MICRO in Fukuoka, Japan.
+The International Symposium on Microarchitecture <sup>&reg;</sup> (MICRO) is the premier forum for the presentation and discussion of new ideas in microarchitecture, compilers, hardware/software interfaces, and design of advanced computing and communication systems. The goal of MICRO is to bring together researchers in the fields of microarchitecture, compilers, and systems for technical exchange. The MICRO community has enjoyed having close interaction between academic researchers and industrial designers---we aim to continue and strengthen this longstanding tradition at the 51st MICRO in Fukuoka, Japan.
 
 
 <center>
