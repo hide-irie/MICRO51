@@ -11,7 +11,7 @@ title: Student Research Competition
 
 **Acceptance notification:** ~~Aug 15, 2018.~~ **Aug 18, 2018.**
 
-The 51st International Symposium on Microarchitecture is the
+The 51st International Symposium on Microarchitecture <sup>&reg;</sup> is the
 premier forum for presenting, discussing, and debating innovative
 microarchitecture ideas and techniques for advanced computing and
 communication systems. This symposium brings together researchers
@@ -24,7 +24,7 @@ MICRO-51. In 2018, MICRO will be held in Fukuoka, Japan.
 
 ## Overview
 
-The 51st International Symposium on Microarchitecture (MICRO)
+The 51st International Symposium on Microarchitecture <sup>&reg;</sup> (MICRO)
 invites participation in the ACM Student Research
 Competition (SRC). Sponsored by ACM and Microsoft Research, the
 SRC is a forum for undergraduates and graduate students to share
