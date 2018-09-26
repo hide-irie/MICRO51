@@ -16,7 +16,7 @@ If we receive more than 10 children/day are requested, we will try to increase t
 
 <table border="1">
   <tr>
-  <th colspan="3">Information on Nursery<br>for The 51st International Symposium on Microarchitecture<br>
+  <th colspan="3">Information on Nursery<br>for The 51st International Symposium on Microarchitecture &reg;<br>
     <small>Please read carefully and understand the following terms of service before reservation.</small></th>
   </tr>
   <tr>
