@@ -25,7 +25,7 @@ title: Program
     <th class="tg-hgcj" colspan="3">Sunday (Oct. 21) </th>
   </tr>
   <tr>
-    <th class="tg-hgcj" colspan="6"><!-- Breakfast (7:30-8:30AM).--> Lunch (12-1pm). <!-- Break (3-3:30pm)--> </th>
+    <th class="tg-hgcj" colspan="6"><Breakfast (7:30-9:00am). Lunch (12-1pm). <!-- Break (3-3:30pm)--> </th>
   </tr>
   <tr>
     <td class="tg-0rnh">Room</td>
@@ -37,7 +37,7 @@ title: Program
   </tr>
   <tr>
     <td class="tg-s6z2">Savoy I</td>
-    <td class="tg-s6z2" colspan="2">ROCm+MIOpen</td>
+    <td class="tg-s6z2" colspan="2">~ROCm+MIOpen~</td>
     <td class="tg-s6z2">Intermittent<br>Computing</td>
     <td class="tg-s6z2">Quantum<br>Computing</td>
     <td class="tg-s6z2">Intel-NSF panel<br>(free for WS/T/Conf attendees)</td>
@@ -85,7 +85,7 @@ title: Program
 
 | Name                      |     | Full Name                                                                 | Organizers                                                            | Affiliation                             |
 |-------------------------- |---  |-------------------------------------------------------------------------  |---------------------------------------------------------------------  |---------------------------------------- |
-| ROCm+MIOpen              |     | [AMD Radeon Open Compute and Machine Intelligence: Hardware and Software](https://rocm.github.io/micro51_rocm_tutorial.html)                                             | Joseph Greathouse, Gabriel Loh                 | AMD  |
+| ~ROCm+MIOpen~              |     | *CANCELLED* AMD Radeon Open Compute and Machine Intelligence: Hardware and Software <!-- https://rocm.github.io/micro51_rocm_tutorial.html -->                                             | Joseph Greathouse, Gabriel Loh                 | AMD  |
 | Intermittent Computing              |     | [Getting Started with Intermittent Computing](https://cmuabstract.github.io/intermittence_tutorial/) | Brandon Lucia, Emily Ruppel, Kiwan Maeng, Graham Gobieski, Milijana Surbatovich  | CMU                 |
 | Quantum Computing    |     | [Introduction to Grand Challenges and Research Tools for Quantum Computing](https://www.epiqc.cs.uchicago.edu/tutorial/)   |   Fred Chong, Margaret Martonosi, Ali Javadi-Abhari   | UChicago, Princeton, IBM                         |
 | GenSim                |     | [GenSim: A Toolset for Efficient Binary Translation](http://www.gensim.org/)     | Harry Wagstaff, Bruno Bodin, Tom Spink, Björn Franke                                         | University of Edinburgh                               |
