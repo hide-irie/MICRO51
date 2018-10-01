@@ -498,7 +498,7 @@ Ruby B. Lee is the Forest G. Hamrick Professor in Engineering and Professor of E
 </tr>
 <tr>
 <td>9:30</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>5-A Memory Systems - II</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>5-A Memory Systems - II</em></strong><br /><strong>Room: Savoy</strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>5-B Measurement, Modeling, and Simulation</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
