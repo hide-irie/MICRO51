@@ -348,7 +348,7 @@ Ben:Ching-Pei ;Lin:University of Texas at Austin ;Michael B Healy:IBM Research ;
 <strong>
 Neighborhood-aware address translation for irregular GPU applications
 </strong><br>
-Seunghee Shin:AMD Research/NC State University ;Michael LeBeane:AMD Research/UT Austin ;Yan Solihin:NC State University ;Arkaprava Basu:Indian Institute of Science  
+Seunghee Shin:SUNY at Binghamton ;Michael LeBeane:AMD Research/UT Austin ;Yan Solihin:University of Central Florida ;Arkaprava Basu:Indian Institute of Science  
 </td>
 </tr>
 <tr>
