@@ -104,7 +104,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/Intel_logo.png" height ="110" alt="Intel logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height ="65" alt="Arm logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/jst_logo.png" height ="115" alt="JST logo"/></div>
-<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/kyushu-u_logo.jpg" height ="150" alt="JST logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/kyushu-u_logo.jpg" height ="150" alt="Kyushu-u logo"/></div>
 
 </div>
 <br>
