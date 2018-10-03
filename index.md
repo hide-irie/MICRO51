@@ -11,7 +11,8 @@ title:
   <p> Fukuoka City, Japan (<a href="https://www.youtube.com/watch?v=CLxntu0QIFA&feature=youtu.be">Youtube</a>)</p>
   <p> Code of Conduct: <a href="https://www.ieee.org/about/corporate/governance/p7-8.html">IEEE</a> and <a href="https://www.acm.org/code-of-ethics">ACM</a></p>
   <p> Hotel: GRAND HYATT FUKUOKA. <a href="https://www.microarch.org/micro51/Hotel/">Link to MICRO Reservation</a>.</p>
-  <p> <a href="https://www.microarch.org/micro51/Registration/">Link to Registration</a>.<strong>Early registration deadline: 23:59, Sep. 20 (JST)</strong></p>
+  <p> <!--<a href="https://www.surveymonkey.com/r/WD6R6CN">-->Link to MICRO Conference Survey (to be opened)<!--</a>-->.</p>
+  <p> <a href="https://www.microarch.org/micro51/Registration/">Link to Registration</a>.<strong>Late registration deadline: 23:59, Oct. 11 (JST)</strong></p>
   <p> <a href="https://www.microarch.org/micro51/StudentTravel/">Link to Student Travel Award</a>.</p>
   <p>  <a href="https://www.microarch.org/micro51/Visa/">Link to Visa request</a>.</p>
   <table>
