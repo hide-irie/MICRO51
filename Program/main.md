@@ -411,8 +411,8 @@ An Zou:Washington University in St. Louis ;Jingwen Leng:Shanghai Jiao Tong Unive
 <td>16:40</td> 
 <td style="background-color: light blue;" class="tdb"><strong><em>4-A Security - I</em></strong><br />
   <strong><em>session chair: David Wentzlaff</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>4-B Storage Systems & Technologies</em>
-  <strong><em>session chair: Gennady Pekhimenko</em></strong><br /></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>4-B Storage Systems & Technologies</em></strong><br />
+  <strong><em>session chair: Gennady Pekhimenko</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
