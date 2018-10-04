@@ -151,8 +151,10 @@ Big Data and AI.
 </tr>
 <tr>
 <td>10:30</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>1-A Accelerators</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>1-B Microarchitecture</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>1-A Accelerators</em></strong><br />
+  <strong><em>session chair: Minsoo Rhu</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>1-B Microarchitecture</em></strong><br />
+  <strong><em>session chair: Gabriel Loh</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -236,8 +238,10 @@ Hidetsugu Irie:the University of Tokyo ;Toru Koizumi:the University of Tokyo ;Ak
 </tr>
 <tr>
 <td>13:00</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>2-A ML accelerators</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>2-B Compilers and Programming Languages</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>2-A ML accelerators</em></strong><br />
+  <strong><em>session chair: Hyeran Jeon</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>2-B Compilers and Programming Languages</em></strong><br />
+  <strong><em>session chair: Joshua San Miguel</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -319,8 +323,10 @@ Qingrui Liu:Virginia Tech ;Joseph Izraelevitz:University of Rochester ;Se Kwon L
 </tr>
 <tr>
 <td>14:50</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>3-A Memory Systems - I</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>3-B GPGPU/GPU</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>3-A Memory Systems - I</em></strong><br />
+  <strong><em>session chair: Daniel Lustig</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>3-B GPGPU/GPU</em></strong><br />
+  <strong><em>session chair: Yoav Etsion</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -403,8 +409,10 @@ An Zou:Washington University in St. Louis ;Jingwen Leng:Shanghai Jiao Tong Unive
 </tr>
 <tr>
 <td>16:40</td> 
-<td style="background-color: light blue;" class="tdb"><strong><em>4-A Security - I</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>4-B Storage Systems & Technologies</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>4-A Security - I</em></strong><br />
+  <strong><em>session chair: David Wentzlaff</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>4-B Storage Systems & Technologies</em>
+  <strong><em>session chair: Gennady Pekhimenko</em></strong><br /></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -484,7 +492,8 @@ Xing Hu:University of California, Santa Barbara ;Matheus Ogleari:University of C
 <tr>
 <td>8:00</td>
 <td colspan="2" class="tdk" ><p align="center"><strong>Keynote 2: Ruby B. Lee, Princeton University<br>Security Aware Microarchitecture Design
- </strong> <br></p> 
+ </strong> <br></p>
+  <strong><em>session chair: Hyesoon Kim</em></strong><br />
 <p> <strong>abst.</strong> Recent covert and side channel attacks, like Meltdown and Spectre, have alerted the world to the security dangers of attacks on hardware architecture features. Even though microarchitecture performance features, like speculation and branch prediction, may be implemented correctly according to current Computer Architecture specifications, they can be exploited to leak security-critical or privacy-sensitive information to unauthorized entities.  How then, can we design microarchitecture that improves performance without degrading security?  Can we design architecture that improves security and performance at the same time?</p>
 <p>We discuss design principles and strategies for security-aware architecture, in particular, microarchitecture that does not inadvertently create new security vulnerabilities that can lead to serious security breaches.  While security is very broad, in this talk we discuss mainly confidentiality breaches due to timing (side or covert) channels. Rather than exposing microarchitecture timing details in new security-aware architecture specifications, we propose that design rules be specified and checked for all performance optimization features to prevent security breaches and information leaks through timing channels. While this will be a learning process for the computer architecture and security communities to get to a small yet comprehensive set of design principles, we will illustrate with a few concrete examples. The good news is that this “era of security” provides both critical challenges and exciting opportunities for new design principles and innovative strategies for joint performance-security optimization, security-functional-timing verification and new tools. </p>
   <p> <strong>Bio: </strong>
@@ -499,8 +508,10 @@ Ruby B. Lee is the Forest G. Hamrick Professor in Engineering and Professor of E
 </tr>
 <tr>
 <td>9:30</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>5-A Memory Systems - II</em></strong><br /><strong>Room: Savoy</strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>5-B Measurement, Modeling, and Simulation</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>5-A Memory Systems - II</em></strong><br />
+  <strong><em>session chair: Jishen Zhao</em></strong><br /><strong>Room: Savoy</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>5-B Measurement, Modeling, and Simulation</em></strong><br />
+  <strong><em>session chair: Andreas Moshovos</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -591,8 +602,10 @@ Shenghsun Cho:Stony Brook University ;Amoghavarsha Suresh:Stony Brook University
 </tr>
 <tr>
 <td>14:20</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>6-A Near Memory Computing</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>6-B Reliability and Fault-Tolerance</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>6-A Near Memory Computing</em></strong><br />
+  <strong><em>session chair: Eckert, Yasuko</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>6-B Reliability and Fault-Tolerance</em></strong><br />
+  <strong><em>session chair: Teodorescu, Radu</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -688,7 +701,8 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 <td>8:00</td>
 <td colspan="2" class="tdk" ><p align="center"><strong>Keynote 3: Neuromorphic Principles for Efficient Self-Learning Microarchitecture
   <br>Mike Davies, Intel
- </strong> <br></p> 
+ </strong> <br></p>
+  <strong><em>session chair: Mark Oskin</em></strong><br />
   <p> <strong>abst.</strong> Earlier this year, Intel published its Loihi neuromorphic research chip in IEEE Micro. This novel processor implements a microcode-programmable learning architecture supporting a wide range of neuroplasticity mechanisms under study at the forefront of computational neuroscience.  By applying many of the fundamental principles of neural computation found in nature, Loihi promises to provide highly efficient and scalable learning performance for supervised, unsupervised, reinforcement-based, and one-shot paradigms.  This talk describes these principles as applied to the Loihi architecture and shares our preliminary results towards the vision of low power, real-time on-chip learning.</p>
   <p> <strong>Bio: </strong>
     Mike Davies leads Intel’s Neuromorphic Computing Lab.  Since joining Intel Labs in 2014, he has researched neuromorphic prototype architectures and is responsible for Intel’s recently announced Loihi research chip.  Mike began his career in 2000 as a founding employee of Fulcrum Microsystems.  As Fulcrum’s Director of Silicon Engineering, he pioneered high performance asynchronous design methodologies as applied to several generations of industry-leading Ethernet switch products.  Mike joined Intel in 2011 by Intel’s acquisition of Fulcrum.  He holds BS and MS degrees from Caltech in Computer Engineering, Mathematics, and Electrical Engineering.
@@ -697,7 +711,8 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 </tr>
 <tr>
 <td>9:00</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Best Paper Session<br> The Grand Ballroom</strong></td>
+  <td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Best Paper Session</strong><br> 
+  <strong><em>session chair: Reetuparna Das</em></strong><br /><strong>The Grand Ballroom</strong></td>
 </tr>
 <tr>
 <td></td>
@@ -729,8 +744,10 @@ End-to-End Automated Exploit Generation for Validating the Security of Processor
 </tr>
 <tr>
 <td>10:50</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>8-A Non-Conventional Architectures</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>8-B Mobile and Embedded Architectures</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>8-A Non-Conventional Architectures</em></strong><br />
+  <strong><em>session chair: Masaaki Kondo</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>8-B Mobile and Embedded Architectures</em></strong><br />
+  <strong><em>session chair: Janapa Reddi, Vijay</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -783,8 +800,10 @@ Behzad Boroujerdia:University of Texas at Austin ;Hasan Genc:University of Texas
 </tr>
 <tr>
 <td>12:05</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>9-A Domain-Specific Architectures</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>9-B Security-II</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>9-A Domain-Specific Architectures</em></strong><br />
+  <strong><em>session chair: Jae W. Lee, Vijay</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>9-B Security-II</em></strong><br />
+  <strong><em>session chair: Daniel Jimenez, Vijay</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
