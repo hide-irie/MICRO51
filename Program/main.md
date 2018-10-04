@@ -712,7 +712,7 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 <tr>
 <td>9:00</td>
   <td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Best Paper Session</strong><br> 
-  <strong><em>session chair: Reetuparna Das</em></strong><br /><strong>The Grand Ballroom</strong></td>
+  <strong><em>session chair: Reetuparna Das</em></strong><br /><strong>Room: The Grand Ballroom</strong></td>
 </tr>
 <tr>
 <td></td>
