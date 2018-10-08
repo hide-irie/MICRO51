@@ -489,13 +489,13 @@ Xing Hu (University of California, Santa Barbara), Matheus Ogleari (University o
 <strong>
 PiCL: a Software-Transparent, Persistent Cache Log for Nonvolatile Main Memory
 </strong><br>
-Tri M. Nguyen:Princeton University ;David Wentzlaff:Princeton University
+Tri M. Nguyen (Princeton University), David Wentzlaff (Princeton University)
 </td>
 <td>
 <strong>
 Leveraging CPU Electromagnetic Emanations for Voltage Noise Characterization
 </strong><br>
-Zacharias Hadjilambrou:University of Cyprus ;Shidhartha Das:ARM ;Marco A. Antoniades:University of Cyprus ;Yiannakis Sazeides:University of Cyprus
+Zacharias Hadjilambrou (University of Cyprus), Shidhartha Das (ARM), Marco A. Antoniades (University of Cyprus), Yiannakis Sazeides (University of Cyprus)
 </td>
 </tr>
 <tr>
@@ -504,13 +504,13 @@ Zacharias Hadjilambrou:University of Cyprus ;Shidhartha Das:ARM ;Marco A. Antoni
 <strong>
 Efficient Hardware-assisted Logging with Asynchronous and Direct Update for Persistent Memory
 </strong><br>
-Jungi Jeong:KAIST ;Chang Hyun Park:KAIST ;Jaehyuk Huh:KAIST ;Seungryoul Maeng:KAIST
+Jungi Jeong (KAIST), Chang Hyun Park (KAIST), Jaehyuk Huh (KAIST), Seungryoul Maeng (KAIST)
 </td>
 <td>
 <strong>
 RpStacks-MT: A High-throughput Multi-core Processor Design Evaluation Methodology
 </strong><br>
-Hanhwi Jang:POSTECH ;Jae-Eon Jo:POSTECH ;Jaewon Lee:Seoul National University ;Jangwoo Kim:Seoul National University  
+Hanhwi Jang (POSTECH), Jae-Eon Jo (POSTECH), Jaewon Lee (Seoul National University), Jangwoo Kim (Seoul National University)  
 </td>
 </tr>
 <tr>
@@ -519,13 +519,13 @@ Hanhwi Jang:POSTECH ;Jae-Eon Jo:POSTECH ;Jaewon Lee:Seoul National University ;J
 <strong>
 CHAMELEON: A Dynamically Reconfigurable Heterogeneous Memory System
 </strong><br>
-Jagadish B. Kotra :AMD Research ;Haibo Zhang:The Pennsylvania State University ;Alaa R. Alameldeen:Intel Corporation Ltd ;Chris Wilkerson:NVIDIA Corporation Ltd ;Mahmut T. Kandemir:The Pennsylvania State University 
+Jagadish B. Kotra (AMD Research), Haibo Zhang (The Pennsylvania State University), Alaa R. Alameldeen (Intel Corporation Ltd), Chris Wilkerson (NVIDIA Corporation Ltd), Mahmut T. Kandemir (The Pennsylvania State University) 
 </td>
 <td>
 <strong>
 The EH Model: Early Design Space Exploration of Intermittent Processor Architectures
 </strong><br>
-Joshua San Miguel:University of Wisconsin-Madison ;Karthik Ganesan:University of Toronto ;Mario Badr:University of Toronto ;Chunqiu Xia:University of Toronto ;Rose Li:University of Toronto ;Hsuan (Julie) Hsiao:University of Toronto ;Natalie Enright Jerger:University of Toronto 
+Joshua San Miguel (University of Wisconsin-Madison), Karthik Ganesan (University of Toronto), Mario Badr (University of Toronto), Chunqiu Xia (University of Toronto), Rose Li (University of Toronto), Hsuan (Julie) Hsiao (University of Toronto), Natalie Enright Jerger (University of Toronto) 
 </td>
 </tr>
 <tr>
@@ -534,13 +534,13 @@ Joshua San Miguel:University of Wisconsin-Madison ;Karthik Ganesan:University of
 <strong>
 Compresso: Pragmatic Main Memory Compression
 </strong><br>
-Esha Choukse:The University of Texas at Austin ;Mattan Erez:The University of Texas at Austin ;Alaa R. Alameldeen:Intel Labs  
+Esha Choukse (The University of Texas at Austin), Mattan Erez (The University of Texas at Austin), Alaa R. Alameldeen (Intel Labs)  
 </td>
 <td>
 <strong>
 CounterMiner: Mining Big Performance Data from Hardware Counters
 </strong><br>
-Yirong Lv:Shenzhen Institute of Advanced Technology, Chinese Academy of Science ;Bin Sun:Shenzhen Institute of Advanced Technology, Chinese Academy of Science ;Qinyi Luo:University of Southern California ;Jing Wang:Capital Normal University, Beijing, China ;Zhibin Yu:Shenzhen Institute of Advanced Technology, Chinese Academy of Science ;Xuehai Qian:University of Southern California 
+Yirong Lv (Shenzhen Institute of Advanced Technology, Chinese Academy of Science), Bin Sun (Shenzhen Institute of Advanced Technology, Chinese Academy of Science), Qinyi Luo (University of Southern California), Jing Wang (Capital Normal University, Beijing, China), Zhibin Yu (Shenzhen Institute of Advanced Technology, Chinese Academy of Science), Xuehai Qian (University of Southern California) 
 </td>
 </tr>
 <tr>
@@ -549,13 +549,13 @@ Yirong Lv:Shenzhen Institute of Advanced Technology, Chinese Academy of Science 
 <strong>
 Farewell My Shared LLC! A Case for Private Die-Stacked DRAM Caches for Servers
 </strong><br>
-Amna Shahab:University of Edinburgh ;Mingcan Zhu:University of Edinburgh ;Artemiy Margaritov:University of Edinburgh ;Boris Grot:University of Edinburgh
+Amna Shahab (University of Edinburgh), Mingcan Zhu (University of Edinburgh), Artemiy Margaritov (University of Edinburgh), Boris Grot (University of Edinburgh)
 </td>
 <td>
 <strong>
 Taming the Killer Microsecond
 </strong><br>
-Shenghsun Cho:Stony Brook University ;Amoghavarsha Suresh:Stony Brook University ;Tapti Palit:Stony Brook University ;Michael Ferdman:Stony Brook University ;Nima Honarmand:Stony Brook University 
+Shenghsun Cho (Stony Brook University), Amoghavarsha Suresh (Stony Brook University), Tapti Palit (Stony Brook University), Michael Ferdman (Stony Brook University), Nima Honarmand (Stony Brook University) 
 </td>
 </tr>
 <tr>
