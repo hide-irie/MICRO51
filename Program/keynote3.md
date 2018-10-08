@@ -6,6 +6,7 @@ title: MICRO-51 keynote-3
 ## Keynote 3: 
 ## Neuromorphic Principles for Efficient Self-Learning Microarchitecture
 **Mike Davies, Intel**<br>
+<img border="0" src="{{ site.baseurl }}/program/Mike.jpg" height ="120" alt="Mike Davies"/><br>
 8:00-9:00, Wednesday Oct 24, 2018<br>
 Room: The Grand Ball Room
 
