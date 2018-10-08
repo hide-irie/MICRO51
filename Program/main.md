@@ -471,7 +471,7 @@ Pengfei Zuo:Huazhong University of Science and Technology ;Yu Hua:Huazhong Unive
 <strong>
 Persistence Parallelism Optimization: A holistic approach from memory bus to RDMA network
 </strong><br>
-Xing Hu:University of California, Santa Barbara ;Matheus Ogleari:University of California, Santa Crus ;Jishen Zhao:University of California, San Diego ;Shuangchen Li:University of California, Santa Barbara ;Abanti Basak:University of California, Santa Barbara ;Yuan Xie:University of California, Santa Barbara    
+Xing Hu:University of California, Santa Barbara ;Matheus Ogleari:University of California, Santa Cruz ;Jishen Zhao:University of California, San Diego ;Shuangchen Li:University of California, Santa Barbara ;Abanti Basak:University of California, Santa Barbara ;Yuan Xie:University of California, Santa Barbara    
 </td>
 </tr>
 <tr>
