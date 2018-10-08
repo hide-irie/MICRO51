@@ -398,13 +398,13 @@ An Zou (Washington University in St. Louis), Jingwen Leng (Shanghai Jiao Tong Un
 <strong>
 Osiris: A Low-Cost Mechanism to Enable Restoration of Secure Non-Volatile Memories
 </strong><br>
-Mao Ye:University of Central Florida ;Clay Hughes:Sandia National Labs ;Amro Awad:University of Central Florida  
+Mao Ye (University of Central Florida), Clay Hughes (Sandia National Labs), Amro Awad (University of Central Florida)  
 </td>
 <td>
 <strong>
 SSDcheck: Timely and Accurate Prediction of Irregular Behaviors in Black-Box SSDs
 </strong><br>
-Joonsung Kim:Seoul National University ;Pyeongsu Park:Seoul National University ;Jaehyung Ahn:POSTECH ;Jihun Kim:POSTECH ;Jong Kim:POSTECH ;Jangwoo Kim:Seoul National University  
+Joonsung Kim (Seoul National University), Pyeongsu Park (Seoul National University), Jaehyung Ahn (POSTECH), Jihun Kim (POSTECH), Jong Kim (POSTECH), Jangwoo Kim (Seoul National University)  
 </td>
 </tr>
 <tr>
@@ -413,13 +413,13 @@ Joonsung Kim:Seoul National University ;Pyeongsu Park:Seoul National University 
 <strong>
 Morphable Counters: Enabling Compact Integrity Trees for Low-Overhead Secure Memories
 </strong><br>
-Gururaj Saileshwar:Georgia Institute of Technology ;Prashant Nair:IBM Research ;Prakash Ramrakhyani:ARM Research ;Wendy Elssaser:ARM Research ;Jose Joao:ARM Research ;Moinuddin Qureshi:Georgia Institute of Technology 
+Gururaj Saileshwar (Georgia Institute of Technology), Prashant Nair (IBM Research), Prakash Ramrakhyani (ARM Research), Wendy Elssaser (ARM Research), Jose Joao (ARM Research), Moinuddin Qureshi (Georgia Institute of Technology) 
 </td>
 <td>
 <strong>
 Amber: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources
 </strong><br>
-Donghyun Gouk:Yonsei University ;Miryeong Kwon:Yonsei University ;Jie Zhang:Yonsei University ;Sungjoon Koh:Yonsei University ;Wonil Choi:PennState ;Nam Sung Kim:UIUC ;Mahmut Kandemir:PennState ;Myoungsoo Jung:Yonsei University 
+Donghyun Gouk (Yonsei University), Miryeong Kwon (Yonsei University), Jie Zhang (Yonsei University), Sungjoon Koh (Yonsei University), Wonil Choi (PennState), Nam Sung Kim (UIUC), Mahmut Kandemir (PennState), Myoungsoo Jung (Yonsei University) 
 </td>
 </tr>
 <tr>
@@ -428,13 +428,13 @@ Donghyun Gouk:Yonsei University ;Miryeong Kwon:Yonsei University ;Jie Zhang:Yons
 <strong>
 InvisiSpec: Making Speculative Execution Invisible in the Cache Hierarchy
 </strong><br>
-Mengjia Yan:University of Illinois at Urbana-Champaign ;Jiho Choi:University of Illinois at Urbana-Champaign ;Dimitrios Skarlatos:University of Illinois at Urbana-Champaign ;Adam Morrison:Tel Aviv University ;Christopher W. Fletcher:University of Illinois at Urbana-Champaign ;Josep Torrellas:University of Illinois at Urbana-Champaign 
+Mengjia Yan (University of Illinois at Urbana-Champaign), Jiho Choi (University of Illinois at Urbana-Champaign), Dimitrios Skarlatos (University of Illinois at Urbana-Champaign), Adam Morrison (Tel Aviv University), Christopher W. Fletcher (University of Illinois at Urbana-Champaign), Josep Torrellas (University of Illinois at Urbana-Champaign) 
 </td>
 <td>
 <strong>
 Invalid Data-Aware Coding to Enhance the Read Performance of High-Density Flash Memories
 </strong><br>
-Wonil Choi:The Pennsylvania State University ;Myoungsoo Jung:Yonsei University ;Mahmut Kandemir:The Pennsylvania State University 
+Wonil Choi (The Pennsylvania State University), Myoungsoo Jung (Yonsei University), Mahmut Kandemir (The Pennsylvania State University) 
 </td>
 </tr>
 <tr>
@@ -443,13 +443,13 @@ Wonil Choi:The Pennsylvania State University ;Myoungsoo Jung:Yonsei University ;
 <strong>
 Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes
 </strong><br>
-Pengfei Zuo:Huazhong University of Science and Technology ;Yu Hua:Huazhong University of Science and Technology ;Ming Zhao:Arizona State University ;Wen Zhou:Huazhong University of Science and Technology ;Yuncheng Guo:Huazhong University of Science and Technology   
+Pengfei Zuo (Huazhong University of Science and Technology), Yu Hua (Huazhong University of Science and Technology), Ming Zhao (Arizona State University), Wen Zhou (Huazhong University of Science and Technology), Yuncheng Guo (Huazhong University of Science and Technology)   
 </td>
 <td>
 <strong>
 Persistence Parallelism Optimization: A holistic approach from memory bus to RDMA network
 </strong><br>
-Xing Hu:University of California, Santa Barbara ;Matheus Ogleari:University of California, Santa Cruz ;Jishen Zhao:University of California, San Diego ;Shuangchen Li:University of California, Santa Barbara ;Abanti Basak:University of California, Santa Barbara ;Yuan Xie:University of California, Santa Barbara    
+Xing Hu (University of California, Santa Barbara), Matheus Ogleari (University of California, Santa Cruz), Jishen Zhao (University of California, San Diego), Shuangchen Li (University of California, Santa Barbara), Abanti Basak (University of California, Santa Barbara), Yuan Xie (University of California, Santa Barbara)    
 </td>
 </tr>
 <tr>
