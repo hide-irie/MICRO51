@@ -140,13 +140,13 @@ table.blueTable tfoot .links a{
 <strong>
 Exploiting Locality in Graph Analytics through Hardware Accelerated Traversal Scheduling
 </strong><br>
-Anurag Mukkara:MIT CSAIL ;Nathan Beckmann:CMU SCS ;Maleen Abeydeera:MIT CSAIL ;Xiaosong Ma:QCRI, HBKU ;Daniel Sanchez:MIT CSAIL
+Anurag Mukkara (MIT CSAIL), Nathan Beckmann (CMU SCS), Maleen Abeydeera (MIT CSAIL), Xiaosong Ma (QCRI, HBKU), Daniel Sanchez (MIT CSAIL)
 </td>
 <td>
 <strong>
 Composable Building Blocks to Open up Processor Design
 </strong><br>
-Sizhuo Zhang:MIT ;Andrew Wright:MIT ;Thomas Bourgeat:MIT ;Arvind:MIT
+Sizhuo Zhang (MIT), Andrew Wright (MIT), Thomas Bourgeat (MIT), Arvind (MIT)
 </td>
 </tr>
 <tr>
@@ -155,13 +155,13 @@ Sizhuo Zhang:MIT ;Andrew Wright:MIT ;Thomas Bourgeat:MIT ;Arvind:MIT
 <strong>
 Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach
 </strong><br>
-Xuda Zhou:USTC ;Zidong Du:Institute of Computing Technology, Chinese Academy of Sciences/Cambricon ;QI Guo:Institute of Computing Technology, Chinese Academy of Sciences/Cambricon ;Chengsi Liu:MSU ;Chao Wang:USTC ;Xuehai Zhou:USTC ;Ling Li:Institute of Computing Technology, Chinese Academy of Sciences ;Tianshi Chen :Institute of Computing Technology, Chinese Academy of Sciences/Cambricon ;Yunji Chen:Institute of Computing Technology, Chinese Academy of Sciences
+Xuda Zhou (USTC), Zidong Du (Institute of Computing Technology, Chinese Academy of Sciences/Cambricon), QI Guo (Institute of Computing Technology, Chinese Academy of Sciences/Cambricon), Chengsi Liu (MSU), Chao Wang (USTC), Xuehai Zhou (USTC), Ling Li (Institute of Computing Technology, Chinese Academy of Sciences), Tianshi Chen (Institute of Computing Technology, Chinese Academy of Sciences/Cambricon), Yunji Chen (Institute of Computing Technology, Chinese Academy of Sciences)
 </td>
 <td>
 <strong>
 Performance Improvement by Prioritizing the Issue of the Instructions in Unconfident Branch Slices
 </strong><br>
-Hideki Ando:Nagoya University 
+Hideki Ando (Nagoya University) 
 </td>
 </tr>
 <tr>
@@ -170,13 +170,13 @@ Hideki Ando:Nagoya University
 <strong>
 CSE: Convergence Set Based Enumerative FSM
 </strong><br>
-Youwei Zhuo:University of Southern California ;Jinglei Cheng:Tsinghua University ;Qinyi Luo:University of Southern California ;Jidong Zhai:Tsinghua University ;Yanzhi Wang:Syracuse University ;Zhongzhi Luan:Beihang University ;Xuehai Qian:University of Southern California   
+Youwei Zhuo (University of Southern California), Jinglei Cheng (Tsinghua University), Qinyi Luo (University of Southern California), Jidong Zhai (Tsinghua University), Yanzhi Wang (Syracuse University), Zhongzhi Luan (Beihang University), Xuehai Qian (University of Southern California)   
 </td>
 <td>
 <strong>
 The Superfluous Load Queue
 </strong><br>
-Alberto Ros:University of Murcia ;Stefanos Kaxiras:Uppsala University
+Alberto Ros (University of Murcia), Stefanos Kaxiras (Uppsala University)
 </td>
 </tr>
 <tr>
@@ -185,13 +185,13 @@ Alberto Ros:University of Murcia ;Stefanos Kaxiras:Uppsala University
 <strong>
 Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays
 </strong><br>
-Dani Voitsechov:Technion ;Oron Port:Technion ;Yoav Etsion:Technion
+Dani Voitsechov (Technion), Oron Port (Technion), Yoav Etsion (Technion)
 </td>
 <td>
 <strong>
 Architectural Support for Probabilistic Branches
 </strong><br>
-Almutaz Adileh:Ghent University ;David Lilja:University of Minnesota ;Lieven Eeckhout:Ghent University 
+Almutaz Adileh (Ghent University), David Lilja (University of Minnesota), Lieven Eeckhout (Ghent University) 
 </td>
 </tr>
 <tr>
@@ -200,13 +200,13 @@ Almutaz Adileh:Ghent University ;David Lilja:University of Minnesota ;Lieven Eec
 <strong>
 An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware
 </strong><br>
-Tao Chen:Cornell University ;Shreesha Srinath:Cornell University ;Christopher Batten:Cornell University ;G. Edward Suh:Cornell University
+Tao Chen (Cornell University), Shreesha Srinath (Cornell University), Christopher Batten (Cornell University), G. Edward Suh (Cornell University)
 </td>
 <td>
 <strong>
 STRAIGHT: Hazardless Processor Architecture Without Register Renaming
 </strong><br>
-Hidetsugu Irie:the University of Tokyo ;Toru Koizumi:the University of Tokyo ;Akifumi Fukuda:the University of Tokyo ;Seiya Akaki:the University of Tokyo ;Satoshi Nakae:the University of Tokyo ;Yutaro Bessho:the University of Tokyo ;Ryota Shioya:Nagoya University ;Takahiro Notsu:FUJITSU LABORATORIES LTD. ;Katsuhiro Yoda:FUJITSU LABORATORIES LTD. ;Teruo Ishihara:FUJITSU LABORATORIES LTD. ;Shuichi Sakai:the University of Tokyo  
+Hidetsugu Irie (the University of Tokyo), Toru Koizumi (the University of Tokyo), Akifumi Fukuda (the University of Tokyo), Seiya Akaki (the University of Tokyo), Satoshi Nakae (the University of Tokyo), Yutaro Bessho (the University of Tokyo), Ryota Shioya (the University of Tokyo), Takahiro Notsu (FUJITSU LABORATORIES LTD.), Katsuhiro Yoda (FUJITSU LABORATORIES LTD.), Teruo Ishihara (FUJITSU LABORATORIES LTD.), Shuichi Sakai (the University of Tokyo)  
 </td>
 </tr>
 <tr>
