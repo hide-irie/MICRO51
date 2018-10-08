@@ -227,13 +227,13 @@ Hidetsugu Irie (the University of Tokyo), Toru Koizumi (the University of Tokyo)
 <strong>
 Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator
 </strong><br>
-Mostafa Mahmoud:University of Toronto ;Kevin Siu:University of Toronto ;Andreas Moshovos:University of Toronto
+Mostafa Mahmoud (University of Toronto), Kevin Siu (University of Toronto), Andreas Moshovos (University of Toronto)
 </td>
 <td>
 <strong>
 Rethinking the Memory Hierarchy for Modern Languages
 </strong><br>
-Po-An Tsai:MIT ;Yee Ling Gan:MIT ;Daniel Sanchez:MIT
+Po-An Tsai (MIT), Yee Ling Gan (MIT), Daniel Sanchez (MIT)
 </td>
 </tr>
 <tr>
@@ -242,13 +242,13 @@ Po-An Tsai:MIT ;Yee Ling Gan:MIT ;Daniel Sanchez:MIT
 <strong>
 Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning
 </strong><br>
-Youngeun Kwon:KAIST ;Minsoo Rhu:KAIST
+Youngeun Kwon (KAIST), Minsoo Rhu (KAIST)
 </td>
 <td>
 <strong>
 Harmonizing Speculative and Non-Speculative Execution in Architectures for Ordered Parallelism
 </strong><br>
-Mark C. Jeffrey:Massachusetts Institute of Technology ;Victor A. Ying:Massachusetts Institute of Technology ;Suvinay Subramanian:Massachusetts Institute of Technology ;Hyun Ryong Lee:Massachusetts Institute of Technology ;Joel Emer:NVIDIA, MIT ;Daniel Sanchez:Massachusetts Institute
+Mark C. Jeffrey (Massachusetts Institute of Technology), Victor A. Ying (Massachusetts Institute of Technology), Suvinay Subramanian (Massachusetts Institute of Technology), Hyun Ryong Lee (Massachusetts Institute of Technology), Joel Emer (NVIDIA, MIT), Daniel Sanchez (Massachusetts Institute of Technology)
 </td>
 </tr>
 <tr>
@@ -257,13 +257,13 @@ Mark C. Jeffrey:Massachusetts Institute of Technology ;Victor A. Ying:Massachuse
 <strong>
 Towards Memory Friendly Long-Short Term Memory Networks (LSTMs) on Mobile GPUs
 </strong><br>
-Xingyao Zhang:University of Houston ;Chenhao Xie:University of Houston ;Jing Wang:Capital Normal University ;Weigong Zhang:Capital Normal University ;Xin Fu:University of Houston 
+Xingyao Zhang (University of Houston), Chenhao Xie (University of Houston), Jing Wang (Capital Normal University), Weigong Zhang (Capital Normal University), Xin Fu (University of Houston) 
 </td>
 <td>
 <strong>
 Sampler: PMU-based Sampling to Detect Memory Errors Latent in Production Software
 </strong><br>
-Sam Silvestro:University of Texas at San Antonio ;Hongyu Liu:University of Texas at San Antonio ;Tong Zhang:Virginia Tech ;Changhee Jung:Virginia Tech ;Dongyoon Lee :Virginia Tech ;Tongping Liu:University of Texas at San Antonio
+Sam Silvestro (University of Texas at San Antonio), Hongyu Liu (University of Texas at San Antonio), Tong Zhang (Virginia Tech),  Changhee Jung (Virginia Tech), Dongyoon Lee (Virginia Tech), Tongping Liu (University of Texas at San Antonio)
 </td>
 </tr>
 <tr>
@@ -272,13 +272,13 @@ Sam Silvestro:University of Texas at San Antonio ;Hongyu Liu:University of Texas
 <strong>
 A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks
 </strong><br>
-Youjie Li:University of Illinois, Urbana-Champaign ;Jongse Park:Georgia Institute of Technology ;Mohammad Alian:University of Illinois, Urbana-Champaign ;Yifan Yuan:University of Illinois, Urbana-Champaign ;Qu Zheng:Tsinghua University ;Petian Pan:Shanghai Jiao Tong University ;Ren Wang:Intel Corporation ;Alexander Gerhard Schwing:University of Illinois, Urbana-Champaign ;Hadi Esmaeilzadeh:University of California, San Diego ;Nam Sung Kim:University of Illinois, Urbana-Champaign   
+Youjie Li (University of Illinois, Urbana-Champaign), Jongse Park (Georgia Institute of Technology), Mohammad Alian (University of Illinois, Urbana-Champaign), Yifan Yuan (University of Illinois, Urbana-Champaign), Qu Zheng (Tsinghua University), Petian Pan (Shanghai Jiao Tong University), Ren Wang (Intel Corporation), Alexander Gerhard Schwing (University of Illinois, Urbana-Champaign), Hadi Esmaeilzadeh (University of California, San Diego), Nam Sung Kim (University of Illinois, Urbana-Champaign)   
 </td>
 <td>
 <strong>
 TAPAS: Generating Parallel Accelerators from Parallel Programs
 </strong><br>
-Steven Margerm:Simon Fraser University ;Amirali Sharifian:Simon Fraser University ;Apala Guha:Simon Fraser University ;Gilles Pokam:Intel Corporation ;Arrvindh Shriraman:Simon Fraser University 
+Steven Margerm (Simon Fraser University), Amirali Sharifian (Simon Fraser University), Apala Guha (Simon Fraser University), Gilles Pokam (Intel Corporation), Arrvindh Shriraman (Simon Fraser University) 
 </td>
 </tr>
 <tr>
@@ -287,13 +287,13 @@ Steven Margerm:Simon Fraser University ;Amirali Sharifian:Simon Fraser Universit
 <strong>
 PermDNN: Efficient Compressed Deep Neural Network Architecture with Permuted Diagonal Matrices
 </strong><br>
-Chunhua Deng:City University of New York ;Siyu Liao:City University of New York ;Yi Xie:City University of New York ;Keshab K. Parhi:University of Minnesota ;Xuehai Qian University of Southern California ;Bo Yuan:City University of New York ;Bo Yuan:Rutgers University 
+Chunhua Deng (City University of New York), Siyu Liao (City University of New York), Yi Xie (City University of New York), Keshab K. Parhi (University of Minnesota), Xuehai Qian (University of Southern California), Bo Yuan (City University of New York), Bo Yuan (Rutgers University) 
 </td>
 <td>
 <strong>
 iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory
 </strong><br>
-Qingrui Liu:Virginia Tech ;Joseph Izraelevitz:University of Rochester ;Se Kwon Lee:UNIST ;Michael L. Scott:University of Rochester ;Sam H. Noh:UNIST ;Changhee Jung :Virginia Tech 
+Qingrui Liu (Virginia Tech), Joseph Izraelevitz (University of Rochester), Se Kwon Lee (UNIST), Michael L. Scott (University of Rochester), Sam H. Noh (UNIST), Changhee Jung (Virginia Tech) 
 </td>
 </tr>
 <td>14:30</td>
