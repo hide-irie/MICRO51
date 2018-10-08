@@ -583,13 +583,13 @@ Shenghsun Cho (Stony Brook University), Amoghavarsha Suresh (Stony Brook Univers
 <strong>
 Adaptive Scheduling for Systems with Asymmetric Memory Hierarchies
 </strong><br>
-Po-An Tsai:MIT ;Changping Chen:MIT ;Daniel Sanchez:MIT 
+Po-An Tsai (MIT), Changping Chen (MIT), Daniel Sanchez (MIT) 
 </td>
 <td>
 <strong>
 Exploring and Optimizing Chipkill-correct for Persistent Memory Based on High-density NVRAMs
 </strong><br>
-Zhang Da:Virginia Tech ;Vilas Sridharan:AMD ;Xun Jian ;Virginia Tech
+Zhang Da (Virginia Tech), Vilas Sridharan (AMD), Xun Jian (Virginia Tech)
 </td>
 </tr>
 <tr>
@@ -598,13 +598,13 @@ Zhang Da:Virginia Tech ;Vilas Sridharan:AMD ;Xun Jian ;Virginia Tech
 <strong>
 Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach
 </strong><br>
-Jiawen Liu:University of California, Merced ;Hengyu Zhao:University of California, San Diego ;Matheus A. Ogleari:University of California, Santa Cruz ;Dong Li:University of California, Merced ;Jishen Zhao:University of California, San Diego
+Jiawen Liu (University of California, Merced), Hengyu Zhao (University of California, San Diego), Matheus A. Ogleari (University of California, Santa Cruz), Dong Li (University of California, Merced), Jishen Zhao (University of California, San Diego)
 </td>
 <td>
 <strong>
 Comprehensive Evaluation of Supply Voltage Underscaling in FPGA on-chip Memories
 </strong><br>
-Behzad Salami:Barcelona Supercomputing Center (BSC) ;Osman Unsal:Barcelona Supercomputing Center (BSC) ;Adrian Cristal:Barcelona Supercomputing Center (BSC)
+Behzad Salami (Barcelona Supercomputing Center (BSC)), Osman Unsal (Barcelona Supercomputing Center (BSC)), Adrian Cristal (Barcelona Supercomputing Center (BSC))
 </td>
 </tr>
 <tr>
@@ -613,13 +613,13 @@ Behzad Salami:Barcelona Supercomputing Center (BSC) ;Osman Unsal:Barcelona Super
 <strong>
 LerGAN: A Zero-free, Low Data Movement and PIM-based GAN Architecture
 </strong><br>
-Haiyu Mao:University of Florida ;Mingcong Song:University of Florida ;Tao Li:University of Florida ;Yuting Dai:University of Florida ;Jiwu Shu 
+Haiyu Mao (University of Florida), Mingcong Song (University of Florida), Tao Li (University of Florida), Yuting Dai (University of Florida), Jiwu Shu (University of Florida)
 </td>
 <td>
 <strong>
 Error Correlation Prediction in Lockstep Processors for Safety-critical Systems
 </strong><br>
-Emre Ozer:Arm ;Balaji Venu:Arm ;Xabier Iturbe:Arm ;Shidhartha Das:Arm ;Spyros Lyberis:Arm ;John Biggs:Arm ;Pete Harrod:Arm ;John Penton:Arm 
+Emre Ozer (Arm), Balaji Venu (Arm), Xabier Iturbe (Arm), Shidhartha Das (Arm), Spyros Lyberis (Arm), John Biggs (Arm), Pete Harrod (Arm), John Penton (Arm) 
 </td>
 </tr>
 <tr>
@@ -628,13 +628,13 @@ Emre Ozer:Arm ;Balaji Venu:Arm ;Xabier Iturbe:Arm ;Shidhartha Das:Arm ;Spyros Ly
 <strong>
 Multi-dimensional Parallel Training of Winograd Layer on Memory-Centric Architecture
 </strong><br>
-Byungchul Hong:KAIST ;Yeonju Ro:KAIST ;John Kim:KAIST
+Byungchul Hong (KAIST), Yeonju Ro (KAIST), John Kim (KAIST)
 </td>
 <td>
 <strong>
 Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications
 </strong><br>
-Bin Nie:College of William and Mary ;Lishan Yang:College of William and Mary ;Adwait Jog:College of William and Mary ;Evgenia Smirni:College of William and Mary
+Bin Nie (College of William and Mary), Lishan Yang (College of William and Mary), Adwait Jog (College of William and Mary), Evgenia Smirni (College of William and Mary)
 </td>
 </tr>
 <tr>
@@ -643,13 +643,13 @@ Bin Nie:College of William and Mary ;Lishan Yang:College of William and Mary ;Ad
 <strong>
 SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator
 </strong><br>
-Shuangchen Li:UCSB ;Alvin Oliver Glova:UCSB ;Xing Hu:UCSB ;Peng Gu:UCSB ;Dimin Niu:Samsung ;Krishna T. Malladi:Samsung ;Hongzhong Zheng:Samsung ;Bob Brennan:Samsung ;Yuan Xie:UCSB 
+Shuangchen Li (UCSB), Alvin Oliver Glova (UCSB), Xing Hu (UCSB), Peng Gu (UCSB), Dimin Niu (Samsung), Krishna T. Malladi (Samsung), Hongzhong Zheng (Samsung), Bob Brennan (Samsung), Yuan Xie (UCSB) 
 </td>
 <td>
 <strong>
 SwapCodes: Error Codes for Hardware-Software Cooperative GPU Pipeline Error Detection
 </strong><br>
-Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;Timothy Tsai:NVIDIA ;Stephen W. Keckler:NVIDIA
+Michael B. Sullivan (NVIDIA), Siva Kumar Sastry Hari (NVIDIA), Brian Zimmer (NVIDIA), Timothy Tsai (NVIDIA), Stephen W. Keckler (NVIDIA)
 </td>
 </tr>
 <tr>
@@ -680,25 +680,25 @@ Michael B. Sullivan:NVIDIA ;Siva Kumar Sastry Hari:NVIDIA ;Brian Zimmer:NVIDIA ;
 <td></td>
 <td colspan="2"> <strong>
 CEASER: Mitigating Eviction-Based Cache Attacks via Dynamically Encrypted Address
-</strong> <br>Moinuddin Qureshi:Georgia Institute of Technology</td>
+</strong> <br>Moinuddin Qureshi (Georgia Institute of Technology)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"> <strong>
 PipeProof: Automated Memory Consistency Proofs for Microarchitectural Specifications
-</strong> <br>Yatin A. Manerkar:Princeton University ;Daniel Lustig:NVIDIA ;Margaret Martonosi:Princeton University ;Aarti Gupta:Princeton University</td>
+</strong> <br>Yatin A. Manerkar (Princeton University), Daniel Lustig (NVIDIA), Margaret Martonosi (Princeton University), Aarti Gupta (Princeton University)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"> <strong>
 Application-Transparent Near-Memory Processing Architecture with Memory Channel Network
-</strong> <br>Mohammad Alian:UIUC ;Seung Won Min:UIUC ;Hadi Asgharimoghaddam:UIUC ;Ashutosh Dhar:UIUC ;Dong Kai Wang:UIUC ;Thomas Roewer:IBM ;Adam McPadden:IBM ;Oliver OHalloran:IBM ;Deming Chen:UIUC ;Jinjun Xiong:IBM ;Daehoon Kim:DGIST ;Wen-mei Hwu:UIUC ;Nam Sung Kim:UIUC</td>
+</strong> <br>Mohammad Alian (UIUC), Seung Won Min (UIUC), Hadi Asgharimoghaddam (UIUC), Ashutosh Dhar (UIUC), Dong Kai Wang (UIUC), Thomas Roewer (IBM), Adam McPadden (IBM), Oliver OHalloran (IBM), Deming Chen (UIUC), Jinjun Xiong (IBM), Daehoon Kim (DGIST),  Wen-mei Hwu (UIUC), Nam Sung Kim (UIUC)</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"> <strong>
 End-to-End Automated Exploit Generation for Validating the Security of Processor Designs
-</strong> <br>Rui Zhang:UNC Chapel Hill ;Calvin Deutschbein:UNC Chapel Hill ;Peng Huang:Johns Hopkins University ;Cynthia Sturton:UNC Chapel Hill</td>
+</strong> <br>Rui Zhang (UNC Chapel Hill), Calvin Deutschbein (UNC Chapel Hill), Peng Huang (Johns Hopkins University), Cynthia Sturton (UNC Chapel Hill)</td>
 </tr>
 <tr>
 <td>10:20</td>
@@ -717,13 +717,13 @@ End-to-End Automated Exploit Generation for Validating the Security of Processor
 <strong>
 Magic-State Functional Units: Mapping and Scheduling Multi-Level Distillation Circuits for Fault-Tolerant Quantum Architectures
 </strong><br>
-Yongshan Ding:University of Chicago ;Adam Holmes:University of Chicago ;Ali Javadi-Abhari:Princeton University ;Diana Franklin:University of Chicago ;Margaret Martonosi:Princeton University ;Frederic T. Chong:University of Chicago 
+Yongshan Ding (University of Chicago), Adam Holmes (University of Chicago), Ali Javadi-Abhari (Princeton University), Diana Franklin (University of Chicago), Margaret Martonosi (Princeton University), Frederic T. Chong (University of Chicago) 
 </td>
 <td>
 <strong>
 CritICs Critiquing Criticality in Mobile Apps
 </strong><br>
-Prasanna Venaktesh Rengasamy:Penn State ;Haibo Zhang:Penn State ;Shulin Zhao:Penn State ;Nachiappan Chidhambaram Nachiappan:Penn State ;Anand Sivasubramaniam:Penn State ;Mahmut Kandemir:Penn State ;Chita Das:Penn State
+Prasanna Venaktesh Rengasamy (Penn State), Haibo Zhang (Penn State), Shulin Zhao (Penn State), Nachiappan Chidhambaram Nachiappan (Penn State), Anand Sivasubramaniam (Penn State), Mahmut Kandemir (Penn State), Chita Das (Penn State)
 </td>
 </tr>
 <tr>
@@ -732,13 +732,13 @@ Prasanna Venaktesh Rengasamy:Penn State ;Haibo Zhang:Penn State ;Shulin Zhao:Pen
 <strong>
 MDACache:Caching for Multi-Dimensional-Access Memories
 </strong><br>
-Sumitha George:PSU ;Minli Julie Liao:PSU ;Huaipan Jiang:PSU ;Jagadish Kotra:AMD Research ;Mahmut Kandemir:PSU ;John Sampson:PSU ;Vijaykrishnan Narayanan:PSU 
+Sumitha George (PSU), Minli Julie Liao (PSU), Huaipan Jiang (PSU), Jagadish Kotra (AMD Research), Mahmut Kandemir (PSU), John Sampson (PSU), Vijaykrishnan Narayanan (PSU) 
 </td>
 <td>
 <strong>
 EMProf: Memory Profiling via EM-Emanation in IoT and Hand-Held Devices
 </strong><br>
-Moumita Dey:Georgia Institute of Technology ;Alireza Nazari:Georgia Institute of Technology ;Alenka Zajic:Georgia Institute of Technology ;Milos Prvulovic:Georgia Institute of Technology
+Moumita Dey (Georgia Institute of Technology), Alireza Nazari (Georgia Institute of Technology), Alenka Zajic (Georgia Institute of Technology), Milos Prvulovic (Georgia Institute of Technology)
 </td>
 </tr>
 <tr>
@@ -747,13 +747,13 @@ Moumita Dey:Georgia Institute of Technology ;Alireza Nazari:Georgia Institute of
 <strong>
 GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware
 </strong><br>
-Ananda Samajdar:Georgia Institute of Technology ;Parth Mannan:Georgia Institute of Technology ;Kartikay Garg:Georgia Institute of Technology ;Tushar Krishna:Georgia Institute of Technology
+Ananda Samajdar (Georgia Institute of Technology), Parth Mannan (Georgia Institute of Technology), Kartikay Garg (Georgia Institute of Technology), Tushar Krishna (Georgia Institute of Technology)
 </td>
 <td>
 <strong>
 MAVBench: Micro Aerial Vehicle Benchmarking
 </strong><br>
-Behzad Boroujerdia:University of Texas at Austin ;Hasan Genc:University of Texas at Austin ;Srivatsan Krishnan:University of Texas at Austin ;Wenzhi Cui :University of Texas at Austin ;Aleksandra Faust:Google ;Vijay Janapa University:University of Texas at Austin/Google
+Behzad Boroujerdia (University of Texas at Austin), Hasan Genc (University of Texas at Austin), Srivatsan Krishnan (University of Texas at Austin), Wenzhi Cui  (University of Texas at Austin), Aleksandra Faust (Google), Vijay Janapa University (University of Texas at Austin/Google)
 </td>
 </tr>
 <tr>
@@ -773,13 +773,13 @@ Behzad Boroujerdia:University of Texas at Austin ;Hasan Genc:University of Texas
 <strong>
 Architectural Support for Efficient Large-Scale Automata Processing
 </strong><br>
-Hongyuan Liu:College of William & Mary ;Mohamed Ibrahim:College of William & Mary ;Onur Kayiran:Advanced Micro Devices, Inc. ;Sreepathi Pai:University of Rochester ;Adwait Jog:College of William & Mary
+Hongyuan Liu (College of William & Mary), Mohamed Ibrahim (College of William & Mary), Onur Kayiran (Advanced Micro Devices, Inc.), Sreepathi Pai (University of Rochester), Adwait Jog (College of William & Mary)
 </td>
 <td>
 <strong>
 CheckMate: Automated Synthesis of Hardware Exploits and Security Litmus Tests
 </strong><br>
-Caroline Trippel:Princeton University ;Daniel Lustig:NVIDIA ;Margaret Martonosi:Princeton Univeristy
+Caroline Trippel (Princeton University), Daniel Lustig (NVIDIA), Margaret Martonosi (Princeton Univeristy)
 </td>
 </tr>
 <tr>
@@ -788,13 +788,13 @@ Caroline Trippel:Princeton University ;Daniel Lustig:NVIDIA ;Margaret Martonosi:
 <strong>
 ASPEN: A Scalable In-SRAM Architecture for Pushdown Automata
 </strong><br>
-Kevin Angstadt:University of Michigan ;Arun Subramaniyan:University of Michigan ;Elaheh Sadredini:University of Virginia ;Reza Rahimi:University of Virginia ;Kevin Skadron:University of Virginia ;Westley Weimer:University of Michigan ;Reetuparna Das:University of Michigan
+Kevin Angstadt (University of Michigan), Arun Subramaniyan (University of Michigan), Elaheh Sadredini (University of Virginia), Reza Rahimi (University of Virginia), Kevin Skadron (University of Virginia), Westley Weimer (University of Michigan), Reetuparna Das (University of Michigan)
 </td>
 <td>
 <strong>
 Shadow Block: Accelerating ORAM Accesses with Data Duplication
 </strong><br>
-Xian Zhang:Peking University ;Guangyu Sun:Peking University ;Peichen Xie:Peking University ;Chao Zhang:Peking University ;Yannan Liu:The Chinese University of Hong Kong ;Lingxiao Wei:The Chinese University of Hong Kong ;Qiang Xu:The Chinese University of Hong Kong ;Jason Xue:City University of Hong Kong
+Xian Zhang (Peking University), Guangyu Sun (Peking University), Peichen Xie (Peking University), Chao Zhang (Peking University), Yannan Liu (The Chinese University of Hong Kong), Lingxiao Wei (The Chinese University of Hong Kong), Qiang Xu (The Chinese University of Hong Kong), Jason Xue (City University of Hong Kong)
 </td>
 </tr>
 <tr>
@@ -803,13 +803,13 @@ Xian Zhang:Peking University ;Guangyu Sun:Peking University ;Peichen Xie:Peking 
 <strong>
 Morph: Flexible Acceleration for 3D CNN-based Video Understanding
 </strong><br>
-Kartik Hegde:UIUC ;Rohit Agrawal:UIUC ;Yulun Yao:UIUC ;Christopher W. Fletcher:UIUC
+Kartik Hegde (UIUC), Rohit Agrawal (UIUC), Yulun Yao (UIUC), Christopher W. Fletcher (UIUC)
 </td>
 <td>
 <strong>
 DAWG: A Defense Against Cache Timing Attacks in Speculative Execution Processors
 </strong><br>
-Vladimir Kiriansky:Massachusetts Institute of Technology (MIT) ;Ilia Lebedev:Massachusetts Institute of Technology (MIT) ;Saman Amarasinghe:Massachusetts Institute of Technology (MIT) ;Srinivas Devadas:Massachusetts Institute of Technology (MIT) ;Joel Emer:NVIDIA, Massachusetts Institute of Technology (MIT)
+Vladimir Kiriansky (Massachusetts Institute of Technology (MIT)), Ilia Lebedev (Massachusetts Institute of Technology (MIT)), Saman Amarasinghe (Massachusetts Institute of Technology (MIT)), Srinivas Devadas (Massachusetts Institute of Technology (MIT)), Joel Emer (NVIDIA, Massachusetts Institute of Technology (MIT))
 </td>
 </tr>
 <tr>
