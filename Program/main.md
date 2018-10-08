@@ -312,13 +312,13 @@ Qingrui Liu (Virginia Tech), Joseph Izraelevitz (University of Rochester), Se Kw
 <strong>
 Scalable Distributed Last-Level TLBs Using Low-Latency Interconnects
 </strong><br>
-Srikant Bharadwaj:Georgia Tech ;Guilherme Cox:Rutgers University ;Tushar Krishna:Georgia Tech ;Abhishek Bhattacharjee:Rutgers University
+Srikant Bharadwaj (Georgia Tech), Guilherme Cox (Rutgers University), Tushar Krishna (Georgia Tech), Abhishek Bhattacharjee (Rutgers University)
 </td>
 <td>
 <strong>
 Combining HW/SW Mechanisms to Improve NUMA Performance of Multi-GPU Systems
 </strong><br>
-Vinson Young:Georgia Institute of Technology ;Aamer Jaleel:NVIDIA ;Evgeny Bolotin:NVIDIA ;Eiman Ebrahimi:NVIDIA ;David Nellans:NVIDIA ;Oreste Villa:NVIDIA  
+Vinson Young (Georgia Institute of Technology), Aamer Jaleel (NVIDIA), Evgeny Bolotin (NVIDIA), Eiman Ebrahimi (NVIDIA), David Nellans (NVIDIA), Oreste Villa (NVIDIA)  
 </td>
 </tr>
 <tr>
@@ -327,13 +327,13 @@ Vinson Young:Georgia Institute of Technology ;Aamer Jaleel:NVIDIA ;Evgeny Boloti
 <strong>
 Duplicon Cache: Mitigating Off-Chip Memory Bank and Bank Group Conflicts via Data Duplication
 </strong><br>
-Ben:Ching-Pei ;Lin:University of Texas at Austin ;Michael B Healy:IBM Research ;Rustam Miftakhutdinov:Intel Corporation ;Phil Emma ;Yale Patt:University of Texas at Austin  
+Ben (Ching-Pei) Lin (University of Texas at Austin), Michael B Healy (IBM Research), Rustam Miftakhutdinov (Intel Corporation), Phil Emma (IBM Research), Yale Patt (University of Texas at Austin)  
 </td>
 <td>
 <strong>
 Neighborhood-aware address translation for irregular GPU applications
 </strong><br>
-Seunghee Shin:SUNY at Binghamton ;Michael LeBeane:AMD Research/UT Austin ;Yan Solihin:University of Central Florida ;Arkaprava Basu:Indian Institute of Science  
+Seunghee Shin (SUNY at Binghamton), Michael LeBeane (AMD Research/UT Austin), Yan Solihin (University of Central Florida), Arkaprava Basu (Indian Institute of Science)  
 </td>
 </tr>
 <tr>
@@ -342,13 +342,13 @@ Seunghee Shin:SUNY at Binghamton ;Michael LeBeane:AMD Research/UT Austin ;Yan So
 <strong>
 CAL: Charge-Level Aware Look-ahead Partial Restoration for Fast DRAM Access
 </strong><br>
-Yaohua Wang:ETH Zurich, National University of Defense Technology ;Arash Tavakkol:ETH Zurich ;Lois Orosa:ETH Zurich, Univ. of Campinas ;Saugata Ghose:CMU ;Nika Mansouri Ghiasi:ETH Zurich ;Minesh Patel:ETH Zurich ;Jeremie Kim:ETH Zurich ;Hasan Hassan:ETH Zurich ;Onur Mutlu:ETH Zurich, CMU
+Yaohua Wang (ETH Zurich, National University of Defense Technology), Arash Tavakkol (ETH Zurich), Lois Orosa (ETH Zurich, Univ. of Campinas), Saugata Ghose (CMU), Nika Mansouri Ghiasi (ETH Zurich), Minesh Patel (ETH Zurich), Jeremie Kim (ETH Zurich), Hasan Hassan (ETH Zurich), Onur Mutlu (ETH Zurich, CMU)
 </td>
 <td>
 <strong>
 FineReg: Fine-Grained Register File Management for Augmenting GPU Throughput
 </strong><br>
-Yunho Oh:Yonsei University ;Myung Kuk Yoon:Yonsei University ;William J. Song:Yonsei University ;Won Woo Ro:Yonsei University         
+Yunho Oh (Yonsei University), Myung Kuk Yoon (Yonsei University), William J. Song (Yonsei University), Won Woo Ro (Yonsei University)         
 </td>
 </tr>
 <tr>
@@ -357,13 +357,13 @@ Yunho Oh:Yonsei University ;Myung Kuk Yoon:Yonsei University ;William J. Song:Yo
 <strong>
 CABLE: a CAche-Based Link Encoder for Bandwidth-starved Manycores
 </strong><br>
-Tri M. Nguyen:Princeton University ;Adi Fuchs:Princeton University ;David Wentzlaff:Princeton University  
+Tri M. Nguyen (Princeton University), Adi Fuchs (Princeton University), David Wentzlaff (Princeton University)  
 </td>
 <td>
 <strong>
 In-Register Parameter Caching for Dynamic Neural Nets with Virtual Persistent Processor Specialization
 </strong><br>
-Farzad Khorasani:Georgia Institute of Technology ;Hodjat Asghari Esfeden:University Of California Riverside ;Nael Abu-Ghazaleh:University of California Riverside ;Vivek Sarkar:Georgia Institute of Technology 
+Farzad Khorasani (Georgia Institute of Technology), Hodjat Asghari Esfeden (University Of California Riverside), Nael Abu-Ghazaleh (University of California Riverside), Vivek Sarkar (Georgia Institute of Technology) 
 </td>
 </tr>
 <tr>
@@ -372,13 +372,13 @@ Farzad Khorasani:Georgia Institute of Technology ;Hodjat Asghari Esfeden:Univers
 <strong>
 Attache: Towards Ideal Memory Compression by Mitigating Metadata Bandwidth Overheads
 </strong><br>
-Seokin Hong:IBM Research ;Prashant Nair:IBM Research ;Bulent Abali:IBM Research ;Alper Buyuktosunoglu:IBM Research ;Kyu Hyoun Kim:IBM Research ;Michael Healy:IBM Research 
+Seokin Hong (IBM Research), Prashant Nair (IBM Research), Bulent Abali (IBM Research), Alper Buyuktosunoglu (IBM Research), Kyu Hyoun Kim (IBM Research), Michael Healy (IBM Research) 
 </td>
 <td>
 <strong>
 Voltage-stacked GPUs: A Control Theory Driven Cross-Layer Solution for Practical Voltage Stacking in GPUs
 </strong><br>
-An Zou:Washington University in St. Louis ;Jingwen Leng:Shanghai Jiao Tong University ;Xin He:Washington University in St. Louis ;Yazhou Zu:The University of Texas at Austin ;Christopher D. Gill:Washington University in St. Louis ;Vijay Janapa Reddi:The University of Texas at Austin ;Xuan Zhang:Washington University in St. Louis 
+An Zou (Washington University in St. Louis), Jingwen Leng (Shanghai Jiao Tong University), Xin He (Washington University in St. Louis), Yazhou Zu (The University of Texas at Austin), Christopher D. Gill (Washington University in St. Louis), Vijay Janapa Reddi (The University of Texas at Austin), Xuan Zhang (Washington University in St. Louis) 
 </td>
 </tr>
 <tr>
