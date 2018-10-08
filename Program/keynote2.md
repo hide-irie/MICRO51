@@ -6,7 +6,7 @@ title: MICRO-51 keynote-2
 ## Keynote 2: 
 ## Security Aware Microarchitecture Design 
 **Ruby B. Lee, Princeton University**<br>
-8:00-9:00, Monday Oct 23, 2018<br>
+8:00-9:00, Tuesday Oct 23, 2018<br>
 Room: The Grand Ball Room
 
 ## abst.
