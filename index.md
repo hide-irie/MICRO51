@@ -13,7 +13,7 @@ title:
   <p> Hotel: GRAND HYATT FUKUOKA. <a href="https://www.microarch.org/micro51/Hotel/">Link to MICRO Reservation</a>.</p>
   <p> <!--<a href="https://www.surveymonkey.com/r/WD6R6CN">-->Link to MICRO Conference Survey (to be opened)<!--</a>-->.</p>
   <p> <a href="https://www.microarch.org/micro51/Registration/">Link to Registration</a>.<strong>Late registration deadline: 23:59, Oct. 11 (JST)</strong></p>
-  <p><strong>[Urgent Message] MICRO51 is just around the corner.  Pre-registration closes 23:59, Oct. 11 (JST).  This MICRO has record attendance so far at over 590 attendees — the largest MICRO ever.  The venue has a maximum capacity of 600.  Because of this, only a few more registration slots are available.  If you wish to attend MICRO, please pre-register, as there may not be onsite registration space available.</strong></p>
+  <p><strong><font color="red">[Urgent Message]</font> MICRO51 is just around the corner.  Pre-registration closes 23:59, Oct. 11 (JST).  This MICRO has record attendance so far at over 590 attendees — the largest MICRO ever.  The venue has a maximum capacity of 600.  Because of this, only a few more registration slots are available.  If you wish to attend MICRO, please pre-register, as there may not be onsite registration space available.</strong></p>
   <p> <a href="https://www.microarch.org/micro51/StudentTravel/">Link to Student Travel Award</a>.</p>
   <p>  <a href="https://www.microarch.org/micro51/Visa/">Link to Visa request</a>.</p>
   <table>
