@@ -65,7 +65,10 @@ title: Program
   </tr>
 </table>
 
-
+ <ul>
+  <li><a href="{{ site.baseurl }}/GHF_FloorPlan_2F.pdf">Floor map 2F</a></li>
+  <li><a href="{{ site.baseurl }}/GHF_FloorPlan_3F.pdf">Floor map 3F</a></li>
+ </ul>
 
 # Workshops
 
