@@ -52,14 +52,14 @@ title: Program
   </tr>
   <tr>
     <td class="tg-s6z2">Red Rose</td>
-    <td class="tg-5hgy">GenSim</td>
-    <td class="tg-5hgy">Labeled RISC-V</td>
+    <td class="tg-s6z2">GenSim</td>
+    <td class="tg-s6z2">Labeled RISC-V</td>
     <td class="tg-s6z2" colspan="2">Women and Minorities</td>
     <td class="tg-empty"></td>
   </tr>
   <tr>
     <td class="tg-5hgy">Drawing</td>
-    <td class="tg-s6z2" colspan="2">NoCArc</td>
+    <td class="tg-5hgy" colspan="2">NoCArc</td>
     <td class="tg-5hgy" colspan="2">PHOTONICS</td>
     <td class="tg-empty"></td>
   </tr>
