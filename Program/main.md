@@ -560,7 +560,7 @@ Shenghsun Cho (Stony Brook University), Amoghavarsha Suresh (Stony Brook Univers
 </tr>
 <tr>
 <td>11:00</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster Session I<br> Room: The Red Rose Area</strong></td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster Session I<br> Room: The Red Rose</strong></td>
 </tr>
 <tr>
 <td>12:00</td>
@@ -568,7 +568,7 @@ Shenghsun Cho (Stony Brook University), Amoghavarsha Suresh (Stony Brook Univers
 </tr>
 <tr>
 <td>13:20</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster Session II<br> Room: The Red Rose Area</strong></td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Poster Session II<br> Room: The Red Rose</strong></td>
 </tr>
 <tr>
 <td>14:20</td>
