@@ -293,6 +293,7 @@ iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory
 Qingrui Liu (Virginia Tech), Joseph Izraelevitz (University of Rochester), Se Kwon Lee (UNIST), Michael L. Scott (University of Rochester), Sam H. Noh (UNIST), Changhee Jung (Virginia Tech) 
 </td>
 </tr>
+<tr>
 <td>14:30</td>
 <td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;<br /><strong>Room: Pre-Function Area</strong></td>
 </tr>
