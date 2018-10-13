@@ -83,7 +83,10 @@ table.blueTable tfoot .links a{
 }
 </style>
 
-
+ <ul>
+  <li><a href="{{ site.baseurl }}/GHF_FloorPlan_2F.pdf">Floor map 2F</a></li>
+  <li><a href="{{ site.baseurl }}/GHF_FloorPlan_3F.pdf">Floor map 3F</a></li>
+ </ul>
 
 <table class="blueTable" border="2"><colgroup> <col style="width:5%;"> <col style="width:40%;"> <col style="width:40%;"> </colgroup>
 <thead>
@@ -117,13 +120,7 @@ table.blueTable tfoot .links a{
 <td>9:00</td>
   <td style="text-align: center;" colspan="2" class="tdb"><strong><a href="{{ site.baseurl }}/Program/keynote1/">Keynote 1: From Post-K onto Post-Moore is from FLOPS onto BYTES, and from Homogeneity to Heterogeneity</a><br>Satoshi Matsuoka, Director, Riken-CCS / Professor, Tokyo Institute of Technology<br><em>session chair: Koji Inoue</em></strong><br /><strong>Room: The Grand Ballroom</strong></td>
 </tr>
-<!-- <tr>
-<td>9:20</td>
-<td colspan="2" class="tdb" >
-<p><strong>Lightning Session I (1.5 min/paper)</strong></p>
-</td>
-</tr>
-<tr> -->
+<tr>
 <td>10:00</td>
 <td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;<br /><strong>Room: Pre-Function Area (3rd floor of Grand Hyatt Fukuoka)</strong></td>
 </tr>
