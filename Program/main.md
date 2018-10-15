@@ -137,13 +137,13 @@ table.blueTable tfoot .links a{
 <strong>
 Exploiting Locality in Graph Analytics through Hardware Accelerated Traversal Scheduling
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Anurag Mukkara (MIT CSAIL), Nathan Beckmann (CMU SCS), Maleen Abeydeera (MIT CSAIL), Xiaosong Ma (QCRI, HBKU), Daniel Sanchez (MIT CSAIL)
+<strong>[<a href="https://youtu.be/-JBlcRoqwU0">Lightning-talk Video</a>]</strong> Anurag Mukkara (MIT CSAIL), Nathan Beckmann (CMU SCS), Maleen Abeydeera (MIT CSAIL), Xiaosong Ma (QCRI, HBKU), Daniel Sanchez (MIT CSAIL)
 </td>
 <td>
 <strong>
 Composable Building Blocks to Open up Processor Design
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Sizhuo Zhang (MIT), Andrew Wright (MIT), Thomas Bourgeat (MIT), Arvind (MIT)
+<strong>[<a href="https://www.youtube.com/watch?v=DmPWpXmZzmo">Lightning-talk Video</a>]</strong> Sizhuo Zhang (MIT), Andrew Wright (MIT), Thomas Bourgeat (MIT), Arvind (MIT)
 </td>
 </tr>
 <tr>
@@ -152,13 +152,13 @@ Composable Building Blocks to Open up Processor Design
 <strong>
 Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Xuda Zhou (USTC), Zidong Du (Institute of Computing Technology, Chinese Academy of Sciences/Cambricon), QI Guo (Institute of Computing Technology, Chinese Academy of Sciences/Cambricon), Chengsi Liu (MSU), Chao Wang (USTC), Xuehai Zhou (USTC), Ling Li (Institute of Computing Technology, Chinese Academy of Sciences), Tianshi Chen (Institute of Computing Technology, Chinese Academy of Sciences/Cambricon), Yunji Chen (Institute of Computing Technology, Chinese Academy of Sciences)
+<strong>[<a href="https://youtu.be/oxzhf6NWDOk">Lightning-talk Video</a>]</strong> Xuda Zhou (USTC), Zidong Du (Institute of Computing Technology, Chinese Academy of Sciences/Cambricon), QI Guo (Institute of Computing Technology, Chinese Academy of Sciences/Cambricon), Chengsi Liu (MSU), Chao Wang (USTC), Xuehai Zhou (USTC), Ling Li (Institute of Computing Technology, Chinese Academy of Sciences), Tianshi Chen (Institute of Computing Technology, Chinese Academy of Sciences/Cambricon), Yunji Chen (Institute of Computing Technology, Chinese Academy of Sciences)
 </td>
 <td>
 <strong>
 Performance Improvement by Prioritizing the Issue of the Instructions in Unconfident Branch Slices
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Hideki Ando (Nagoya University) 
+<strong>[<a href="https://youtu.be/xvBsQQlNIzM">Lightning-talk Video</a>]</strong> Hideki Ando (Nagoya University) 
 </td>
 </tr>
 <tr>
@@ -167,13 +167,13 @@ Performance Improvement by Prioritizing the Issue of the Instructions in Unconfi
 <strong>
 CSE: Convergence Set Based Enumerative FSM
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Youwei Zhuo (University of Southern California), Jinglei Cheng (Tsinghua University), Qinyi Luo (University of Southern California), Jidong Zhai (Tsinghua University), Yanzhi Wang (Syracuse University), Zhongzhi Luan (Beihang University), Xuehai Qian (University of Southern California)   
+<strong>[<a href="https://www.youtube.com/watch?v=fYSvPQaqRB4">Lightning-talk Video</a>]</strong> Youwei Zhuo (University of Southern California), Jinglei Cheng (Tsinghua University), Qinyi Luo (University of Southern California), Jidong Zhai (Tsinghua University), Yanzhi Wang (Syracuse University), Zhongzhi Luan (Beihang University), Xuehai Qian (University of Southern California)   
 </td>
 <td>
 <strong>
 The Superfluous Load Queue
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Alberto Ros (University of Murcia), Stefanos Kaxiras (Uppsala University)
+<strong>[<a href="https://www.youtube.com/watch?v=WKHK3DY0G5k&feature=youtu.be">Lightning-talk Video</a>]</strong> Alberto Ros (University of Murcia), Stefanos Kaxiras (Uppsala University)
 </td>
 </tr>
 <tr>
@@ -182,13 +182,13 @@ The Superfluous Load Queue
 <strong>
 Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Dani Voitsechov (Technion), Oron Port (Technion), Yoav Etsion (Technion)
+<strong>[<a href="https://youtu.be/OeiUUj_CJHk">Lightning-talk Video</a>]</strong> Dani Voitsechov (Technion), Oron Port (Technion), Yoav Etsion (Technion)
 </td>
 <td>
 <strong>
 Architectural Support for Probabilistic Branches
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Almutaz Adileh (Ghent University), David Lilja (University of Minnesota), Lieven Eeckhout (Ghent University) 
+<strong>[<a href="https://youtu.be/D6spkpGqdww">Lightning-talk Video</a>]</strong> Almutaz Adileh (Ghent University), David Lilja (University of Minnesota), Lieven Eeckhout (Ghent University) 
 </td>
 </tr>
 <tr>
@@ -197,13 +197,13 @@ Architectural Support for Probabilistic Branches
 <strong>
 An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Tao Chen (Cornell University), Shreesha Srinath (Cornell University), Christopher Batten (Cornell University), G. Edward Suh (Cornell University)
+<strong>[<a href="https://www.youtube.com/watch?v=SKMGP3VaPWY">Lightning-talk Video</a>]</strong> Tao Chen (Cornell University), Shreesha Srinath (Cornell University), Christopher Batten (Cornell University), G. Edward Suh (Cornell University)
 </td>
 <td>
 <strong>
 STRAIGHT: Hazardless Processor Architecture Without Register Renaming
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Hidetsugu Irie (the University of Tokyo), Toru Koizumi (the University of Tokyo), Akifumi Fukuda (the University of Tokyo), Seiya Akaki (the University of Tokyo), Satoshi Nakae (the University of Tokyo), Yutaro Bessho (the University of Tokyo), Ryota Shioya (the University of Tokyo), Takahiro Notsu (FUJITSU LABORATORIES LTD.), Katsuhiro Yoda (FUJITSU LABORATORIES LTD.), Teruo Ishihara (FUJITSU LABORATORIES LTD.), Shuichi Sakai (the University of Tokyo)  
+<strong>[<a href="https://www.youtube.com/watch?v=Wn8SgracUjY&feature=youtu.be">Lightning-talk Video</a>]</strong> Hidetsugu Irie (the University of Tokyo), Toru Koizumi (the University of Tokyo), Akifumi Fukuda (the University of Tokyo), Seiya Akaki (the University of Tokyo), Satoshi Nakae (the University of Tokyo), Yutaro Bessho (the University of Tokyo), Ryota Shioya (the University of Tokyo), Takahiro Notsu (FUJITSU LABORATORIES LTD.), Katsuhiro Yoda (FUJITSU LABORATORIES LTD.), Teruo Ishihara (FUJITSU LABORATORIES LTD.), Shuichi Sakai (the University of Tokyo)  
 </td>
 </tr>
 <tr>
@@ -224,13 +224,13 @@ STRAIGHT: Hazardless Processor Architecture Without Register Renaming
 <strong>
 Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Mostafa Mahmoud (University of Toronto), Kevin Siu (University of Toronto), Andreas Moshovos (University of Toronto)
+<strong>[<a href="https://youtu.be/xE2BOnMXlac">Lightning-talk Video</a>]</strong> Mostafa Mahmoud (University of Toronto), Kevin Siu (University of Toronto), Andreas Moshovos (University of Toronto)
 </td>
 <td>
 <strong>
 Rethinking the Memory Hierarchy for Modern Languages
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Po-An Tsai (MIT), Yee Ling Gan (MIT), Daniel Sanchez (MIT)
+<strong>[<a href="https://youtu.be/XDpttL5_JIQ">Lightning-talk Video</a>]</strong> Po-An Tsai (MIT), Yee Ling Gan (MIT), Daniel Sanchez (MIT)
 </td>
 </tr>
 <tr>
@@ -239,13 +239,13 @@ Rethinking the Memory Hierarchy for Modern Languages
 <strong>
 Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Youngeun Kwon (KAIST), Minsoo Rhu (KAIST)
+<strong>[<a href="https://www.youtube.com/watch?v=V1LmBh2-TNU&feature=youtu.be">Lightning-talk Video</a>]</strong> Youngeun Kwon (KAIST), Minsoo Rhu (KAIST)
 </td>
 <td>
 <strong>
 Harmonizing Speculative and Non-Speculative Execution in Architectures for Ordered Parallelism
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Mark C. Jeffrey (Massachusetts Institute of Technology), Victor A. Ying (Massachusetts Institute of Technology), Suvinay Subramanian (Massachusetts Institute of Technology), Hyun Ryong Lee (Massachusetts Institute of Technology), Joel Emer (NVIDIA, MIT), Daniel Sanchez (Massachusetts Institute of Technology)
+<strong>[<a href="https://www.youtube.com/watch?v=R7dHGODVAx8">Lightning-talk Video</a>]</strong> Mark C. Jeffrey (Massachusetts Institute of Technology), Victor A. Ying (Massachusetts Institute of Technology), Suvinay Subramanian (Massachusetts Institute of Technology), Hyun Ryong Lee (Massachusetts Institute of Technology), Joel Emer (NVIDIA, MIT), Daniel Sanchez (Massachusetts Institute of Technology)
 </td>
 </tr>
 <tr>
@@ -254,13 +254,13 @@ Harmonizing Speculative and Non-Speculative Execution in Architectures for Order
 <strong>
 Towards Memory Friendly Long-Short Term Memory Networks (LSTMs) on Mobile GPUs
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Xingyao Zhang (University of Houston), Chenhao Xie (University of Houston), Jing Wang (Capital Normal University), Weigong Zhang (Capital Normal University), Xin Fu (University of Houston) 
+<strong>[<a href="https://youtu.be/wDAJj5-5nyE">Lightning-talk Video</a>]</strong> Xingyao Zhang (University of Houston), Chenhao Xie (University of Houston), Jing Wang (Capital Normal University), Weigong Zhang (Capital Normal University), Xin Fu (University of Houston) 
 </td>
 <td>
 <strong>
 Sampler: PMU-based Sampling to Detect Memory Errors Latent in Production Software
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Sam Silvestro (University of Texas at San Antonio), Hongyu Liu (University of Texas at San Antonio), Tong Zhang (Virginia Tech),  Changhee Jung (Virginia Tech), Dongyoon Lee (Virginia Tech), Tongping Liu (University of Texas at San Antonio)
+<strong>[Lightning-talk Video]</strong> Sam Silvestro (University of Texas at San Antonio), Hongyu Liu (University of Texas at San Antonio), Tong Zhang (Virginia Tech),  Changhee Jung (Virginia Tech), Dongyoon Lee (Virginia Tech), Tongping Liu (University of Texas at San Antonio)
 </td>
 </tr>
 <tr>
@@ -269,13 +269,13 @@ Sampler: PMU-based Sampling to Detect Memory Errors Latent in Production Softwar
 <strong>
 A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Youjie Li (University of Illinois, Urbana-Champaign), Jongse Park (Georgia Institute of Technology), Mohammad Alian (University of Illinois, Urbana-Champaign), Yifan Yuan (University of Illinois, Urbana-Champaign), Qu Zheng (Tsinghua University), Petian Pan (Shanghai Jiao Tong University), Ren Wang (Intel Corporation), Alexander Gerhard Schwing (University of Illinois, Urbana-Champaign), Hadi Esmaeilzadeh (University of California, San Diego), Nam Sung Kim (University of Illinois, Urbana-Champaign)   
+<strong>[<a href="https://youtu.be/3ABbjqOZ6SE">Lightning-talk Video</a>]</strong> Youjie Li (University of Illinois, Urbana-Champaign), Jongse Park (Georgia Institute of Technology), Mohammad Alian (University of Illinois, Urbana-Champaign), Yifan Yuan (University of Illinois, Urbana-Champaign), Qu Zheng (Tsinghua University), Petian Pan (Shanghai Jiao Tong University), Ren Wang (Intel Corporation), Alexander Gerhard Schwing (University of Illinois, Urbana-Champaign), Hadi Esmaeilzadeh (University of California, San Diego), Nam Sung Kim (University of Illinois, Urbana-Champaign)   
 </td>
 <td>
 <strong>
 TAPAS: Generating Parallel Accelerators from Parallel Programs
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Steven Margerm (Simon Fraser University), Amirali Sharifian (Simon Fraser University), Apala Guha (Simon Fraser University), Gilles Pokam (Intel Corporation), Arrvindh Shriraman (Simon Fraser University) 
+<strong>[<a href="https://youtu.be/Z6p-hClfg8k">Lightning-talk Video</a>]</strong> Steven Margerm (Simon Fraser University), Amirali Sharifian (Simon Fraser University), Apala Guha (Simon Fraser University), Gilles Pokam (Intel Corporation), Arrvindh Shriraman (Simon Fraser University) 
 </td>
 </tr>
 <tr>
@@ -284,13 +284,13 @@ TAPAS: Generating Parallel Accelerators from Parallel Programs
 <strong>
 PermDNN: Efficient Compressed Deep Neural Network Architecture with Permuted Diagonal Matrices
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Chunhua Deng (City University of New York), Siyu Liao (City University of New York), Yi Xie (City University of New York), Keshab K. Parhi (University of Minnesota), Xuehai Qian (University of Southern California), Bo Yuan (City University of New York), Bo Yuan (Rutgers University) 
+<strong>[<a href="https://www.youtube.com/watch?v=nxE7fuLoIpI&feature=youtu.be">Lightning-talk Video</a>]</strong> Chunhua Deng (City University of New York), Siyu Liao (City University of New York), Yi Xie (City University of New York), Keshab K. Parhi (University of Minnesota), Xuehai Qian (University of Southern California), Bo Yuan (City University of New York), Bo Yuan (Rutgers University) 
 </td>
 <td>
 <strong>
 iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Qingrui Liu (Virginia Tech), Joseph Izraelevitz (University of Rochester), Se Kwon Lee (UNIST), Michael L. Scott (University of Rochester), Sam H. Noh (UNIST), Changhee Jung (Virginia Tech) 
+<strong>[<a href="https://youtu.be/bKxO75r1JeA">Lightning-talk Video</a>]</strong> Qingrui Liu (Virginia Tech), Joseph Izraelevitz (University of Rochester), Se Kwon Lee (UNIST), Michael L. Scott (University of Rochester), Sam H. Noh (UNIST), Changhee Jung (Virginia Tech) 
 </td>
 </tr>
 <tr>
@@ -310,13 +310,13 @@ iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory
 <strong>
 Scalable Distributed Last-Level TLBs Using Low-Latency Interconnects
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Srikant Bharadwaj (Georgia Tech), Guilherme Cox (Rutgers University), Tushar Krishna (Georgia Tech), Abhishek Bhattacharjee (Rutgers University)
+<strong>[<a href="https://youtu.be/GVintOL7W-Q">Lightning-talk Video</a>]</strong> Srikant Bharadwaj (Georgia Tech), Guilherme Cox (Rutgers University), Tushar Krishna (Georgia Tech), Abhishek Bhattacharjee (Rutgers University)
 </td>
 <td>
 <strong>
 Combining HW/SW Mechanisms to Improve NUMA Performance of Multi-GPU Systems
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Vinson Young (Georgia Institute of Technology), Aamer Jaleel (NVIDIA), Evgeny Bolotin (NVIDIA), Eiman Ebrahimi (NVIDIA), David Nellans (NVIDIA), Oreste Villa (NVIDIA)  
+<strong>[<a href="https://youtu.be/Xi_HHzH9lpM">Lightning-talk Video</a>]</strong> Vinson Young (Georgia Institute of Technology), Aamer Jaleel (NVIDIA), Evgeny Bolotin (NVIDIA), Eiman Ebrahimi (NVIDIA), David Nellans (NVIDIA), Oreste Villa (NVIDIA)  
 </td>
 </tr>
 <tr>
@@ -325,13 +325,13 @@ Combining HW/SW Mechanisms to Improve NUMA Performance of Multi-GPU Systems
 <strong>
 Duplicon Cache: Mitigating Off-Chip Memory Bank and Bank Group Conflicts via Data Duplication
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Ben (Ching-Pei) Lin (University of Texas at Austin), Michael B Healy (IBM Research), Rustam Miftakhutdinov (Intel Corporation), Phil Emma (IBM Research), Yale Patt (University of Texas at Austin)  
+<strong>[<a href="https://youtu.be/ZHLJEcxZhbI">Lightning-talk Video</a>]</strong> Ben (Ching-Pei) Lin (University of Texas at Austin), Michael B Healy (IBM Research), Rustam Miftakhutdinov (Intel Corporation), Phil Emma (IBM Research), Yale Patt (University of Texas at Austin)  
 </td>
 <td>
 <strong>
 Neighborhood-aware address translation for irregular GPU applications
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Seunghee Shin (SUNY at Binghamton), Michael LeBeane (AMD Research/UT Austin), Yan Solihin (University of Central Florida), Arkaprava Basu (Indian Institute of Science)  
+<strong>[<a href="https://youtu.be/T5jSwVCsoD0">Lightning-talk Video</a>]</strong> Seunghee Shin (SUNY at Binghamton), Michael LeBeane (AMD Research/UT Austin), Yan Solihin (University of Central Florida), Arkaprava Basu (Indian Institute of Science)  
 </td>
 </tr>
 <tr>
@@ -340,13 +340,13 @@ Neighborhood-aware address translation for irregular GPU applications
 <strong>
 CAL: Charge-Level Aware Look-ahead Partial Restoration for Fast DRAM Access
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Yaohua Wang (ETH Zurich, National University of Defense Technology), Arash Tavakkol (ETH Zurich), Lois Orosa (ETH Zurich, Univ. of Campinas), Saugata Ghose (CMU), Nika Mansouri Ghiasi (ETH Zurich), Minesh Patel (ETH Zurich), Jeremie Kim (ETH Zurich), Hasan Hassan (ETH Zurich), Onur Mutlu (ETH Zurich, CMU)
+<strong>[<a href="https://youtu.be/QEKSI_L9jm8">Lightning-talk Video</a>]</strong> Yaohua Wang (ETH Zurich, National University of Defense Technology), Arash Tavakkol (ETH Zurich), Lois Orosa (ETH Zurich, Univ. of Campinas), Saugata Ghose (CMU), Nika Mansouri Ghiasi (ETH Zurich), Minesh Patel (ETH Zurich), Jeremie Kim (ETH Zurich), Hasan Hassan (ETH Zurich), Onur Mutlu (ETH Zurich, CMU)
 </td>
 <td>
 <strong>
 FineReg: Fine-Grained Register File Management for Augmenting GPU Throughput
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Yunho Oh (Yonsei University), Myung Kuk Yoon (Yonsei University), William J. Song (Yonsei University), Won Woo Ro (Yonsei University)         
+<strong>[<a href="https://youtu.be/TzvwYk26t08">Lightning-talk Video</a>]</strong> Yunho Oh (Yonsei University), Myung Kuk Yoon (Yonsei University), William J. Song (Yonsei University), Won Woo Ro (Yonsei University)         
 </td>
 </tr>
 <tr>
@@ -355,13 +355,13 @@ FineReg: Fine-Grained Register File Management for Augmenting GPU Throughput
 <strong>
 CABLE: a CAche-Based Link Encoder for Bandwidth-starved Manycores
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Tri M. Nguyen (Princeton University), Adi Fuchs (Princeton University), David Wentzlaff (Princeton University)  
+<strong>[<a href="https://www.youtube.com/watch?v=uGIDxqaJ9OA">Lightning-talk Video</a>]</strong> Tri M. Nguyen (Princeton University), Adi Fuchs (Princeton University), David Wentzlaff (Princeton University)  
 </td>
 <td>
 <strong>
 In-Register Parameter Caching for Dynamic Neural Nets with Virtual Persistent Processor Specialization
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Farzad Khorasani (Georgia Institute of Technology), Hodjat Asghari Esfeden (University Of California Riverside), Nael Abu-Ghazaleh (University of California Riverside), Vivek Sarkar (Georgia Institute of Technology) 
+<strong>[<a href="https://youtu.be/c4r8mBd5whA">Lightning-talk Video</a>]</strong> Farzad Khorasani (Georgia Institute of Technology), Hodjat Asghari Esfeden (University Of California Riverside), Nael Abu-Ghazaleh (University of California Riverside), Vivek Sarkar (Georgia Institute of Technology) 
 </td>
 </tr>
 <tr>
@@ -370,13 +370,13 @@ In-Register Parameter Caching for Dynamic Neural Nets with Virtual Persistent Pr
 <strong>
 Attache: Towards Ideal Memory Compression by Mitigating Metadata Bandwidth Overheads
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Seokin Hong (IBM Research), Prashant Nair (IBM Research), Bulent Abali (IBM Research), Alper Buyuktosunoglu (IBM Research), Kyu Hyoun Kim (IBM Research), Michael Healy (IBM Research) 
+<strong>[<a href="https://www.youtube.com/watch?v=CbhUZD6ZD4s">Lightning-talk Video</a>]</strong> Seokin Hong (IBM Research), Prashant Nair (IBM Research), Bulent Abali (IBM Research), Alper Buyuktosunoglu (IBM Research), Kyu Hyoun Kim (IBM Research), Michael Healy (IBM Research) 
 </td>
 <td>
 <strong>
 Voltage-stacked GPUs: A Control Theory Driven Cross-Layer Solution for Practical Voltage Stacking in GPUs
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> An Zou (Washington University in St. Louis), Jingwen Leng (Shanghai Jiao Tong University), Xin He (Washington University in St. Louis), Yazhou Zu (The University of Texas at Austin), Christopher D. Gill (Washington University in St. Louis), Vijay Janapa Reddi (The University of Texas at Austin), Xuan Zhang (Washington University in St. Louis) 
+<strong>[<a href="https://www.youtube.com/watch?v=wQh85Y2UWBs">Lightning-talk Video</a>]</strong> An Zou (Washington University in St. Louis), Jingwen Leng (Shanghai Jiao Tong University), Xin He (Washington University in St. Louis), Yazhou Zu (The University of Texas at Austin), Christopher D. Gill (Washington University in St. Louis), Vijay Janapa Reddi (The University of Texas at Austin), Xuan Zhang (Washington University in St. Louis) 
 </td>
 </tr>
 <tr>
@@ -396,13 +396,13 @@ Voltage-stacked GPUs: A Control Theory Driven Cross-Layer Solution for Practical
 <strong>
 Osiris: A Low-Cost Mechanism to Enable Restoration of Secure Non-Volatile Memories
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Mao Ye (University of Central Florida), Clay Hughes (Sandia National Labs), Amro Awad (University of Central Florida)  
+<strong>[<a href="https://youtu.be/as-pdRJ_7xs">Lightning-talk Video</a>]</strong> Mao Ye (University of Central Florida), Clay Hughes (Sandia National Labs), Amro Awad (University of Central Florida)  
 </td>
 <td>
 <strong>
 SSDcheck: Timely and Accurate Prediction of Irregular Behaviors in Black-Box SSDs
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Joonsung Kim (Seoul National University), Pyeongsu Park (Seoul National University), Jaehyung Ahn (POSTECH), Jihun Kim (POSTECH), Jong Kim (POSTECH), Jangwoo Kim (Seoul National University)  
+<strong>[<a href="https://www.youtube.com/watch?v=W4KmgaeoUwo">Lightning-talk Video</a>]</strong> Joonsung Kim (Seoul National University), Pyeongsu Park (Seoul National University), Jaehyung Ahn (POSTECH), Jihun Kim (POSTECH), Jong Kim (POSTECH), Jangwoo Kim (Seoul National University)  
 </td>
 </tr>
 <tr>
@@ -411,13 +411,13 @@ SSDcheck: Timely and Accurate Prediction of Irregular Behaviors in Black-Box SSD
 <strong>
 Morphable Counters: Enabling Compact Integrity Trees for Low-Overhead Secure Memories
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Gururaj Saileshwar (Georgia Institute of Technology), Prashant Nair (IBM Research), Prakash Ramrakhyani (ARM Research), Wendy Elssaser (ARM Research), Jose Joao (ARM Research), Moinuddin Qureshi (Georgia Institute of Technology) 
+<strong>[<a href="https://youtu.be/NI5rrhx6t5s">Lightning-talk Video</a>]</strong> Gururaj Saileshwar (Georgia Institute of Technology), Prashant Nair (IBM Research), Prakash Ramrakhyani (ARM Research), Wendy Elssaser (ARM Research), Jose Joao (ARM Research), Moinuddin Qureshi (Georgia Institute of Technology) 
 </td>
 <td>
 <strong>
 Amber: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Donghyun Gouk (Yonsei University), Miryeong Kwon (Yonsei University), Jie Zhang (Yonsei University), Sungjoon Koh (Yonsei University), Wonil Choi (PennState), Nam Sung Kim (UIUC), Mahmut Kandemir (PennState), Myoungsoo Jung (Yonsei University) 
+<strong>[Lightning-talk Video]</strong> Donghyun Gouk (Yonsei University), Miryeong Kwon (Yonsei University), Jie Zhang (Yonsei University), Sungjoon Koh (Yonsei University), Wonil Choi (PennState), Nam Sung Kim (UIUC), Mahmut Kandemir (PennState), Myoungsoo Jung (Yonsei University) 
 </td>
 </tr>
 <tr>
@@ -426,13 +426,13 @@ Amber: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD
 <strong>
 InvisiSpec: Making Speculative Execution Invisible in the Cache Hierarchy
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Mengjia Yan (University of Illinois at Urbana-Champaign), Jiho Choi (University of Illinois at Urbana-Champaign), Dimitrios Skarlatos (University of Illinois at Urbana-Champaign), Adam Morrison (Tel Aviv University), Christopher W. Fletcher (University of Illinois at Urbana-Champaign), Josep Torrellas (University of Illinois at Urbana-Champaign) 
+<strong>[<a href="https://youtu.be/mAO5iejYUec">Lightning-talk Video</a>]</strong> Mengjia Yan (University of Illinois at Urbana-Champaign), Jiho Choi (University of Illinois at Urbana-Champaign), Dimitrios Skarlatos (University of Illinois at Urbana-Champaign), Adam Morrison (Tel Aviv University), Christopher W. Fletcher (University of Illinois at Urbana-Champaign), Josep Torrellas (University of Illinois at Urbana-Champaign) 
 </td>
 <td>
 <strong>
 Invalid Data-Aware Coding to Enhance the Read Performance of High-Density Flash Memories
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Wonil Choi (The Pennsylvania State University), Myoungsoo Jung (Yonsei University), Mahmut Kandemir (The Pennsylvania State University) 
+<strong>[<a href="https://youtu.be/Ha3KEfDGhPY">Lightning-talk Video</a>]</strong> Wonil Choi (The Pennsylvania State University), Myoungsoo Jung (Yonsei University), Mahmut Kandemir (The Pennsylvania State University) 
 </td>
 </tr>
 <tr>
@@ -441,13 +441,13 @@ Invalid Data-Aware Coding to Enhance the Read Performance of High-Density Flash 
 <strong>
 Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Pengfei Zuo (Huazhong University of Science and Technology), Yu Hua (Huazhong University of Science and Technology), Ming Zhao (Arizona State University), Wen Zhou (Huazhong University of Science and Technology), Yuncheng Guo (Huazhong University of Science and Technology)   
+<strong>[<a href="https://youtu.be/CU-RVr8wOk0">Lightning-talk Video</a>]</strong> Pengfei Zuo (Huazhong University of Science and Technology), Yu Hua (Huazhong University of Science and Technology), Ming Zhao (Arizona State University), Wen Zhou (Huazhong University of Science and Technology), Yuncheng Guo (Huazhong University of Science and Technology)   
 </td>
 <td>
 <strong>
 Persistence Parallelism Optimization: A holistic approach from memory bus to RDMA network
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Xing Hu (University of California, Santa Barbara), Matheus Ogleari (University of California, Santa Cruz), Jishen Zhao (University of California, San Diego), Shuangchen Li (University of California, Santa Barbara), Abanti Basak (University of California, Santa Barbara), Yuan Xie (University of California, Santa Barbara)    
+<strong>[<a href="https://youtu.be/rOXKYE3R_E4">Lightning-talk Video</a>]</strong> Xing Hu (University of California, Santa Barbara), Matheus Ogleari (University of California, Santa Cruz), Jishen Zhao (University of California, San Diego), Shuangchen Li (University of California, Santa Barbara), Abanti Basak (University of California, Santa Barbara), Yuan Xie (University of California, Santa Barbara)    
 </td>
 </tr>
 <tr>
@@ -487,13 +487,13 @@ Persistence Parallelism Optimization: A holistic approach from memory bus to RDM
 <strong>
 PiCL: a Software-Transparent, Persistent Cache Log for Nonvolatile Main Memory
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Tri M. Nguyen (Princeton University), David Wentzlaff (Princeton University)
+<strong>[<a href="https://www.youtube.com/watch?v=RO_arZxq80s">Lightning-talk Video</a>]</strong> Tri M. Nguyen (Princeton University), David Wentzlaff (Princeton University)
 </td>
 <td>
 <strong>
 Leveraging CPU Electromagnetic Emanations for Voltage Noise Characterization
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Zacharias Hadjilambrou (University of Cyprus), Shidhartha Das (ARM), Marco A. Antoniades (University of Cyprus), Yiannakis Sazeides (University of Cyprus)
+<strong>[<a href="https://youtu.be/h8ffKZZ_KEI">Lightning-talk Video</a>]</strong> Zacharias Hadjilambrou (University of Cyprus), Shidhartha Das (ARM), Marco A. Antoniades (University of Cyprus), Yiannakis Sazeides (University of Cyprus)
 </td>
 </tr>
 <tr>
@@ -502,13 +502,13 @@ Leveraging CPU Electromagnetic Emanations for Voltage Noise Characterization
 <strong>
 Efficient Hardware-assisted Logging with Asynchronous and Direct Update for Persistent Memory
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Jungi Jeong (KAIST), Chang Hyun Park (KAIST), Jaehyuk Huh (KAIST), Seungryoul Maeng (KAIST)
+<strong>[<a href="https://www.youtube.com/watch?v=YMooGEmTTY4">Lightning-talk Video</a>]</strong> Jungi Jeong (KAIST), Chang Hyun Park (KAIST), Jaehyuk Huh (KAIST), Seungryoul Maeng (KAIST)
 </td>
 <td>
 <strong>
 RpStacks-MT: A High-throughput Multi-core Processor Design Evaluation Methodology
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Hanhwi Jang (POSTECH), Jae-Eon Jo (POSTECH), Jaewon Lee (Seoul National University), Jangwoo Kim (Seoul National University)  
+<strong>[<a href="https://youtu.be/CnXKXuiMo0I">Lightning-talk Video</a>]</strong> Hanhwi Jang (POSTECH), Jae-Eon Jo (POSTECH), Jaewon Lee (Seoul National University), Jangwoo Kim (Seoul National University)  
 </td>
 </tr>
 <tr>
@@ -517,13 +517,13 @@ RpStacks-MT: A High-throughput Multi-core Processor Design Evaluation Methodolog
 <strong>
 CHAMELEON: A Dynamically Reconfigurable Heterogeneous Memory System
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Jagadish B. Kotra (AMD Research), Haibo Zhang (The Pennsylvania State University), Alaa R. Alameldeen (Intel Corporation Ltd), Chris Wilkerson (NVIDIA Corporation Ltd), Mahmut T. Kandemir (The Pennsylvania State University) 
+<strong>[Lightning-talk Video]</strong> Jagadish B. Kotra (AMD Research), Haibo Zhang (The Pennsylvania State University), Alaa R. Alameldeen (Intel Corporation Ltd), Chris Wilkerson (NVIDIA Corporation Ltd), Mahmut T. Kandemir (The Pennsylvania State University) 
 </td>
 <td>
 <strong>
 The EH Model: Early Design Space Exploration of Intermittent Processor Architectures
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Joshua San Miguel (University of Wisconsin-Madison), Karthik Ganesan (University of Toronto), Mario Badr (University of Toronto), Chunqiu Xia (University of Toronto), Rose Li (University of Toronto), Hsuan (Julie) Hsiao (University of Toronto), Natalie Enright Jerger (University of Toronto) 
+<strong>[<a href="https://www.youtube.com/watch?v=oHWtQCGRkoo">Lightning-talk Video</a>]</strong> Joshua San Miguel (University of Wisconsin-Madison), Karthik Ganesan (University of Toronto), Mario Badr (University of Toronto), Chunqiu Xia (University of Toronto), Rose Li (University of Toronto), Hsuan (Julie) Hsiao (University of Toronto), Natalie Enright Jerger (University of Toronto) 
 </td>
 </tr>
 <tr>
@@ -532,13 +532,13 @@ The EH Model: Early Design Space Exploration of Intermittent Processor Architect
 <strong>
 Compresso: Pragmatic Main Memory Compression
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Esha Choukse (The University of Texas at Austin), Mattan Erez (The University of Texas at Austin), Alaa R. Alameldeen (Intel Labs)  
+<strong>[<a href="https://www.youtube.com/watch?v=g7_cMzSrxY0">Lightning-talk Video</a>]</strong> Esha Choukse (The University of Texas at Austin), Mattan Erez (The University of Texas at Austin), Alaa R. Alameldeen (Intel Labs)  
 </td>
 <td>
 <strong>
 CounterMiner: Mining Big Performance Data from Hardware Counters
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Yirong Lv (Shenzhen Institute of Advanced Technology, Chinese Academy of Science), Bin Sun (Shenzhen Institute of Advanced Technology, Chinese Academy of Science), Qinyi Luo (University of Southern California), Jing Wang (Capital Normal University, Beijing, China), Zhibin Yu (Shenzhen Institute of Advanced Technology, Chinese Academy of Science), Xuehai Qian (University of Southern California) 
+<strong>[<a href="https://youtu.be/Kbu2yQfP_9w">Lightning-talk Video</a>]</strong> Yirong Lv (Shenzhen Institute of Advanced Technology, Chinese Academy of Science), Bin Sun (Shenzhen Institute of Advanced Technology, Chinese Academy of Science), Qinyi Luo (University of Southern California), Jing Wang (Capital Normal University, Beijing, China), Zhibin Yu (Shenzhen Institute of Advanced Technology, Chinese Academy of Science), Xuehai Qian (University of Southern California) 
 </td>
 </tr>
 <tr>
@@ -547,13 +547,13 @@ CounterMiner: Mining Big Performance Data from Hardware Counters
 <strong>
 Farewell My Shared LLC! A Case for Private Die-Stacked DRAM Caches for Servers
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Amna Shahab (University of Edinburgh), Mingcan Zhu (University of Edinburgh), Artemiy Margaritov (University of Edinburgh), Boris Grot (University of Edinburgh)
+<strong>[<a href="https://youtu.be/bMuYuSkLLxA">Lightning-talk Video</a>]</strong> Amna Shahab (University of Edinburgh), Mingcan Zhu (University of Edinburgh), Artemiy Margaritov (University of Edinburgh), Boris Grot (University of Edinburgh)
 </td>
 <td>
 <strong>
 Taming the Killer Microsecond
 </strong><br>
-<strong>[<a href="">Lightning-talk Video</a>]</strong> Shenghsun Cho (Stony Brook University), Amoghavarsha Suresh (Stony Brook University), Tapti Palit (Stony Brook University), Michael Ferdman (Stony Brook University), Nima Honarmand (Stony Brook University) 
+<strong>[<a href="https://youtu.be/ZczFQRQ4yBM">Lightning-talk Video</a>]</strong> Shenghsun Cho (Stony Brook University), Amoghavarsha Suresh (Stony Brook University), Tapti Palit (Stony Brook University), Michael Ferdman (Stony Brook University), Nima Honarmand (Stony Brook University) 
 </td>
 </tr>
 <tr>
