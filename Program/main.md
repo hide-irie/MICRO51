@@ -677,7 +677,7 @@ SwapCodes: Error Codes for Hardware-Software Cooperative GPU Pipeline Error Dete
 <tr>
 <td></td>
 <td colspan="2"> <strong>
-CEASER: Mitigating Eviction-Based Cache Attacks via Dynamically Encrypted Address
+CEASER: Mitigating Conflict-Based Cache Attacks via Encrypted-Address and Remapping
 </strong> <br>
 <strong>[<a href="https://youtu.be/7G-TUBrbrM8">Lightning-talk Video</a>]</strong> Moinuddin Qureshi (Georgia Institute of Technology)</td>
 </tr>
