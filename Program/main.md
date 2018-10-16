@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Main Program (Tentative)
+title: Main Program
 ---
 
 <style>
