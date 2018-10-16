@@ -107,6 +107,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height ="62" alt="Arm logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/jst_logo.png" height ="110" alt="JST logo"/></div>
 <div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/kyushu-u_logo.jpg" height ="155" alt="Kyushu-u logo"/></div>
+<div style="display:inline-block; margin: 20px;"><img border="0" src="{{ site.baseurl }}/images/microsoft-logo.png" height ="75" alt="Microfost logo"/></div>
 
 </div>
 <br>
