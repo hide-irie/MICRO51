@@ -300,7 +300,7 @@ iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory
 <tr>
 <td>14:50</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>3-A Memory Systems - I</em></strong><br />
-  <strong><em>session chair: Daniel Lustig</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+  <strong><em>session chair: Jishen Zhao</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>3-B GPGPU/GPU</em></strong><br />
   <strong><em>session chair: Yoav Etsion</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
@@ -477,7 +477,7 @@ Persistence Parallelism Optimization: A holistic approach from memory bus to RDM
 <tr>
 <td>9:30</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>5-A Memory Systems - II</em></strong><br />
-  <strong><em>session chair: Jishen Zhao</em></strong><br /><strong>Room: Savoy</strong></td>
+  <strong><em>session chair: Daniel Lustig</em></strong><br /><strong>Room: Savoy</strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>5-B Measurement, Modeling, and Simulation</em></strong><br />
   <strong><em>session chair: Andreas Moshovos</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
