@@ -12,6 +12,3 @@ title: Intel-NSF panel
 * Prof.Daniel Sanchez (MIT)
 * Prof.Murali Annavaram (USC)
 
-## Organizers
-* Chinya, Gautham N (Intel)
-* Subramoney, Sreenivas (Intel)
