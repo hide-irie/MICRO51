@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Program
+title: Workshop and Tutorials
 ---
-# Workshop and Tutorials
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
