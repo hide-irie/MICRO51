@@ -93,7 +93,7 @@ title: Workshop and Tutorials
 | GenSim                |     | [GenSim: A Toolset for Efficient Binary Translation](http://www.gensim.org/)     | Harry Wagstaff, Bruno Bodin, Tom Spink, Björn Franke                                         | University of Edinburgh                               |
 | Labeled RISC-V                |     | [Labeled RISC-V: A Case for Software-Defined Architecture](http://sdc.ict.ac.cn/micro2018-tutorial/)      | Yungang Bao            | ICT, CAS     |
 | Energy Efficient Computing         |     | [Energy Efficient Computing in Multicore CPUs: Design Margins and Variability](http://micro51.tutorial.di.uoa.gr/)     | Dimitris Gizopoulos, George Papadimitriou, Athanasios Chatzidimitriou     | University of Athens                         |
-| Intel-NSF Panel       |     | [Intel-NSF panel: Reinvigorating foundational microarchitecture research towards general purpose performance](https://www.microarch.org/micro51/Program/panel/)   |     |                          |
+| Intel-NSF Panel       |     | [Intel-NSF panel: Reinvigorating foundational microarchitecture research towards general purpose performance](https://www.microarch.org/micro51/Program/panel/)   | Gautham N Chinya, Sreenivas Subramoney   | Intel                         |
 {: .table .table-striped }
 
 
