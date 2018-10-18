@@ -452,11 +452,11 @@ Persistence Parallelism Optimization: A holistic approach from memory bus to RDM
 </tr>
 <tr>
 <td>18:00</td>
-<td style="text-align: center;" colspan="2"><strong>&nbsp;Break &nbsp;&nbsp; Room: Pre-Function Area</strong></td>
+<td style="text-align: center;" colspan="2"><strong>&nbsp;Break &nbsp;&nbsp; <br>Room: Pre-Function Area</strong></td>
 </tr>
 <tr>
 <td>18:15</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Business Meeting&nbsp;&nbsp; Room: The Grand Ballroom-CD
+<td class="tdb" colspan="2"><strong>&nbsp;Business Meeting&nbsp;&nbsp; <br>Room: The Grand Ballroom-CD
 </strong></td>
 </tr>
 <thead>
