@@ -571,9 +571,9 @@ Taming the Killer Microsecond
 <tr>
 <td>14:20</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>6-A Near Memory Computing</em></strong><br />
-  <strong><em>session chair: Eckert, Yasuko</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+  <strong><em>session chair: Yasuko Eckert</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>6-B Reliability and Fault-Tolerance</em></strong><br />
-  <strong><em>session chair: Teodorescu, Radu</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+  <strong><em>session chair: Radu Teodorescu</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -711,7 +711,7 @@ End-to-End Automated Exploit Generation for Validating the Security of Processor
 <td style="background-color: light blue;" class="tdb"><strong><em>8-A Non-Conventional Architectures</em></strong><br />
   <strong><em>session chair: Masaaki Kondo</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>8-B Mobile and Embedded Architectures</em></strong><br />
-  <strong><em>session chair: Janapa Reddi, Vijay</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+  <strong><em>session chair: Vijay Janapa Reddi</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -765,9 +765,9 @@ MAVBench: Micro Aerial Vehicle Benchmarking
 <tr>
 <td>12:05</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>9-A Domain-Specific Architectures</em></strong><br />
-  <strong><em>session chair: Jae W. Lee, Vijay</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
+  <strong><em>session chair: Jae W. Lee</em></strong><br /><strong>Room: The Grand Ball Room-AB</strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>9-B Security-II</em></strong><br />
-  <strong><em>session chair: Daniel Jimenez, Vijay</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
+  <strong><em>session chair: Daniel A. Jimenez</em></strong><br /><strong>Room: The Grand Ball Room-CD</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
