@@ -6,6 +6,7 @@ title: MICRO-51 keynote-1
 ## Keynote 1: 
 ## From Post-K onto Post-Moore is from FLOPS onto BYTES, and from Homogeneity to Heterogeneity
 **Satoshi Matsuoka, Director, Riken-CCS / Professor, Tokyo Institute of Technology**<br>
+<img border="0" src="{{ site.baseurl }}/Program/matsuoka.jpg" height ="150" alt="S. Matsuoka"/><br>
 9:00-10:00, Monday Oct 22, 2018<br>
 Room: The Grand Ball Room
 
