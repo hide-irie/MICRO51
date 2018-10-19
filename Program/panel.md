@@ -7,8 +7,9 @@ title: Intel-NSF panel
 
 ## Panelist
 * Dr.Yuanyuan Yang (NSF)
-* Dr.Robert S Chappell (Intel)
 * Prof.Daniel A. Jimenez (Texas A&M)
 * Prof.Daniel Sanchez (MIT)
 * Prof.Murali Annavaram (USC)
+* Gautham N Chinya (Intel)
+* Sreenivas Subramoney (Intel)
 
