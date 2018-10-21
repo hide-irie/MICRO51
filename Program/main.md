@@ -656,7 +656,7 @@ SwapCodes: Error Codes for Hardware-Software Cooperative GPU Pipeline Error Dete
 </tr>
 <tr>
   <td>15:50</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Excursion: Move to Koro-kan&nbsp;</strong>
+<td class="tdb" colspan="2"><strong>&nbsp;Excursion(Banquet): Move to Koro-kan&nbsp;</strong>
 </td>
 </tr>
 <thead>
