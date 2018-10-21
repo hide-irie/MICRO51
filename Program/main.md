@@ -417,7 +417,7 @@ Morphable Counters: Enabling Compact Integrity Trees for Low-Overhead Secure Mem
 <strong>
 Amber: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources
 </strong><br>
-<strong>[Lightning-talk Video]</strong> Donghyun Gouk (Yonsei University), Miryeong Kwon (Yonsei University), Jie Zhang (Yonsei University), Sungjoon Koh (Yonsei University), Wonil Choi (PennState), Nam Sung Kim (UIUC), Mahmut Kandemir (PennState), Myoungsoo Jung (Yonsei University) 
+  <strong>[<a href="https://youtu.be/PkhNFnXLRTI">Lightning-talk Video</a>]</strong> Donghyun Gouk (Yonsei University), Miryeong Kwon (Yonsei University), Jie Zhang (Yonsei University), Sungjoon Koh (Yonsei University), Wonil Choi (PennState), Nam Sung Kim (UIUC), Mahmut Kandemir (PennState), Myoungsoo Jung (Yonsei University) 
 </td>
 </tr>
 <tr>
@@ -521,7 +521,7 @@ RpStacks-MT: A High-throughput Multi-core Processor Design Evaluation Methodolog
 <strong>
 CHAMELEON: A Dynamically Reconfigurable Heterogeneous Memory System
 </strong><br>
-<strong>[Lightning-talk Video]</strong> Jagadish B. Kotra (AMD Research), Haibo Zhang (The Pennsylvania State University), Alaa R. Alameldeen (Intel Corporation Ltd), Chris Wilkerson (NVIDIA Corporation Ltd), Mahmut T. Kandemir (The Pennsylvania State University) 
+  <strong>[<a href="https://youtu.be/lvmBejS1-Qw">Lightning-talk Video</a>]</strong> Jagadish B. Kotra (AMD Research), Haibo Zhang (The Pennsylvania State University), Alaa R. Alameldeen (Intel Corporation Ltd), Chris Wilkerson (NVIDIA Corporation Ltd), Mahmut T. Kandemir (The Pennsylvania State University) 
 </td>
 <td>
 <strong>
