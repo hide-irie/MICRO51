@@ -21,4 +21,5 @@ This panel consisting of representatives from Intel and NSF and prominent archit
 * Prof.Murali Annavaram (USC)
 * Gautham N Chinya (Intel)
 * Sreenivas Subramoney (Intel)
+* Alaa Alameldeen (Intel)
 
