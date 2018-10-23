@@ -759,7 +759,7 @@ GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardwa
 <strong>
 MAVBench: Micro Aerial Vehicle Benchmarking
 </strong><br>
-<strong>[<a href="https://www.youtube.com/watch?v=GsO2kveAxZY">Lightning-talk Video</a>]</strong> Behzad Boroujerdia (University of Texas at Austin), Hasan Genc (University of Texas at Austin), Srivatsan Krishnan (University of Texas at Austin), Wenzhi Cui  (University of Texas at Austin), Aleksandra Faust (Google), Vijay Janapa Reddi (University of Texas at Austin/Google)
+<strong>[<a href="https://www.youtube.com/watch?v=GsO2kveAxZY">Lightning-talk Video</a>]</strong> Behzad Boroujerdian (University of Texas at Austin), Hasan Genc (University of Texas at Austin), Srivatsan Krishnan (University of Texas at Austin), Wenzhi Cui  (University of Texas at Austin), Aleksandra Faust (Google), Vijay Janapa Reddi (University of Texas at Austin/Google)
 </td>
 </tr>
 <tr>
